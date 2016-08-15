@@ -41,7 +41,7 @@
 	<SurgicalCut.label>Ameliyat kesiği</SurgicalCut.label>
 	<SurgicalCut.deathMessage>{0} ameliyat sırasında öldü.</SurgicalCut.deathMessage>
 	
-	<ExecutionCut.label>İdam kesigi</ExecutionCut.label>
+	<ExecutionCut.label>İdam kesiği</ExecutionCut.label>
 	<ExecutionCut.deathMessage>{0} idam edildi.</ExecutionCut.deathMessage>
 	
 </LanguageData>
