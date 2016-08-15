@@ -2,12 +2,12 @@
 <LanguageData>
 	
 	<AridShrubland.label>Kurak Çalılık</AridShrubland.label>
-	<AridShrubland.description>Kuru bir bölge, ama bir çöle dönüşmeye yetecek kadar kuru değil. Ağaçların seyrek büyümesine izin veren çimenlik ve çalılık açık ovalar. Bitkiler dayanıklı ve hayvanlar orta yoğunlukta.</AridShrubland.description>
+	<AridShrubland.description>Kuru bir bölge, ama çöle dönüşecek kadar da kuru değil. Ağaçların seyrek büyümesine izin veren çimenlik ve çalılık açık ovalar. Bitkiler dayanıklı ve hayvanlar orta yoğunlukta.</AridShrubland.description>
 	
 	<Desert.label>Çöl</Desert.label>
 	<Desert.description>Çok çorak, yaşaması zor sıcak arazi.</Desert.description>
 	
 	<ExtremeDesert.label>Şiddetli Çöl</ExtremeDesert.label>
-	<ExtremeDesert.description>Aşırı derecede sıcak, çorak bir bölge, neredeyse tamamen yaşamdan yoksun. Aşırı sıcak ve limitli bitki örtüsü burada hayatta kalmayı çok zor hale getirir, iyi adapte olmuş hayvanlar için bile.</ExtremeDesert.description>
+	<ExtremeDesert.description>Aşırı derecede sıcak, çorak bir bölge, neredeyse tamamen yaşamdan yoksun. Aşırı sıcak ve sınırlı bitki örtüsü burada hayatta kalmayı çok zor hale getirir, iyi adapte olmuş hayvanlar için bile.</ExtremeDesert.description>
 	
 </LanguageData>
