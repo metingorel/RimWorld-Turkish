@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<Alcohol.label>Alcohol</Alcohol.label>
-	<Alcohol.stages.0.label>buzzed hidden</Alcohol.stages.0.label>
-	<Alcohol.stages.1.label>warm</Alcohol.stages.1.label>
-	<Alcohol.stages.2.label>tipsy</Alcohol.stages.2.label>
-	<Alcohol.stages.3.label>drunk</Alcohol.stages.3.label>
-	<Alcohol.stages.4.label>hammered</Alcohol.stages.4.label>
-	<Alcohol.stages.5.label>blackout ?wiadomo?ci</Alcohol.stages.5.label>
+	<Alcohol.label>Alkol</Alcohol.label>
+	<Alcohol.stages.0.label>mırıldanan</Alcohol.stages.0.label>
+	<Alcohol.stages.1.label>kızarmış</Alcohol.stages.1.label>
+	<Alcohol.stages.2.label>çakırkeyf</Alcohol.stages.2.label>
+	<Alcohol.stages.3.label>sarhoş</Alcohol.stages.3.label>
+	<Alcohol.stages.4.label>ayakta duramaz</Alcohol.stages.4.label>
+	<Alcohol.stages.5.label>sızmış ?wiadomo?ci</Alcohol.stages.5.label>
 		
-	<Hangover.label>hangover</Hangover.label>
-	<Hangover.stages.0.label>slight</Hangover.stages.0.label>
-	<Hangover.stages.1.label>strong</Hangover.stages.1.label>
-	<Hangover.stages.2.label>pounding</Hangover.stages.2.label>
+	<Hangover.label>akşamdan kalma</Hangover.label>
+	<Hangover.stages.0.label>biraz</Hangover.stages.0.label>
+	<Hangover.stages.1.label>bayağı</Hangover.stages.1.label>
+	<Hangover.stages.2.label>çok fazla</Hangover.stages.2.label>
 	
 </LanguageData>
