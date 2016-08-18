@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-	<Eclipse.label>eclipse</Eclipse.label>
- 	<Eclipse.letterLabel>Eclipse</Eclipse.letterLabel>
-	<Eclipse.letterText>One of the moons of this planet has orbited in front of the sun. An eclipse has begun.</Eclipse.letterText>
+	<Eclipse.label>güneş tutulması</Eclipse.label>
+ 	<Eclipse.letterLabel>Güneş tutulması</Eclipse.letterLabel>
+	<Eclipse.letterText>Aylardan biri güneş ile gezegen arasına girdi. Ve güneş tutulması basladı.</Eclipse.letterText>
 	
-	<SolarFlare.label>solar flare</SolarFlare.label>
- 	<SolarFlare.letterLabel>Solar flare</SolarFlare.letterLabel>
-	<SolarFlare.letterText>A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day.</SolarFlare.letterText>
+	<SolarFlare.label>güneş patlaması</SolarFlare.label>
+ 	<SolarFlare.letterLabel>Güneş patlaması</SolarFlare.letterLabel>
+	<SolarFlare.letterText>Bir güneş patlaması meydana geldi.\n\nYoğun radyasyon tüm elektronik cihazları kapanmasına neden olacak.\n\nGün içerisinde etkisini yitirmesi bekleniyor..</SolarFlare.letterText>
 	
-	<PsychicDrone.label>psychic drone</PsychicDrone.label>
+	<PsychicDrone.label>psişik ses</PsychicDrone.label>
   	
-	<ToxicFallout.label>toxic fallout</ToxicFallout.label>
- 	<ToxicFallout.letterLabel>Toxic fallout</ToxicFallout.letterLabel>
-	<ToxicFallout.letterText>A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to over a month.</ToxicFallout.letterText>
+	<ToxicFallout.label>zehirli serpinti</ToxicFallout.label>
+ 	<ToxicFallout.letterLabel>Zehirli serpinti</ToxicFallout.letterLabel>
+	<ToxicFallout.letterText>Uzaklarda bir yerde gerçekleşen kimyasal bir yangın, tüm bölgeye zehirli bir serpintinin yayılmasına neden oldu.\n\nKapalı bir ortamda bulunmayan tüm yaratıklar ve insanlar atmosfere yayılan bu zehirli serpintiden yavaşça etkilenip hastalanacak.\n\nBu, bir kaç gün ile bir ay arası her yerde etkisini sürdürecek.</ToxicFallout.letterText>
 
 	<VolcanicWinter.label>volcanic winter</VolcanicWinter.label>
   	<VolcanicWinter.letterLabel>Volcanic winter</VolcanicWinter.letterLabel>
