@@ -2,7 +2,7 @@
 <LanguageData>
 	
 	<Torso.label>Göğüs</Torso.label>
-	<UpperHead.label>Kafsnın Üstü</UpperHead.label>
+	<UpperHead.label>Kafanın Üstü</UpperHead.label>
 	<FullHead.label>Kafanın Tamamı</FullHead.label>
 	<Eyes.label>Gözler</Eyes.label>
 	<Teeth.label>Diş</Teeth.label>
@@ -17,8 +17,8 @@
 	<FrontLeftPaw.label>sol ön pati</FrontLeftPaw.label>
 	<FrontRightPaw.label>sağ ön pati</FrontRightPaw.label>
 	<HeadAttackTool.label>kafa</HeadAttackTool.label>
-	<FrontLeftLeg.label>sol öm ayak</FrontLeftLeg.label>
-	<FrontRightLeg.label>sağ ön ayak</FrontRightLeg.label>
+	<FrontLeftLeg.label>sol ön bacak</FrontLeftLeg.label>
+	<FrontRightLeg.label>sağ ön bacak</FrontRightLeg.label>
 	<FrontLeftClaws.label>sol ön pençe</FrontLeftClaws.label>
 	<FrontRightClaws.label>sağ ön pençe</FrontRightClaws.label>
 	<LeftBlade.label>sol bıçak</LeftBlade.label>
