@@ -2,22 +2,22 @@
 <LanguageData>
 
 	<Spacer.label>Uzay İnsanı</Spacer.label>
-    <Spacer.description>Uzayın engin köşelerinden insanlar.</Spacer.description>
+    <Spacer.description>Uzayın engin köşelerinden gelen insanlar.</Spacer.description>
 	<Spacer.pawnsPlural>Uzay İnsanı</Spacer.pawnsPlural>
 	<Spacer.fixedName>Uzay İnsanı</Spacer.fixedName>
 	
 	<SpacerHostile.label>Düşman Uzay İnsanı</SpacerHostile.label>
-    <SpacerHostile.description>Uzayın engin köşelerinden insanlar.</SpacerHostile.description>
+    <SpacerHostile.description>Uzayın engin köşelerinden gelen insanlar.</SpacerHostile.description>
 	<SpacerHostile.pawnsPlural>Uzay İnsanı</SpacerHostile.pawnsPlural>
 	<SpacerHostile.fixedName>Uzay İnsanı</SpacerHostile.fixedName>
 
-	<Mechanoid.label>Mekanik Kovan</Mechanoid.label>
-    <Mechanoid.description>Kendini kopyalayan makinaların antik kovanı.</Mechanoid.description>
+	<Mechanoid.label>Mekanoid yuvası</Mechanoid.label>
+    <Mechanoid.description>Kendini kopyalayan makinaların antik yuvası.</Mechanoid.description>
 	<Mechanoid.pawnsPlural>Mekanikler</Mechanoid.pawnsPlural>
-	<Mechanoid.fixedName>Mekanik Kovan</Mechanoid.fixedName>
+	<Mechanoid.fixedName>Mekanik Yuva</Mechanoid.fixedName>
 	
 	<Insect.label>Böcekler/Insect.label>
-	<Insect.description>Genelde agresif ve davetsiz olan böcekler.</Insect.description>
+	<Insect.description>Genelde agresif ve ansızın gelen böcekler.</Insect.description>
 	<Insect.pawnsPlural>Böcekler</Insect.pawnsPlural>
 	<Insect.fixedName>Böcekler</Insect.fixedName>
 
