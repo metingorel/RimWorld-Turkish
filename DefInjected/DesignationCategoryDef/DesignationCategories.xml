@@ -22,7 +22,7 @@
 	<Security.label>Güvenlik</Security.label>
     <Security.description>Security and combat-oriented constructions.</Security.description>	
 	
-	<Misc.label>Çeşitli</Misc.label>
+	<Misc.label>Diğer</Misc.label>
     <Misc.description>Miscellaneous constructibles.</Misc.description>	
 	
 	<Floors.label>Zeminler</Floors.label>
@@ -31,7 +31,7 @@
 	<Joy.label>Eğlence</Joy.label>
 	<Joy.description>Entertaining or pleasurable things for colonists to enjoy.</Joy.description>
 	
-	<Ship.label>Gemi</Ship.label>
+	<Ship.label>Uzay Gemisi</Ship.label>
 	<Ship.description>Components of your escape ship.</Ship.description>
 		
 	<Temperature.label>Sıcaklık</Temperature.label>
