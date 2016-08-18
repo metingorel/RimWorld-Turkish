@@ -7,7 +7,7 @@
 	<Population.label>Popülasyon</Population.label>
 	<Population.graphLabelY>Kolonistler</Population.graphLabelY>
     
-	<ColonistMood.label>Kolonist modu</ColonistMood.label>
+	<ColonistMood.label>Kolonici modu</ColonistMood.label>
 	<ColonistMood.graphLabelY>Oran</ColonistMood.graphLabelY>
     
 </LanguageData>
