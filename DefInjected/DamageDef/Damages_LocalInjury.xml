@@ -2,36 +2,36 @@
 <LanguageData>
 	
 	<Cut.label>Kesik</Cut.label>
-	<Cut.deathMessage>{0} kesilerek öldü .</Cut.deathMessage>
+	<Cut.deathMessage>{0} kesilerek öldürüldü .</Cut.deathMessage>
 	
 	<Crush.label>Ezilmek</Crush.label>
-	<Crush.deathMessage>{0} ezilerek öldü.</Crush.deathMessage>
+	<Crush.deathMessage>{0} ezilerek öldürüldü.</Crush.deathMessage>
 	
 	<Blunt.label>Sopa</Blunt.label>
-	<Blunt.deathMessage>{0} dövülerek öldürüldü..</Blunt.deathMessage>
+	<Blunt.deathMessage>{0} dövülerek öldürüldü.</Blunt.deathMessage>
 	
 	<Stab.label>Bıçaklama</Stab.label>
-	<Stab.deathMessage>{0} bıçaklanarak öldü.</Stab.deathMessage>
+	<Stab.deathMessage>{0} bıçaklanarak öldürüldü.</Stab.deathMessage>
 	
 	<Bullet.label>Mermi</Bullet.label>
-	<Bullet.deathMessage>{0} vurularak öldü.</Bullet.deathMessage>
+	<Bullet.deathMessage>{0} vurularak öldürüldü.</Bullet.deathMessage>
 	
 	<Arrow.label>Ok</Arrow.label>
-	<Arrow.deathMessage>{0} vurularak öldü.</Arrow.deathMessage>
+	<Arrow.deathMessage>{0} vurularak öldürüldü.</Arrow.deathMessage>
 	
 	<Scratch.label>Çizik</Scratch.label></Scratch.label>
-	<Scratch.deathMessage>{0} parçalara ayrılarak öldü.</Scratch.deathMessage>
+	<Scratch.deathMessage>{0} parçalara ayrılarak öldürüldü.</Scratch.deathMessage>
 	
 	<Bite.label>Isırık</Bite.label>
-	<Bite.deathMessage>{0} ısırılarak öldü.</Bite.deathMessage>
+	<Bite.deathMessage>{0} ısırılarak öldürüldü.</Bite.deathMessage>
 	
 	<ToxicBite.label>Zehirli Isırık</ToxicBite.label>
 	
 	<Bomb.label>Bomba</Bomb.label>
-	<Bomb.deathMessage>{0} patlama nedeniyle öldü.</Bomb.deathMessage>
+	<Bomb.deathMessage>{0} patlama nedeniyle öldürüldü.</Bomb.deathMessage>
 	
 	<Flame.label>Ateş</Flame.label>
-	<Flame.deathMessage>{0} yanarak öldü.</Flame.deathMessage>
+	<Flame.deathMessage>{0} yanarak öldürüldü.</Flame.deathMessage>
 	
 	<Burn.label>Yanık</Burn.label>
 	
