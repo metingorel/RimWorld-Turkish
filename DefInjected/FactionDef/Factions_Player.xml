@@ -3,7 +3,7 @@
   
   <PlayerColony.label>Koloni</PlayerColony.label>
   <PlayerColony.description>Senin Kolonin.</PlayerColony.description>
-  <PlayerColony.pawnsPlural>Kolonist</PlayerColony.pawnsPlural>
+  <PlayerColony.pawnsPlural>Kolonici</PlayerColony.pawnsPlural>
 
   <PlayerTribe.label>Kabile</PlayerTribe.label>
   <PlayerTribe.description>Senin kabilen.</PlayerTribe.description>
