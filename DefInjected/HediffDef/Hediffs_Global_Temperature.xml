@@ -2,14 +2,14 @@
 <LanguageData>
 	
 	<Heatstroke.label>Sıcak çarpması</Heatstroke.label>
-	<Heatstroke.stages.0.label>Başlangıç-anlaşılmaz</Heatstroke.stages.0.label>
+	<Heatstroke.stages.0.label>Başlangıç-Henüz farkedilemeyecek seviyede</Heatstroke.stages.0.label>
 	<Heatstroke.stages.1.label>Çok Hafif</Heatstroke.stages.1.label>
 	<Heatstroke.stages.2.label>Hafif</Heatstroke.stages.2.label>
 	<Heatstroke.stages.3.label>Ciddi</Heatstroke.stages.3.label>
 	<Heatstroke.stages.4.label>Aşırı</Heatstroke.stages.4.label>
 		
 	<Hypothermia.label>Hipotermi</Hypothermia.label>
-	<Hypothermia.stages.0.label>Başlangıç-Anlaşılmaz</Hypothermia.stages.0.label>
+	<Hypothermia.stages.0.label>Başlangıç-Henüz farkedilemeyecek seviyede</Hypothermia.stages.0.label>
 	<Hypothermia.stages.1.label>Çok Hafif</Hypothermia.stages.1.label>
 	<Hypothermia.stages.2.label>Hafif</Hypothermia.stages.2.label>
 	<Hypothermia.stages.3.label>Ciddi</Hypothermia.stages.3.label>
