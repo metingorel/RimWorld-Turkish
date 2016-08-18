@@ -5,16 +5,16 @@
 	
 	<Mining.label>Kazı</Mining.label>
 	
-	<Rotting.label>Çürüyor</Rotting.label>
+	<Rotting.label>Çürüme</Rotting.label>
 	
-	<Extinguish.label>Söndür</Extinguish.label>
+	<Extinguish.label>Söndürme</Extinguish.label>
 	
   <!-- Stun -->
   
 	<Stun.label>Sersemlet</Stun.label>
-	<Stun.deathMessage>{0} sersemletilerek öldü.</Stun.deathMessage>
+	<Stun.deathMessage>{0} sersemletilerek öldürüldü.</Stun.deathMessage>
 	
 	<EMP.label>EMP</EMP.label>
-	<EMP.deathMessage>{0} EMP ile öldü.</EMP.deathMessage>
+	<EMP.deathMessage>{0} EMP ile öldürüldü.</EMP.deathMessage>
 	
 </LanguageData>
