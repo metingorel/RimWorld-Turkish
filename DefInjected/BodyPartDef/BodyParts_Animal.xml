@@ -48,19 +48,19 @@
 	
 	<!-- animals legs -->
 	
-	<FrontLeftLeg.label>ön sol ayak</FrontLeftLeg.label>
-	<FrontRightLeg.label>ön sağ ayak</FrontRightLeg.label>
-	<MiddleLeftLeg.label>orta sol ayak</MiddleLeftLeg.label>
-	<MiddleRightLeg.label>orta sağ ayak</MiddleRightLeg.label>
-	<RearLeftLeg.label>Arka sol ayak</RearLeftLeg.label>
-	<RearRightLeg.label>Arka sağ ayak</RearRightLeg.label>
+	<FrontLeftLeg.label>ön sol bacak</FrontLeftLeg.label>
+	<FrontRightLeg.label>ön sağ bacak</FrontRightLeg.label>
+	<MiddleLeftLeg.label>orta sol bacak</MiddleLeftLeg.label>
+	<MiddleRightLeg.label>orta sağ bacak</MiddleRightLeg.label>
+	<RearLeftLeg.label>Arka sol bacak</RearLeftLeg.label>
+	<RearRightLeg.label>Arka sağ bacak</RearRightLeg.label>
 	
-	<FrontLeftInsectLeg.label>ön sol ayak</FrontLeftInsectLeg.label>
-	<FrontRightInsectLeg.label>ön sağ ayak</FrontRightInsectLeg.label>
-	<MiddleLeftInsectLeg.label>orta sol ayak</MiddleLeftInsectLeg.label>
-	<MiddleRightInsectLeg.label>orta sağ ayak</MiddleRightInsectLeg.label>
-	<RearLeftInsectLeg.label>Arka sol ayak</RearLeftInsectLeg.label>
-	<RearRightInsectLeg.label>Arka sağ ayak</RearRightInsectLeg.label>
+	<FrontLeftInsectLeg.label>ön sol bacak</FrontLeftInsectLeg.label>
+	<FrontRightInsectLeg.label>ön sağ bacak</FrontRightInsectLeg.label>
+	<MiddleLeftInsectLeg.label>orta sol bacak</MiddleLeftInsectLeg.label>
+	<MiddleRightInsectLeg.label>orta sağ bacak</MiddleRightInsectLeg.label>
+	<RearLeftInsectLeg.label>Arka sol bacak</RearLeftInsectLeg.label>
+	<RearRightInsectLeg.label>Arka sağ bacak</RearRightInsectLeg.label>
 	
 	<FrontLeftPaw.label>ön sol pençe</FrontLeftPaw.label>
 	<FrontRightPaw.label>ön sağ pençe</FrontRightPaw.label>
@@ -71,26 +71,26 @@
 	<RearLeftHoof.label>ön sol toynak</RearLeftHoof.label>
 	<RearRightHoof.label>ön sağ toynak</RearRightHoof.label>
 	
-	<FrontLeftLegFirstClaw.label>ön sol ayak birinci pençe</FrontLeftLegFirstClaw.label>
-	<FrontLeftLegSecondClaw.label>ön sol ayak ikinci pençe</FrontLeftLegSecondClaw.label>
-	<FrontLeftLegThirdClaw.label>ön sol ayak üçüncü pençe</FrontLeftLegThirdClaw.label>
-	<FrontLeftLegFourthClaw.label>ön sol ayak dördüncü pençe</FrontLeftLegFourthClaw.label>
-	<FrontLeftLegFifthClaw.label>ön sol ayak beşinci pençe</FrontLeftLegFifthClaw.label>
-	<FrontRightLegFirstClaw.label>ön sağ ayak birinci pençe</FrontRightLegFirstClaw.label>
-	<FrontRightLegSecondClaw.label>ön sağ ayak ikinci pençe</FrontRightLegSecondClaw.label>
-	<FrontRightLegThirdClaw.label>ön sağ ayak üçüncü pençe</FrontRightLegThirdClaw.label>
-	<FrontRightLegFourthClaw.label>ön sağ ayak dördüncü pençe</FrontRightLegFourthClaw.label>
-	<FrontRightLegFifthClaw.label>ön sağ ayak beşinci pençe</FrontRightLegFifthClaw.label>
+	<FrontLeftLegFirstClaw.label>ön sol bacak birinci pençe</FrontLeftLegFirstClaw.label>
+	<FrontLeftLegSecondClaw.label>ön sol bacak ikinci pençe</FrontLeftLegSecondClaw.label>
+	<FrontLeftLegThirdClaw.label>ön sol bacak üçüncü pençe</FrontLeftLegThirdClaw.label>
+	<FrontLeftLegFourthClaw.label>ön sol bacak dördüncü pençe</FrontLeftLegFourthClaw.label>
+	<FrontLeftLegFifthClaw.label>ön sol bacak beşinci pençe</FrontLeftLegFifthClaw.label>
+	<FrontRightLegFirstClaw.label>ön sağ bacak birinci pençe</FrontRightLegFirstClaw.label>
+	<FrontRightLegSecondClaw.label>ön sağ bacak ikinci pençe</FrontRightLegSecondClaw.label>
+	<FrontRightLegThirdClaw.label>ön sağ bacak üçüncü pençe</FrontRightLegThirdClaw.label>
+	<FrontRightLegFourthClaw.label>ön sağ bacak dördüncü pençe</FrontRightLegFourthClaw.label>
+	<FrontRightLegFifthClaw.label>ön sağ bacak beşinci pençe</FrontRightLegFifthClaw.label>
 	
-	<RearLeftLegFirstClaw.label>arka sol ayak birinci pençe</RearLeftLegFirstClaw.label>
-	<RearLeftLegSecondClaw.label>arka sol ayak ikinci pençe</RearLeftLegSecondClaw.label>
-	<RearLeftLegThirdClaw.label>arka sol ayak üçüncü pençe</RearLeftLegThirdClaw.label>
-	<RearLeftLegFourthClaw.label>arka sol ayak dördüncü pençe</RearLeftLegFourthClaw.label>
-	<RearLeftLegFifthClaw.label>arka sol ayak beşinci pençe</RearLeftLegFifthClaw.label>
-	<RearRightLegFirstClaw.label>arka sağ ayak birinci pençe</RearRightLegFirstClaw.label>
-	<RearRightLegSecondClaw.label>arka sağ ayak ikinci pençe</RearRightLegSecondClaw.label>
-	<RearRightLegThirdClaw.label>arka sağ ayak üçüncü pençe</RearRightLegThirdClaw.label>
-	<RearRightLegFourthClaw.label>arka sağ ayak dördüncü pençe</RearRightLegFourthClaw.label>
-	<RearRightLegFifthClaw.label>arka sağ ayak beşinci pençe</RearRightLegFifthClaw.label>
+	<RearLeftLegFirstClaw.label>arka sol bacak birinci pençe</RearLeftLegFirstClaw.label>
+	<RearLeftLegSecondClaw.label>arka sol bacak ikinci pençe</RearLeftLegSecondClaw.label>
+	<RearLeftLegThirdClaw.label>arka sol bacak üçüncü pençe</RearLeftLegThirdClaw.label>
+	<RearLeftLegFourthClaw.label>arka sol bacak dördüncü pençe</RearLeftLegFourthClaw.label>
+	<RearLeftLegFifthClaw.label>arka sol bacak beşinci pençe</RearLeftLegFifthClaw.label>
+	<RearRightLegFirstClaw.label>arka sağ bacak birinci pençe</RearRightLegFirstClaw.label>
+	<RearRightLegSecondClaw.label>arka sağ bacak ikinci pençe</RearRightLegSecondClaw.label>
+	<RearRightLegThirdClaw.label>arka sağ bacak üçüncü pençe</RearRightLegThirdClaw.label>
+	<RearRightLegFourthClaw.label>arka sağ bacak dördüncü pençe</RearRightLegFourthClaw.label>
+	<RearRightLegFifthClaw.label>arka sağ bacak beşinci pençe</RearRightLegFifthClaw.label>
 	
 </LanguageData>
