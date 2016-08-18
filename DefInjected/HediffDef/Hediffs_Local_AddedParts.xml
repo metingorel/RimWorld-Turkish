@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<PegLeg.label>Tahta bacak</PegLeg.label>
+	<PegLeg.label>Tahta Bacak</PegLeg.label>
 	
-	<Denture.label>Takma diş</Denture.label>
+	<Denture.label>Takma Diş</Denture.label>
 	
-	<SimpleProstheticLeg.label>Basit protez bacak</SimpleProstheticLeg.label>
+	<SimpleProstheticLeg.label>Basit Protez Bacak</SimpleProstheticLeg.label>
 	
-	<SimpleProstheticArm.label>Basit protez kol</SimpleProstheticArm.label>
+	<SimpleProstheticArm.label>Basit Protez Kol</SimpleProstheticArm.label>
 	
-	<BionicEye.label>Biyonik göz</BionicEye.label>
+	<BionicEye.label>Biyonik Göz</BionicEye.label>
 	
-	<BionicArm.label>Biyonik kol</BionicArm.label>
+	<BionicArm.label>Biyonik Kol</BionicArm.label>
 	
 	<BionicLeg.label>Biyonik Bacak</BionicLeg.label>
 	
