@@ -2,18 +2,18 @@
 <LanguageData>
 	
 	<FreePlay.label>Serbest oyun</FreePlay.label>
-    <FreePlay.description>Sandbox benzeri bir ortamda koloni kurmaya odaklı oyun tarzı. Tehditler ortaya çıkar, ancak son derece zayıftırlar.</FreePlay.description>
+    <FreePlay.description>Sandbox benzeri bir ortamda koloni kurmaya odaklı oyun tarzı. Tehditler ortaya çıkar, ancak son derece zayıftır.</FreePlay.description>
 	
 	<Basebuilder.label>Üs Kurucu</Basebuilder.label>
     <Basebuilder.description>Üs kurmaya odaklı oyun tarzı. Tehditler oldukça zayıflatılmıştır.</Basebuilder.description>
 	
 	<Rough.label>Sert</Rough.label>
-    <Rough.description>Haşin bir gezegen. Tehditler oldukça tehlikeli olabilir, ayrıca kolonist morallerini ve mahsulleri artırıcı efektler kaldırılır.</Rough.description>
+    <Rough.description>Haşin bir gezegen. Tehditler oldukça tehlikeli olabilir; ayrıca kolonicilerin morallerini ve mahsulleri arttıran etkenler kaldırılmıştır.</Rough.description>
 	
 	<Challenge.label>Zorlayıcı</Challenge.label>
-    <Challenge.description>Zorlayıcı bir oyun. Bu seviye hayatta kalmak için strateji, taktik ve şans gerektirir. Rimworld'ün tavsiye edilen zorluk tecrübesi.</Challenge.description>
+    <Challenge.description>Zorlayıcı bir oyun. Bu seviye; hayatta kalmak için strateji, taktik ve şans gerektirir. Rimworld'ün tavsiye edilen zorluk tecrübesi.</Challenge.description>
 	
 	<Extreme.label>Aşırı Zor</Extreme.label>
-    <Extreme.description> Elmas bir hançer kadar sert. Düşmanlar güçlü, fiyatlar kötü, yiyecekler kıt ve kolonistler huysuz. Dijital ızdırabı sevenler için.</Extreme.description>
+    <Extreme.description> Elmas bir hançer kadar sert. Düşmanlar güçlü, fiyatlar yüksek, yiyecekler kıt ve kolonistler huysuz. Dijital ızdırabı sevenler için.</Extreme.description>
 	
 </LanguageData>
