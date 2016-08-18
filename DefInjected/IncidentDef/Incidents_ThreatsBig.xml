@@ -5,17 +5,17 @@
 
 	<Infestation.label>İstila</Infestation.label>
 	<Infestation.letterLabel>İstila</Infestation.letterLabel>
-	<Infestation.letterText>Bir böcek kovanı ortaya çıktı!\n\nYavaşça başka kovanlar üreteceği gibi kovanlardan böcek üretecek. Eğer heryerin istila edilmesini istemiyosan, güçlerini topla ve kovanı yok et. Ama dikkatli ol - Böcekler kovanı koruyacaktır.</Infestation.letterText>
+	<Infestation.letterText>Bir böcek yuvası ortaya çıktı!\n\nBu yuva yavaşça başka yuvaların da oluşmasına neden olacak, oluşan bu yavalar da yeni böcekler üretecek. Eğer her yerin böceklerce istila edilmesini istemiyosan, güçlerini topla ve bu yuvayı yok et. Ama dikkatli ol - Böcekler yuvalarını koruyacaktır.</Infestation.letterText>
   
 	<ManhunterPack.label>Cani Hayvan Sürüsü</ManhunterPack.label>
   
-	<PsychicEmanatorShipPartCrash.label>Gemi parçası çarpması  (Psişik)</PsychicEmanatorShipPartCrash.label>
-	<PsychicEmanatorShipPartCrash.letterLabel>Psişik Gemi</PsychicEmanatorShipPartCrash.letterLabel>
-	<PsychicEmanatorShipPartCrash.letterText>Antik bir geminin büyük bir parçası yakınlarda yüzüye çarpt.\n\nKolonistlerin akıllarında birşeyler hissediyorlar , dilegelmez davranışlara teşvik ediyor. Gemide çalışan ve psişik yeteneklere sahip olan bir AI olmalı. Ve AI dost canlısı değil.\n\nMümkün olduğunca çabuk yok et.</PsychicEmanatorShipPartCrash.letterText>
+	<PsychicEmanatorShipPartCrash.label>Uzay Gemisi parçasının yere düşmesi  (Psişik)</PsychicEmanatorShipPartCrash.label>
+	<PsychicEmanatorShipPartCrash.letterLabel>Psişik Uzay Gemisi</PsychicEmanatorShipPartCrash.letterLabel>
+	<PsychicEmanatorShipPartCrash.letterText>Eski çağlardan kalma bir uzay gemisinin büyük bir parçası yakınlarda bir yere düştü.\n\nKolonicilerin zihinlerinde birşeyler hissediyor , sanki bu düşen gemi parçası, onları garip davranışlara teşvik ediyor. Uzay Gemisinde çalışan ve psişik yeteneklere sahip olan bir AI olmalı. Ve bu AI dost canlısı değil.\n\nMümkün olduğunca çabuk O' nu yok etmelisin.</PsychicEmanatorShipPartCrash.letterText>
 
-	<PoisonShipPartCrash.label>Gemi parçası çarpması (Zehirli)</PoisonShipPartCrash.label>
-	<PoisonShipPartCrash.letterLabel>Zehirli Gemi</PoisonShipPartCrash.letterLabel>
-	<PoisonShipPartCrash.letterText>Antik bir geminin büyük bir parçası yakınlarda yüzüye çarptı.\n\nToksik bir materyal salgılıyor ve etrafındaki bütün bitkileri yok edicek şekilde yayılıyor.\n\nMümkün olduğunca çabuk yok et.</PoisonShipPartCrash.letterText>
+	<PoisonShipPartCrash.label>Uzay Gemisi parçasının yere düşmesi (Zehirli)</PoisonShipPartCrash.label>
+	<PoisonShipPartCrash.letterLabel>Zehirli Uzay Gemi</PoisonShipPartCrash.letterLabel>
+	<PoisonShipPartCrash.letterText>Eski çağlardan kalma bir uzay gemisinin büyük bir parçası yakınlarda bir yere düştü.\n\nToksik bir materyal düşen parçadan etrafa yayılıyor ve etrafındaki bütün bitkileri yok edecek.\n\nMümkün olduğunca çabuk zehir salınmasını durduryok et.</PoisonShipPartCrash.letterText>
 	
 	<AnimalInsanityMass.label>Bir hayvan kudurdu</AnimalInsanityMass.label>
   
