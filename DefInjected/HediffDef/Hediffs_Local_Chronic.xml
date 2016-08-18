@@ -13,29 +13,29 @@
 	
 	<Alzheimers.label>Alzheimer</Alzheimers.label>
 	<Alzheimers.stages.0.label>Başlangıç</Alzheimers.stages.0.label>
-	<Alzheimers.stages.1.label>Başlangıç</Alzheimers.stages.1.label>
+	<Alzheimers.stages.1.label>Orta</Alzheimers.stages.1.label>
 	<Alzheimers.stages.2.label>İleri</Alzheimers.stages.2.label>
-	<Alzheimers.stages.3.label>İleri</Alzheimers.stages.3.label>
+	<Alzheimers.stages.3.label>Çok İleri</Alzheimers.stages.3.label>
   
 	<Asthma.label>Astım</Asthma.label>
 	<Asthma.stages.0.label>Hafif</Asthma.stages.0.label>
 	<Asthma.stages.1.label>İleri</Asthma.stages.1.label>
-	<Asthma.stages.2.label>İleri</Asthma.stages.2.label>
+	<Asthma.stages.2.label>Çok İleri</Asthma.stages.2.label>
 
-	<HeartArteryBlockage.label>Aort tıkanıklığı</HeartArteryBlockage.label>
-	<HeartArteryBlockage.stages.0.label>Hafif</HeartArteryBlockage.stages.0.label>
+	<HeartArteryBlockage.label>Kalp Yetmezliği</HeartArteryBlockage.label>
+	<HeartArteryBlockage.stages.0.label>Çok Hafif</HeartArteryBlockage.stages.0.label>
 	<HeartArteryBlockage.stages.1.label>Hafif</HeartArteryBlockage.stages.1.label>
-	<HeartArteryBlockage.stages.2.label>ileri</HeartArteryBlockage.stages.2.label>owa?ny</HeartArteryBlockage.stages.2.label>
-	<HeartArteryBlockage.stages.3.label>ileri</HeartArteryBlockage.stages.3.label>
+	<HeartArteryBlockage.stages.2.label>İleri</HeartArteryBlockage.stages.2.label>owa?ny</HeartArteryBlockage.stages.2.label>
+	<HeartArteryBlockage.stages.3.label>Çok İleri</HeartArteryBlockage.stages.3.label>
 	<HeartArteryBlockage.stages.4.label>Aşırı</HeartArteryBlockage.stages.4.label>
-	<HeartArteryBlockage.stages.5.label>Aşırı</HeartArteryBlockage.stages.5.label>
+	<HeartArteryBlockage.stages.5.label>Çok Aşırı</HeartArteryBlockage.stages.5.label>
 
 	<Carcinoma.label>Kanser</Carcinoma.label>
-	<Carcinoma.stages.0.label>Hafif</Carcinoma.stages.0.label>
+	<Carcinoma.stages.0.label>Çok Hafif</Carcinoma.stages.0.label>
 	<Carcinoma.stages.1.label>Hafif</Carcinoma.stages.1.label>
 	<Carcinoma.stages.2.label>İleri</Carcinoma.stages.2.label>
-	<Carcinoma.stages.3.label>İleri</Carcinoma.stages.3.label>
+	<Carcinoma.stages.3.label>Çok İleri</Carcinoma.stages.3.label>
 	<Carcinoma.stages.4.label>Aşırı</Carcinoma.stages.4.label>
-	<Carcinoma.stages.5.label>Aşırı</Carcinoma.stages.5.label>
+	<Carcinoma.stages.5.label>Çok Aşırı</Carcinoma.stages.5.label>
 	
 </LanguageData>
