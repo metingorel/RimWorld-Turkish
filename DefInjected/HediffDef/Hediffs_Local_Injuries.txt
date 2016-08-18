@@ -6,8 +6,8 @@
 	<Misc.comps.0.labelTreated>kötü sarılmış</Misc.comps.0.labelTreated>
 	<Misc.comps.0.labelTreatedWellInner>dikiş atılmış</Misc.comps.0.labelTreatedWellInner>
 	<Misc.comps.0.labelTreatedInner>kötü dikiş atılmış</Misc.comps.0.labelTreatedInner>
-	<Misc.comps.0.labelSolidTreatedWell>set</Misc.comps.0.labelSolidTreatedWell>
-	<Misc.comps.0.labelSolidTreated>poorly set</Misc.comps.0.labelSolidTreated>
+	<Misc.comps.0.labelSolidTreatedWell>bir araya getirilmiş</Misc.comps.0.labelSolidTreatedWell>
+	<Misc.comps.0.labelSolidTreated>kötü bir araya getirilmiş</Misc.comps.0.labelSolidTreated>
 	<Misc.injuryProps.destroyedLabel>Tahrip olmuş</Misc.injuryProps.destroyedLabel>
 		
 	<Burn.label>yanık</Burn.label>
@@ -15,8 +15,8 @@
 	<Burn.comps.0.labelTreated>kötü sarılmış</Burn.comps.0.labelTreated>
 	<Burn.comps.0.labelTreatedWellInner>dikiş atılmış</Burn.comps.0.labelTreatedWellInner>
 	<Burn.comps.0.labelTreatedInner>kötü dikiş atılmış</Burn.comps.0.labelTreatedInner>
-	<Burn.comps.0.labelSolidTreatedWell>set</Burn.comps.0.labelSolidTreatedWell>
-	<Burn.comps.0.labelSolidTreated>poorly set</Burn.comps.0.labelSolidTreated>
+	<Burn.comps.0.labelSolidTreatedWell>bir araya getirilmiş</Burn.comps.0.labelSolidTreatedWell>
+	<Burn.comps.0.labelSolidTreated>kötü bir araya getirilmiş</Burn.comps.0.labelSolidTreated>
 	<Burn.comps.2.oldLabel>yanık yarası</Burn.comps.2.oldLabel>
 	<Burn.injuryProps.destroyedLabel>İç yanık</Burn.injuryProps.destroyedLabel>
 	<Burn.injuryProps.destroyedOutLabel>Dış yanık</Burn.injuryProps.destroyedOutLabel>
@@ -26,8 +26,8 @@
 	<Crush.comps.0.labelTreated>kötü sarılmış</Crush.comps.0.labelTreated>
 	<Crush.comps.0.labelTreatedWellInner>dikiş atılmış</Crush.comps.0.labelTreatedWellInner>
 	<Crush.comps.0.labelTreatedInner>kötü dikiş atılmış</Crush.comps.0.labelTreatedInner>
-	<Crush.comps.0.labelSolidTreatedWell>set</Crush.comps.0.labelSolidTreatedWell>
-	<Crush.comps.0.labelSolidTreated>poorly set</Crush.comps.0.labelSolidTreated>
+	<Crush.comps.0.labelSolidTreatedWell>bir araya getirilmiş</Crush.comps.0.labelSolidTreatedWell>
+	<Crush.comps.0.labelSolidTreated>kötü bir araya getirilmiş</Crush.comps.0.labelSolidTreated>
 	<Crush.comps.2.oldLabel>yara</Crush.comps.2.oldLabel>
 	<Crush.injuryProps.destroyedLabel>ezilmiş</Crush.injuryProps.destroyedLabel>
 	
@@ -36,8 +36,8 @@
 	<Crack.comps.0.labelTreated>kötü kaynamış</Crack.comps.0.labelTreated>
 	<Crack.comps.0.labelTreatedWellInner>iyileşmiş</Crack.comps.0.labelTreatedWellInner>
 	<Crack.comps.0.labelTreatedInner>kötü kaynamış</Crack.comps.0.labelTreatedInner>
-	<Crack.comps.0.labelSolidTreatedWell>set</Crack.comps.0.labelSolidTreatedWell>
-	<Crack.comps.0.labelSolidTreated>poorly set</Crack.comps.0.labelSolidTreated>
+	<Crack.comps.0.labelSolidTreatedWell>bir araya getirilmiş</Crack.comps.0.labelSolidTreatedWell>
+	<Crack.comps.0.labelSolidTreated>kötü bir araya getirilmiş</Crack.comps.0.labelSolidTreated>
 	<Crack.injuryProps.destroyedLabel>Parçalanmış</Crack.injuryProps.destroyedLabel>
 		
 	<Cut.label>kesik</Cut.label>
@@ -45,8 +45,8 @@
 	<Cut.comps.0.labelTreated>kötü sarılmış</Cut.comps.0.labelTreated>
 	<Cut.comps.0.labelTreatedWellInner>dikiş atılmış</Cut.comps.0.labelTreatedWellInner>
 	<Cut.comps.0.labelTreatedInner>kötü dikiş atılmış</Cut.comps.0.labelTreatedInner>
-	<Cut.comps.0.labelSolidTreatedWell>set</Cut.comps.0.labelSolidTreatedWell>
-	<Cut.comps.0.labelSolidTreated>poorly set</Cut.comps.0.labelSolidTreated>
+	<Cut.comps.0.labelSolidTreatedWell>bir araya getirilmiş</Cut.comps.0.labelSolidTreatedWell>
+	<Cut.comps.0.labelSolidTreated>kötü bir araya getirilmiş</Cut.comps.0.labelSolidTreated>
 	<Cut.comps.2.oldLabel>kesik yarası</Cut.comps.2.oldLabel>
 	<Cut.injuryProps.destroyedLabel>iç kesik</Cut.injuryProps.destroyedLabel>
 	<Cut.injuryProps.destroyedOutLabel>Dış kesik</Cut.injuryProps.destroyedOutLabel>
@@ -56,84 +56,84 @@
 	<SurgicalCut.comps.0.labelTreated>kötü sarılmış</SurgicalCut.comps.0.labelTreated>
 	<SurgicalCut.comps.0.labelTreatedWellInner>dikiş atılmış</SurgicalCut.comps.0.labelTreatedWellInner>
 	<SurgicalCut.comps.0.labelTreatedInner>kötü dikiş atılmış</SurgicalCut.comps.0.labelTreatedInner>
-	<SurgicalCut.comps.0.labelSolidTreatedWell>set</SurgicalCut.comps.0.labelSolidTreatedWell>
-	<SurgicalCut.comps.0.labelSolidTreated>poorly set</SurgicalCut.comps.0.labelSolidTreated>
+	<SurgicalCut.comps.0.labelSolidTreatedWell>bir araya getirilmiş</SurgicalCut.comps.0.labelSolidTreatedWell>
+	<SurgicalCut.comps.0.labelSolidTreated>kötü bir araya getirilmiş</SurgicalCut.comps.0.labelSolidTreated>
 	<SurgicalCut.comps.1.oldLabel>kesik yarası</SurgicalCut.comps.1.oldLabel>
 	
-	<Scratch.label>scratch</Scratch.label>
+	<Scratch.label>sıyrık</Scratch.label>
 	<Scratch.comps.0.labelTreatedWell>sarılı</Scratch.comps.0.labelTreatedWell>
 	<Scratch.comps.0.labelTreated>kötü sarılmış</Scratch.comps.0.labelTreated>>
 	<Scratch.comps.0.labelTreatedWellInner>dikiş atılmış</Scratch.comps.0.labelTreatedWellInner>
 	<Scratch.comps.0.labelTreatedInner>kötü dikiş atılmış</Scratch.comps.0.labelTreatedInner>
-	<Scratch.comps.0.labelSolidTreatedWell>set</Scratch.comps.0.labelSolidTreatedWell>
-	<Scratch.comps.0.labelSolidTreated>poorly set</Scratch.comps.0.labelSolidTreated>
-	<Scratch.comps.2.oldLabel>scratch scar</Scratch.comps.2.oldLabel>
-	<Scratch.injuryProps.destroyedLabel>Torn off</Scratch.injuryProps.destroyedLabel>
-	<Scratch.injuryProps.destroyedOutLabel>Torn out</Scratch.injuryProps.destroyedOutLabel>
+	<Scratch.comps.0.labelSolidTreatedWell>bir araya getirilmiş</Scratch.comps.0.labelSolidTreatedWell>
+	<Scratch.comps.0.labelSolidTreated>kötü bir araya getirilmiş</Scratch.comps.0.labelSolidTreated>
+	<Scratch.comps.2.oldLabel>Sıyrık yarası</Scratch.comps.2.oldLabel>
+	<Scratch.injuryProps.destroyedLabel>Yırtık</Scratch.injuryProps.destroyedLabel>
+	<Scratch.injuryProps.destroyedOutLabel>Yırtılarak koparılmış</Scratch.injuryProps.destroyedOutLabel>
 		
-	<Bite.label>bite</Bite.label>
+	<Bite.label>ısırık yarası</Bite.label>
 	<Bite.comps.0.labelTreatedWell>sarılı</Bite.comps.0.labelTreatedWell>
 	<Bite.comps.0.labelTreated>kötü sarılmış</Bite.comps.0.labelTreated>
 	<Bite.comps.0.labelTreatedWellInner>dikiş atılmış</Bite.comps.0.labelTreatedWellInner>
 	<Bite.comps.0.labelTreatedInner>kötü dikiş atılmış</Bite.comps.0.labelTreatedInner>
-	<Bite.comps.0.labelSolidTreatedWell>set</Bite.comps.0.labelSolidTreatedWell>
-	<Bite.comps.0.labelSolidTreated>poorly set</Bite.comps.0.labelSolidTreated>
-	<Bite.comps.2.oldLabel>bite scar</Bite.comps.2.oldLabel>
-	<Bite.injuryProps.destroyedLabel>Bitten off</Bite.injuryProps.destroyedLabel>
-	<Bite.injuryProps.destroyedOutLabel>Bitten out</Bite.injuryProps.destroyedOutLabel>
+	<Bite.comps.0.labelSolidTreatedWell>bir araya getirilmiş</Bite.comps.0.labelSolidTreatedWell>
+	<Bite.comps.0.labelSolidTreated>kötü bir araya getirilmiş</Bite.comps.0.labelSolidTreated>
+	<Bite.comps.2.oldLabel>ısırık yarası</Bite.comps.2.oldLabel>
+	<Bite.injuryProps.destroyedLabel>Isırılmış</Bite.injuryProps.destroyedLabel>
+	<Bite.injuryProps.destroyedOutLabel>ısırılarak koparılmış</Bite.injuryProps.destroyedOutLabel>
 		
-	<Stab.label>stab</Stab.label>
+	<Stab.label>bıçak yarası</Stab.label>
 	<Stab.comps.0.labelTreatedWell>sarılı</Stab.comps.0.labelTreatedWell>
 	<Stab.comps.0.labelTreated>kötü sarılmış</Stab.comps.0.labelTreated>
 	<Stab.comps.0.labelTreatedWellInner>dikiş atılmış</Stab.comps.0.labelTreatedWellInner>
 	<Stab.comps.0.labelTreatedInner>kötü dikiş atılmış</Stab.comps.0.labelTreatedInner>
-	<Stab.comps.0.labelSolidTreatedWell>set</Stab.comps.0.labelSolidTreatedWell>
-	<Stab.comps.0.labelSolidTreated>poorly set</Stab.comps.0.labelSolidTreated>
-	<Stab.comps.2.oldLabel>stab scar</Stab.comps.2.oldLabel>
-	<Stab.injuryProps.destroyedLabel>Cut off</Stab.injuryProps.destroyedLabel>
-	<Stab.injuryProps.destroyedOutLabel>Cut out</Stab.injuryProps.destroyedOutLabel>
+	<Stab.comps.0.labelSolidTreatedWell>bir araya getirilmiş</Stab.comps.0.labelSolidTreatedWell>
+	<Stab.comps.0.labelSolidTreated>kötü bir araya getirilmiş</Stab.comps.0.labelSolidTreated>
+	<Stab.comps.2.oldLabel>bıçak yarası</Stab.comps.2.oldLabel>
+	<Stab.injuryProps.destroyedLabel>bıçaklanmış</Stab.injuryProps.destroyedLabel>
+	<Stab.injuryProps.destroyedOutLabel>bıçaklanarak koparılmış</Stab.injuryProps.destroyedOutLabel>
 		
-	<Gunshot.label>gunshot</Gunshot.label>
+	<Gunshot.label>kurşun yarası</Gunshot.label>
 	<Gunshot.comps.0.labelTreatedWell>sarılı</Gunshot.comps.0.labelTreatedWell>
 	<Gunshot.comps.0.labelTreated>kötü sarılmış</Gunshot.comps.0.labelTreated>
 	<Gunshot.comps.0.labelTreatedWellInner>dikiş atılmış</Gunshot.comps.0.labelTreatedWellInner>
 	<Gunshot.comps.0.labelTreatedInner>kötü dikiş atılmış</Gunshot.comps.0.labelTreatedInner>
-	<Gunshot.comps.0.labelSolidTreatedWell>set</Gunshot.comps.0.labelSolidTreatedWell>
-	<Gunshot.comps.0.labelSolidTreated>poorly set</Gunshot.comps.0.labelSolidTreated>
-	<Gunshot.comps.2.oldLabel>permanent gunshot injury</Gunshot.comps.2.oldLabel>
-	<Gunshot.injuryProps.destroyedLabel>Shot off</Gunshot.injuryProps.destroyedLabel>
-	<Gunshot.injuryProps.destroyedOutLabel>Shot out</Gunshot.injuryProps.destroyedOutLabel>
+	<Gunshot.comps.0.labelSolidTreatedWell>bir araya getirilmiş</Gunshot.comps.0.labelSolidTreatedWell>
+	<Gunshot.comps.0.labelSolidTreated>kötü bir araya getirilmiş</Gunshot.comps.0.labelSolidTreated>
+	<Gunshot.comps.2.oldLabel>Kalıcı kurşun yaralanması</Gunshot.comps.2.oldLabel>
+	<Gunshot.injuryProps.destroyedLabel>kurşunla yaralanmış</Gunshot.injuryProps.destroyedLabel>
+	<Gunshot.injuryProps.destroyedOutLabel>Kurşunla koparılmış</Gunshot.injuryProps.destroyedOutLabel>
 		
-	<Shredded.label>shredded</Shredded.label>
+	<Shredded.label>doku parçalanması</Shredded.label>
 	<Shredded.comps.0.labelTreatedWell>sarılı</Shredded.comps.0.labelTreatedWell>
 	<Shredded.comps.0.labelTreated>kötü sarılmış</Shredded.comps.0.labelTreated>>
 	<Shredded.comps.0.labelTreatedWellInner>dikiş atılmış</Shredded.comps.0.labelTreatedWellInner>
 	<Shredded.comps.0.labelTreatedInner>kötü dikiş atılmış</Shredded.comps.0.labelTreatedInner>
-	<Shredded.comps.0.labelSolidTreatedWell>set</Shredded.comps.0.labelSolidTreatedWell>
-	<Shredded.comps.0.labelSolidTreated>poorly set</Shredded.comps.0.labelSolidTreated>
-	<Shredded.comps.2.oldLabel>scar</Shredded.comps.2.oldLabel>
-	<Shredded.injuryProps.destroyedLabel>Torn off</Shredded.injuryProps.destroyedLabel>
-	<Shredded.injuryProps.destroyedOutLabel>Torn out</Shredded.injuryProps.destroyedOutLabel>
+	<Shredded.comps.0.labelSolidTreatedWell>bir araya getirilmiş</Shredded.comps.0.labelSolidTreatedWell>
+	<Shredded.comps.0.labelSolidTreated>kötü bir araya getirilmiş</Shredded.comps.0.labelSolidTreated>
+	<Shredded.comps.2.oldLabel>yara izi</Shredded.comps.2.oldLabel>
+	<Shredded.injuryProps.destroyedLabel>doku parçalanarak yaralanmş</Shredded.injuryProps.destroyedLabel>
+	<Shredded.injuryProps.destroyedOutLabel>doku parçalanarak kopmuş</Shredded.injuryProps.destroyedOutLabel>
 		
-	<Bruise.label>bruise</Bruise.label>
+	<Bruise.label>çürük yarası</Bruise.label>
 	<Bruise.comps.0.labelTreatedWell>sarılı</Bruise.comps.0.labelTreatedWell>
 	<Bruise.comps.0.labelTreated>kötü sarılmış</Bruise.comps.0.labelTreated>
 	<Bruise.comps.0.labelTreatedWellInner>dikiş atılmış</Bruise.comps.0.labelTreatedWellInner>
 	<Bruise.comps.0.labelTreatedInner>kötü dikiş atılmış</Bruise.comps.0.labelTreatedInner>
-	<Bruise.comps.0.labelSolidTreatedWell>set</Bruise.comps.0.labelSolidTreatedWell>
-	<Bruise.comps.0.labelSolidTreated>poorly set</Bruise.comps.0.labelSolidTreated>
+	<Bruise.comps.0.labelSolidTreatedWell>bir araya getirilmiş</Bruise.comps.0.labelSolidTreatedWell>
+	<Bruise.comps.0.labelSolidTreated>kötü bir araya getirilmiş</Bruise.comps.0.labelSolidTreated>
 	<Bruise.injuryProps.destroyedLabel>Tahrip olmuş</Bruise.injuryProps.destroyedLabel>
 
-	<Frostbite.label>frostbite</Frostbite.label>
+	<Frostbite.label>donma yarası</Frostbite.label>
 	<Frostbite.comps.0.labelTreatedWell>sarılı</Frostbite.comps.0.labelTreatedWell>
 	<Frostbite.comps.0.labelTreated>kötü sarılmış</Frostbite.comps.0.labelTreated>
 	<Frostbite.comps.0.labelTreatedWellInner>dikiş atılmış</Frostbite.comps.0.labelTreatedWellInner>
 	<Frostbite.comps.0.labelTreatedInner>kötü dikiş atılmış</Frostbite.comps.0.labelTreatedInner>
-	<Frostbite.comps.0.labelSolidTreatedWell>set</Frostbite.comps.0.labelSolidTreatedWell>
-	<Frostbite.comps.0.labelSolidTreated>poorly set</Frostbite.comps.0.labelSolidTreated>
-	<Frostbite.comps.2.oldLabel>frostbite scar</Frostbite.comps.2.oldLabel>
-	<Frostbite.injuryProps.destroyedLabel>Lost to frostbite</Frostbite.injuryProps.destroyedLabel>
+	<Frostbite.comps.0.labelSolidTreatedWell>bir araya getirilmiş</Frostbite.comps.0.labelSolidTreatedWell>
+	<Frostbite.comps.0.labelSolidTreated>kötü bir araya getirilmiş</Frostbite.comps.0.labelSolidTreated>
+	<Frostbite.comps.2.oldLabel>donma yarası</Frostbite.comps.2.oldLabel>
+	<Frostbite.injuryProps.destroyedLabel>Donarak kaybedilmiş</Frostbite.injuryProps.destroyedLabel>
 	
-	<MissingBodyPart.label>missing body part</MissingBodyPart.label>
+	<MissingBodyPart.label>kaybedilmiş vücut parçası</MissingBodyPart.label>
 	
 </LanguageData>
