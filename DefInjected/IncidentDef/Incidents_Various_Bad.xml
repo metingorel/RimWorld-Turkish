@@ -7,7 +7,7 @@
 	
 	<SolarFlare.label>güneş patlaması</SolarFlare.label>
  	<SolarFlare.letterLabel>Güneş patlaması</SolarFlare.letterLabel>
-	<SolarFlare.letterText>Bir güneş patlaması meydana geldi.\n\nYoğun radyasyon tüm elektronik cihazları kapanmasına neden olacak.\n\nGün içerisinde etkisini yitirmesi bekleniyor..</SolarFlare.letterText>
+	<SolarFlare.letterText>Bir güneş patlaması meydana geldi.\n\n Ortaya çıkan yoğun radyasyon tüm elektronik cihazları kapanmasına neden olacak.\n\nGün içerisinde etkisini yitirmesi bekleniyor..</SolarFlare.letterText>
 	
 	<PsychicDrone.label>psişik ses</PsychicDrone.label>
   	
@@ -15,26 +15,26 @@
  	<ToxicFallout.letterLabel>Zehirli serpinti</ToxicFallout.letterLabel>
 	<ToxicFallout.letterText>Uzaklarda bir yerde gerçekleşen kimyasal bir yangın, tüm bölgeye zehirli bir serpintinin yayılmasına neden oldu.\n\nKapalı bir ortamda bulunmayan tüm yaratıklar ve insanlar atmosfere yayılan bu zehirli serpintiden yavaşça etkilenip hastalanacak.\n\nBu, bir kaç gün ile bir ay arası her yerde etkisini sürdürecek.</ToxicFallout.letterText>
 
-	<VolcanicWinter.label>volcanic winter</VolcanicWinter.label>
-  	<VolcanicWinter.letterLabel>Volcanic winter</VolcanicWinter.letterLabel>
-	<VolcanicWinter.letterText>A distant supervolcano has erupted and begun spewing millions of cubic kilometers of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many months.</VolcanicWinter.letterText>
+	<VolcanicWinter.label>volkanik kış</VolcanicWinter.label>
+  	<VolcanicWinter.letterLabel>Volkanik kış</VolcanicWinter.letterLabel>
+	<VolcanicWinter.letterText>Uzaklarda bir yerde çok büyük bir yanardağ, milyonlarca kilometreküp külü atmosfere püskürtmeye başladı.\n\nAtmosferdeki kül, güneşten gelen ışığı engelleyecektir. Sıcaklık düşecek ve bitkiler yaşamları için gerekli güneş ışığını yeteri kadar alamayacaktır. Bu durum birkaç hafta geçecebileceği gibi birkaç ay da sürebilir.</VolcanicWinter.letterText>
 
-	<HeatWave.label>heat wave</HeatWave.label>
- 	<HeatWave.letterLabel>Heat wave</HeatWave.letterLabel>
-	<HeatWave.letterText>An unusual heat wave has begun. Watch out for heat stroke.</HeatWave.letterText>
+	<HeatWave.label>sıcak hava dalgası</HeatWave.label>
+ 	<HeatWave.letterLabel>Sıcak hava dalgası</HeatWave.letterLabel>
+	<HeatWave.letterText>Olağandışı bir sıcak hava dalgası başladı. Sıcak çarpmasına karşı dikkatli olun.</HeatWave.letterText>
 	
-	<ColdSnap.label>cold snap</ColdSnap.label>
- 	<ColdSnap.letterLabel>Cold snap</ColdSnap.letterLabel>
-	<ColdSnap.letterText>An unusual cold snap has set in. Watch out for hypothermia and dying crops.</ColdSnap.letterText>
+	<ColdSnap.label>dondurucu soğuk</ColdSnap.label>
+ 	<ColdSnap.letterLabel>Dondurucu soğuk</ColdSnap.letterLabel>
+	<ColdSnap.letterText>Olağanüstü dondurucu soğuklar başladı. Hipotermiye ve bitki ölümlerine karşı hazırlıklı olun</ColdSnap.letterText>
 
-	<Flashstorm.label>flashstorm</Flashstorm.label>
-	<Flashstorm.letterLabel>Flashstorm</Flashstorm.letterLabel>
-	<Flashstorm.letterText>Extreme amounts of lightning are hitting a small region. This can cause massive fires.</Flashstorm.letterText>
+	<Flashstorm.label>şimşek fırtınası</Flashstorm.label>
+	<Flashstorm.letterLabel>Şimşek fırtınası</Flashstorm.letterLabel>
+	<Flashstorm.letterText>Aşırı miktarda şimşek, dar bir bölgeye düşmeye başlamak üzere. Bu durum, büyük yangınlara neden olabilir..</Flashstorm.letterText>
 	
-	<ShortCircuit.label>short circuit</ShortCircuit.label>
+	<ShortCircuit.label>kısa devre</ShortCircuit.label>
   
-	<CropBlight.label>crop blight</CropBlight.label>
+	<CropBlight.label>ekin mantarı hastalığı</CropBlight.label>
   
-	<Alphabeavers.label>alphabeavers</Alphabeavers.label>
+	<Alphabeavers.label>alfa kunduzlar</Alphabeavers.label>
   
 </LanguageData>
