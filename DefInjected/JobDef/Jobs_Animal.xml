@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<Nuzzle.reportString>burnuyla dürtüyor TargetA.</Nuzzle.reportString>
+	<Nuzzle.reportString>TargetA' yı burnuyla dürtüyor.</Nuzzle.reportString>
 	
-	<Mate.reportString>çiftleşiyor ile TargetA.</Mate.reportString>
+	<Mate.reportString>TargetA ile çiftleşiyor.</Mate.reportString>
 	
 	<LayEgg.reportString>yumurtluyor.</LayEgg.reportString>
 	
-	<PredatorHunt.reportString>avlanıyor TargetA.</PredatorHunt.reportString>
+	<PredatorHunt.reportString>TargetA' yı avlıyor.</PredatorHunt.reportString>
 	
-	<Maintain.reportString>koruyor TargetA.</Maintain.reportString> 
+	<Maintain.reportString>TargetA' yı koruyor.</Maintain.reportString> 
 	
 </LanguageData>
