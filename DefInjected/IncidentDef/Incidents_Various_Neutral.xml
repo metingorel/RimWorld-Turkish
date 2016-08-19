@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-    <RefugeeChased.label>chased refugee</RefugeeChased.label>
+    <RefugeeChased.label>kovalanan mülteci</RefugeeChased.label>
   
     <ThrumboPasses.label>thrumbos pass</ThrumboPasses.label>
   
-    <RansomDemand.label>ransom demand</RansomDemand.label>
+    <RansomDemand.label>fidye talebi</RansomDemand.label>
     
 </LanguageData>
