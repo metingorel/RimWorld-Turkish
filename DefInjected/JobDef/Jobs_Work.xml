@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>	
 <LanguageData>
 	
-	<HaulToCell.reportString>hauling TargetA.</HaulToCell.reportString>
+	<HaulToCell.reportString>TargetA' yı taşıyor.</HaulToCell.reportString>
 	
-	<HaulToContainer.reportString>hauling TargetA.</HaulToContainer.reportString>
+	<HaulToContainer.reportString>TargetA' yı taşıyor.</HaulToContainer.reportString>
 	
-    <Steal.reportString>stealing TargetA.</Steal.reportString>
+    <Steal.reportString>TargetA' yı çalıyor.</Steal.reportString>
     
-	<Kidnap.reportString>kidnapping TargetA.</Kidnap.reportString>
+	<Kidnap.reportString>TargetA' yı kaçırıyor.</Kidnap.reportString>
 		
-	<Rescue.reportString>rescuing TargetA.</Rescue.reportString>
+	<Rescue.reportString>TargetA' yı kurtarıyor.</Rescue.reportString>
 	
-	<CarryToCryptosleepCasket.reportString>carrying TargetA to cryptosleep casket.</CarryToCryptosleepCasket.reportString>
+	<CarryToCryptosleepCasket.reportString>TargetA' yı cryptosleep e taşıyor.</CarryToCryptosleepCasket.reportString>
 	
-	<Capture.reportString>capturing TargetA.</Capture.reportString>
+	<Capture.reportString>TargetA' yı ele geçiriyor.</Capture.reportString>
 	
 	<Arrest.reportString>arresting TargetA.</Arrest.reportString>
 	
