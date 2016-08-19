@@ -5,7 +5,7 @@
 	
 	<GotoSafeTemperature.reportString>En iyi dereceyi arıyor.</GotoSafeTemperature.reportString>
 	
-	<GotoWander.reportString>Aval Aval dolanıyor.</GotoWander.reportString>
+	<GotoWander.reportString>boş boş dolanıyor.</GotoWander.reportString>
 	
 	<Wait.reportString>Ayakta.</Wait.reportString>
 	
@@ -13,7 +13,7 @@
 	
 	<WaitSafeTemperature.reportString>En iyi derecede bekliyor.</WaitSafeTemperature.reportString>
 	
-	<WaitWander.reportString>Aval Aval dolaşıyor.</WaitWander.reportString>
+	<WaitWander.reportString>Boş Boş dolaşıyor.</WaitWander.reportString>
 	
 	<WaitCombat.reportString>Hedef arıyor.</WaitCombat.reportString>
 	
@@ -23,15 +23,15 @@
 	
 	<RearmTrap.reportString>TargetA'yı tekrar kuruyor.</RearmTrap.reportString>
 	
-	<Refuel.reportString>TargetA'yi dolduruyor.</Refuel.reportString>
+	<Refuel.reportString>TargetA'yı dolduruyor.</Refuel.reportString>
 	
 	<ManTurret.reportString>Taret'i düzeltiyor.</ManTurret.reportString>
 
 	<EnterCryptosleepCasket.reportString>Uyku kapsülüne giriyor.</EnterCryptosleepCasket.reportString>
 
-	<UseNeurotrainer.reportString>using neurotrainer.</UseNeurotrainer.reportString>
+	<UseNeurotrainer.reportString>neurotrainer kullanıyor.</UseNeurotrainer.reportString>
 	
-	<UseArtifact.reportString>activating artifact.</UseArtifact.reportString>
+	<UseArtifact.reportString>parçayı aktive ediyor.</UseArtifact.reportString>
 	
 	<TriggerFirefoamPopper.reportString>.</TriggerFirefoamPopper.reportString>
 
