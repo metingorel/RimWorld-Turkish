@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<Skygaze.reportString>skygazing.</Skygaze.reportString>
+	<Skygaze.reportString>gökyüzünü seyrediyor.</Skygaze.reportString>
 	
-	<Meditate.reportString>meditating.</Meditate.reportString>
+	<Meditate.reportString>meditasyon yapıyor.</Meditate.reportString>
 	
-	<Pray.reportString>praying.</Pray.reportString>
+	<Pray.reportString>dua ediyor.</Pray.reportString>
 	
-	<GoForWalk.reportString>going for a walk.</GoForWalk.reportString>
+	<GoForWalk.reportString>yürüyüşe çıkıyor.</GoForWalk.reportString>
 	
-	<BuildSnowman.reportString>building snowman.</BuildSnowman.reportString>
+	<BuildSnowman.reportString>kardanadam yapıyor.</BuildSnowman.reportString>
 	
-	<VisitGrave.reportString>visiting grave.</VisitGrave.reportString>
+	<VisitGrave.reportString>mezarlığı ziyaret ediyor.</VisitGrave.reportString>
 	
-	<ViewArt.reportString>viewing art.</ViewArt.reportString>
+	<ViewArt.reportString>sanat eserini seyrediyor.</ViewArt.reportString>
 
-	<SocialRelax.reportString>relaxing socially.</SocialRelax.reportString>
+	<SocialRelax.reportString>sosyal açıdan rahatlıyor.</SocialRelax.reportString>
 	
-	<VisitSickPawn.reportString>cheering up patient TargetA.</VisitSickPawn.reportString>
+	<VisitSickPawn.reportString>hasta TargetA' ya moral veriyor.</VisitSickPawn.reportString>
 
-	<PlayHorseshoes.reportString>playing horseshoes.</PlayHorseshoes.reportString>
+	<PlayHorseshoes.reportString>nal atma oyunu oynuyor.</PlayHorseshoes.reportString>
 	
-	<PlayChess.reportString>playing chess.</PlayChess.reportString>
+	<PlayChess.reportString>psatranç oynuyor.</PlayChess.reportString>
 	
-	<PlayBilliards.reportString>playing billiards.</PlayBilliards.reportString>
+	<PlayBilliards.reportString>bilardo oynuyor.</PlayBilliards.reportString>
 	
-	<WatchTelevision.reportString>watching television.</WatchTelevision.reportString>
+	<WatchTelevision.reportString>televizyon seyrediyor.</WatchTelevision.reportString>
 	
-	<UseTelescope.reportString>using telescope.</UseTelescope.reportString>
+	<UseTelescope.reportString>teleskopla uzayı seyrediyor.</UseTelescope.reportString>
 	
 </LanguageData>
