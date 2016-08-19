@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <MarryAdjacentPawn.reportString>evlenmek TargetA.</MarryAdjacentPawn.reportString>
+    <MarryAdjacentPawn.reportString>evleniyor TargetA.</MarryAdjacentPawn.reportString>
     
-    <SpectateCeremony.reportString>syretmek.</SpectateCeremony.reportString>
+    <SpectateCeremony.reportString>sseyrediyor.</SpectateCeremony.reportString>
     
-    <StandAndBeSociallyActive.reportString>sosyal açıdan rahatlamış.</StandAndBeSociallyActive.reportString>
+    <StandAndBeSociallyActive.reportString>sosyal açıdan rahatlıyor.</StandAndBeSociallyActive.reportString>
     
 </LanguageData>
