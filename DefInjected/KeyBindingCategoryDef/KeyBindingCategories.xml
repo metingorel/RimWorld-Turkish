@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<GameMapCamera.label>camera</GameMapCamera.label>
-	<GameMapCamera.description>Controls for the camera.</GameMapCamera.description>
+	<GameMapCamera.label>kamera</GameMapCamera.label>
+	<GameMapCamera.description>Kamera için kontroller.</GameMapCamera.description>
 	
-	<Game.label>in-game global </Game.label>
-	<Game.description>Colony mode controls that apply in most situations.</Game.description>
+	<Game.label>içinde - global oyun </Game.label>
+	<Game.description>Koloni modu kontrolleri çoğu durumda geçerlidir.</Game.description>
 	
-	<SelectionMisc.label>misc</SelectionMisc.label>
-	<SelectionMisc.description>Generic controls that are re-used by many items and objects throughout the game.</SelectionMisc.description>
+	<SelectionMisc.label>diğer</SelectionMisc.label>
+	<SelectionMisc.description>Genel kontroller, oyun boyunca birçok öğe ve nesne tarafından  tekrar kullanılır.</SelectionMisc.description>
 	
-	<SelectionSpecial.label>special</SelectionSpecial.label>
-	<SelectionSpecial.description>Special controls reserved for specific functions on specific objects.</SelectionSpecial.description>
+	<SelectionSpecial.label>özel</SelectionSpecial.label>
+	<SelectionSpecial.description>Özel kontroller, belirli nesnelerdeki belirli fonksiyonlara ayrılmıştır.</SelectionSpecial.description>
 	
-	<Architect.label>architect</Architect.label>
-	<Architect.description>General-use controls for the architect mode menu.</Architect.description>
+	<Architect.label>mimari</Architect.label>
+	<Architect.description>mimari mod menüsü için genel kullanım kontroller</Architect.description>
 	
-	<MainTabs.label>main tabs</MainTabs.label>
-	<MainTabs.description>Controls for the main tabs.</MainTabs.description>
+	<MainTabs.label>Ana sekmeler</MainTabs.label>
+	<MainTabs.description>ana sekmeler için kontroller.</MainTabs.description>
 	
-	<Development.label>development</Development.label>
-	<Development.description>Controls for developers and modders. Active in development mode only.</Development.description>
+	<Development.label>geliştirme</Development.label>
+	<Development.description>Geliştiriciler ve mod yapımcıları için kontroller. Sadece geliştirici modda etkindir.</Development.description>
 	
 	
 </LanguageData>
