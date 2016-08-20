@@ -15,76 +15,76 @@
 	
 	<Capture.reportString>TargetA' yı ele geçiriyor.</Capture.reportString>
 	
-	<Arrest.reportString>arresting TargetA.</Arrest.reportString>
+	<Arrest.reportString>TargetA' ya göz kırpıyor.</Arrest.reportString>
 	
-	<ReleasePrisoner.reportString>releasing TargetA.</ReleasePrisoner.reportString>
+	<ReleasePrisoner.reportString>TargetA' yı serbet bırakıyor.</ReleasePrisoner.reportString>
 	
-	<EscortPrisonerToBed.reportString>escorting prisoner TargetA.</EscortPrisonerToBed.reportString>
+	<EscortPrisonerToBed.reportString>Mahkum TargetA' ya eşilk ediyor.</EscortPrisonerToBed.reportString>
 	
-	<TakeWoundedPrisonerToBed.reportString>taking wounded prisoner TargetA.</TakeWoundedPrisonerToBed.reportString>
+	<TakeWoundedPrisonerToBed.reportString>Yaralı makhum TargetA' yı alıyor.</TakeWoundedPrisonerToBed.reportString>
 	
-	<TakeToBedToOperate.reportString>taking TargetA to bed.</TakeToBedToOperate.reportString>
+	<TakeToBedToOperate.reportString>TargetA' ı yatağa götürüyor.</TakeToBedToOperate.reportString>
 
-	<Slaughter.reportString>slaughtering TargetA.</Slaughter.reportString>
+	<Slaughter.reportString>TargetA' yı katlediyor.</Slaughter.reportString>
 	
-	<Milk.reportString>milking TargetA.</Milk.reportString>
+	<Milk.reportString>TargetA' yı sağıyor.</Milk.reportString>
     
-	<Shear.reportString>shearing TargetA.</Shear.reportString>
+	<Shear.reportString>TargetA' yı kırkıyor</Shear.reportString>
     
-	<Tame.reportString>taming TargetA.</Tame.reportString>
+	<Tame.reportString>TargetA' yı evcilleştiriyor.</Tame.reportString>
     
-	<Train.reportString>training TargetA.</Train.reportString>
+	<Train.reportString>TargetA' yı eğitiyor.</Train.reportString>
 	
-	<PlaceNoCostFrame.reportString>building TargetA.</PlaceNoCostFrame.reportString>
+	<PlaceNoCostFrame.reportString>TargetA.' yı inşa ediyor.</PlaceNoCostFrame.reportString>
 
-	<FinishFrame.reportString>building TargetA.</FinishFrame.reportString>
+	<FinishFrame.reportString>TargetA.' yı inşa ediyor.</FinishFrame.reportString>
 	
-	<Deconstruct.reportString>deconstructing TargetA.</Deconstruct.reportString>
+	<Deconstruct.reportString>TargetA' yı söküyor.</Deconstruct.reportString>
 	
-	<Uninstall.reportString>uninstalling TargetA.</Uninstall.reportString>
+	<Uninstall.reportString>TargetA' yı kaldırıyor.</Uninstall.reportString>
 	
-	<Repair.reportString>repairing TargetA.</Repair.reportString>	
+	<Repair.reportString>TargetA' yı tamir ediyor.</Repair.reportString>	
 	
-    <FixBrokenDownBuilding.reportString>replacing broken components in TargetA.</FixBrokenDownBuilding.reportString>
+    <FixBrokenDownBuilding.reportString>TargetA' daki kırık parçaları yenileri ile değiştiryor.</FixBrokenDownBuilding.reportString>
 
-    <BuildRoof.reportString>building roof.</BuildRoof.reportString>
+    <BuildRoof.reportString>çatı yapıyor</BuildRoof.reportString>
     
-	<RemoveRoof.reportString>removing roof.</RemoveRoof.reportString>
+	<RemoveRoof.reportString>çatıyı kaldırıyor</RemoveRoof.reportString>
 	
-	<FeedPatient.reportString>feeding TargetA to TargetB.</FeedPatient.reportString>
+	<FeedPatient.reportString>TargetA, TargetB' yi doyuruyor.</FeedPatient.reportString>
 	
-	<TrentPatient.reportString>tending to TargetA.</TrentPatient.reportString>
+	<TrentPatient.reportString>TargetA' ya yöneliyor.</TrentPatient.reportString>
 	
-	<DeliverFood.reportString>feeding TargetA to TargetB.</DeliverFood.reportString>
+	<DeliverFood.reportString>TargetA, TargetB' yi doyuruyor.</DeliverFood.reportString>
 
-	<DoBill.reportString>doing bill at TargetA.</DoBill.reportString>
+	<DoBill.reportString>TargetA üzerinde proje geliştiryor.</DoBill.reportString>
 	
-	<Clean.reportString>cleaning TargetA.</Clean.reportString>
+	<Clean.reportString>TargetA' yı temizliyor.</Clean.reportString>
 	
-	<Research.reportString>researching.</Research.reportString>
+	<Research.reportString>araştırıyor.</Research.reportString>
 	
-	<Hunt.reportString>hunting TargetA.</Hunt.reportString>
+	<Hunt.reportString>TargetA' yı avlıyor.</Hunt.reportString>
 	
-	<UseCommsConsole.reportString>using comms console.</UseCommsConsole.reportString>
+	<UseCommsConsole.reportString>haberleşme konsolunu kullanıyor.</UseCommsConsole.reportString>
 	
-	<Mine.reportString>digging at TargetA.</Mine.reportString>
+	<Mine.reportString>TargetA' yı kazıyor.</Mine.reportString>
 	
-	<SmoothFloor.reportString>smoothing floor.</SmoothFloor.reportString>
+	<SmoothFloor.reportString>zemini düzeltiyor.</SmoothFloor.reportString>
 	
-	<RemoveFloor.reportString>removing floor.</RemoveFloor.reportString>
+	<RemoveFloor.reportString>zemini kaldırıyor.</RemoveFloor.reportString>
 
-	<Sow.reportString>sowing TargetA.</Sow.reportString>
+	<Sow.reportString>TargetA' yı ekiyor.</Sow.reportString>
 	
-	<Harvest.reportString>harvesting TargetA.</Harvest.reportString>
+	<Harvest.reportString>TargetA' yı hasat ediyor.</Harvest.reportString>
 	
-	<CutPlant.reportString>cutting TargetA.</CutPlant.reportString>
+	<CutPlant.reportString>TargetA' yı kesiyor.</CutPlant.reportString>
 	
-	<PrisonerFriendlyChat.reportString>chatting with prisoner TargetA.</PrisonerFriendlyChat.reportString>
+	<PrisonerFriendlyChat.reportString>Nahkum TargetA ile sohbet ediyor.</PrisonerFriendlyChat.reportString>
 	
-	<PrisonerAttemptRecruit.reportString>attempting to recruit TargetA.</PrisonerAttemptRecruit.reportString>
+	<PrisonerAttemptRecruit.reportString>TargetA' yı işe alıyor.</PrisonerAttemptRecruit.reportString>
 	
-	<PrisonerExecution.reportString>executing TargetA.</PrisonerExecution.reportString>
+	<PrisonerExecution.reportString>TargetA' yı idam ediyor</PrisonerExecution.reportString>
 	
-	<BuryCorpse.reportString>burying TargetA.</BuryCorpse.reportString>
+	<BuryCorpse.reportString>TargetA' yı gömüyor.</BuryCorpse.reportString>
 	
 </LanguageData>
