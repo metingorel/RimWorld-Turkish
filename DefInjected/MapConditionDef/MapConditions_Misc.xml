@@ -14,20 +14,20 @@
 	<PsychicDrone.endMessage>Psişik ses sona eriyor.</PsychicDrone.endMessage>
 	
 	<PsychicSoothe.label>psişik rahatlatıcı güç dalgaları</PsychicSoothe.label>
-	<PsychicSoothe.description>Uzak, güçlü bir yapay zeka; insanları sakinleştiren, onların zihinlerindeki olumsuz düşünceleri yokeden psişik güç dalgaları yaymaktadır. neden olmaktadır.</PsychicSoothe.description>
+	<PsychicSoothe.description>Uzak, güçlü bir yapay zeka; insanları sakinleştiren, onların zihinlerindeki olumsuz düşünceleri yokeden psişik güç dalgaları yaymaktadır.</PsychicSoothe.description>
 	<PsychicSoothe.endMessage>Psişik rahatlatıcı güç dalgaları sona eriyor.</PsychicSoothe.endMessage>
 	
 	<ToxicFallout.label>zehirli serpinti</ToxicFallout.label>
-	<ToxicFallout.description>A plume of toxic dust from some distant source is slowly settling over this entire region of the planet. Anyone not under a roof will be slowly poisoned.</ToxicFallout.description>
+	<ToxicFallout.description>Uzak bir kaynaktan yayılan zehirli serpinti yavaşça gezegenin tüm bölgelerine yayılıyor. Kapalı bir ortamda bulunmayan herkes yavaş yavaş zehirlenecek.</ToxicFallout.description>
 	<ToxicFallout.endMessage>The worst of the toxic fallout has settled.</ToxicFallout.endMessage>
 	
 	<VolcanicWinter.label>volkanik kış</VolcanicWinter.label>
-	<VolcanicWinter.description>The atmosphere is choked with volcanic particles, significantly reducing the amount of light which reaches the surface. Temperatures will be colder and plants will grow slower.</VolcanicWinter.description>
-	<VolcanicWinter.endMessage>Most of the volcanic ash has settled.</VolcanicWinter.endMessage>
+	<VolcanicWinter.description>Volkandan yayılan zerrecikler atmosferden geçip yüzeye ulaşan güneş ışığını önemli oranda azaltacak. Hava daha da soğuyacak ve bitkiler daha yavaş büyüyecektir.</VolcanicWinter.description>
+	<VolcanicWinter.endMessage>Atmosfer, volkanik zerreciklerden büyük oranda temizlendi.</VolcanicWinter.endMessage>
 	
 	<HeatWave.label>sıcak hava dalgası</HeatWave.label>
-	<HeatWave.description>An extreme wave of heat is baking the area.</HeatWave.description>
-	<HeatWave.endMessage>The heat wave is over.</HeatWave.endMessage>
+	<HeatWave.description>Aşırı sıcak hava dalgası ortalığı kasıp kavuruyor.</HeatWave.description>
+	<HeatWave.endMessage>Sıcak hava dalgası sona eriyor.</HeatWave.endMessage>
 	
 	<ColdSnap.label>dondurucu soğuk</ColdSnap.label>
 	<ColdSnap.description>An unusual cold snap is freezing the region.</ColdSnap.description>
