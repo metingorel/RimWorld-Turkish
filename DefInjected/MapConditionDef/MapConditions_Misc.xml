@@ -19,7 +19,7 @@
 	
 	<ToxicFallout.label>zehirli serpinti</ToxicFallout.label>
 	<ToxicFallout.description>Uzak bir kaynaktan yayılan zehirli serpinti yavaşça gezegenin tüm bölgelerine yayılıyor. Kapalı bir ortamda bulunmayan herkes yavaş yavaş zehirlenecek.</ToxicFallout.description>
-	<ToxicFallout.endMessage>The worst of the toxic fallout has settled.</ToxicFallout.endMessage>
+	<ToxicFallout.endMessage>Toksik serpinti önemli oranda etkisini yitirdi.</ToxicFallout.endMessage>
 	
 	<VolcanicWinter.label>volkanik kış</VolcanicWinter.label>
 	<VolcanicWinter.description>Volkandan yayılan zerrecikler atmosferden geçip yüzeye ulaşan güneş ışığını önemli oranda azaltacak. Hava daha da soğuyacak ve bitkiler daha yavaş büyüyecektir.</VolcanicWinter.description>
@@ -30,17 +30,17 @@
 	<HeatWave.endMessage>Sıcak hava dalgası sona eriyor.</HeatWave.endMessage>
 	
 	<ColdSnap.label>dondurucu soğuk</ColdSnap.label>
-	<ColdSnap.description>An unusual cold snap is freezing the region.</ColdSnap.description>
-	<ColdSnap.endMessage>The cold snap is over.</ColdSnap.endMessage>
+	<ColdSnap.description>Aşırı soğuklar, herşeyi donduruyor.</ColdSnap.description>
+	<ColdSnap.endMessage>Dondurucu soğuklar bitti.</ColdSnap.endMessage>
 	
 	<Flashstorm.label>şimşek fırtınası</Flashstorm.label>
-	<Flashstorm.description>Extreme amounts of lightning are hitting a small region.</Flashstorm.description>
-	<Flashstorm.endMessage>The flashstorm is over.</Flashstorm.endMessage>
+	<Flashstorm.description>Aşırı miktarda yıldırım, dar bir bölgeye vuruyor.</Flashstorm.description>
+	<Flashstorm.endMessage>Şimşek fırtınası bitti.</Flashstorm.endMessage>
 	
 	<ClimateCycle.label>iklim döngüsü</ClimateCycle.label>
-	<ClimateCycle.description>A multi-year climate cycle due to an elliptical orbit.</ClimateCycle.description>
+	<ClimateCycle.description>Gezegenin eliptik yörüngesi nedeniyle, iklim döngüsü birkaç yıl sürüyor.</ClimateCycle.description>
     
 	<Planetkiller.label>gegen yokedici</Planetkiller.label>
-	<Planetkiller.description>An interstellar planetkiller weapon is approaching this planet. When it hits, it will destroy all life.</Planetkiller.description>
+	<Planetkiller.description>Yıldızlararası bir gezegen yokedici silah, bulunduğun gezegene yaklaşıyor. O, gezegene çarptığında tüm yaşam yok olacak.</Planetkiller.description>
     
 </LanguageData>
