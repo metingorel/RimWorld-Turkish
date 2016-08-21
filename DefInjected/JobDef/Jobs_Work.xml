@@ -11,7 +11,7 @@
 		
 	<Rescue.reportString>TargetA' yı kurtarıyor.</Rescue.reportString>
 	
-	<CarryToCryptosleepCasket.reportString>TargetA' yı cryptosleep e taşıyor.</CarryToCryptosleepCasket.reportString>
+	<CarryToCryptosleepCasket.reportString>TargetA' yı uyku kapsülüne taşıyor.</CarryToCryptosleepCasket.reportString>
 	
 	<Capture.reportString>TargetA' yı ele geçiriyor.</Capture.reportString>
 	
