@@ -2,11 +2,11 @@
 <LanguageData>
     
     
-    <Berserk.label>berserk</Berserk.label>
-    <Berserk.beginLetterLabel>berserk</Berserk.beginLetterLabel>
-    <Berserk.beginLetter>{0} has gone berserk.</Berserk.beginLetter>
-    <Berserk.recoveryMessage>{0}'s berserk rage has come to an end.</Berserk.recoveryMessage>
-    <Berserk.inspectLine>Mental state: Berserk</Berserk.inspectLine>
+    <Berserk.label>çıldırmış</Berserk.label>
+    <Berserk.beginLetterLabel>çıldırmış</Berserk.beginLetterLabel>
+    <Berserk.beginLetter>{0} çıldırmış.</Berserk.beginLetter>
+    <Berserk.recoveryMessage>{0}' in çıldırmış hali geçti.</Berserk.recoveryMessage>
+    <Berserk.inspectLine>Akıl Sağlığı: Çıldırmış</Berserk.inspectLine>
     
     
     <FireStartingSpree.label>fire starting spree</FireStartingSpree.label>
