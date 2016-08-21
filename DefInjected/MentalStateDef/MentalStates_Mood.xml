@@ -9,11 +9,11 @@
     <Berserk.inspectLine>Akıl Sağlığı: Çıldırmış</Berserk.inspectLine>
     
     
-    <FireStartingSpree.label>fire starting spree</FireStartingSpree.label>
-    <FireStartingSpree.beginLetterLabel>fire starting spree</FireStartingSpree.beginLetterLabel>
-    <FireStartingSpree.beginLetter>{0} is on a fire starting spree</FireStartingSpree.beginLetter>
-    <FireStartingSpree.recoveryMessage>{0} is no longer on a fire starting spree.</FireStartingSpree.recoveryMessage>
-    <FireStartingSpree.inspectLine>Mental state: Fire starting spree</FireStartingSpree.inspectLine>
+    <FireStartingSpree.label>yangın çıkartma çılgınlığı</FireStartingSpree.label>
+    <FireStartingSpree.beginLetterLabel>yangın çıkartma çılgınlığı</FireStartingSpree.beginLetterLabel>
+    <FireStartingSpree.beginLetter>{0} yangın çıkartma çılgınlığı geçiriyor.</FireStartingSpree.beginLetter>
+    <FireStartingSpree.recoveryMessage>{0} ' in yangın çıkartan çılgınlığı artık bitiyor.</FireStartingSpree.recoveryMessage>
+    <FireStartingSpree.inspectLine>Akıl Sağlığı: Yangın çıkartma çılgınlığına kapılmış</FireStartingSpree.inspectLine>
     
     
     <GiveUpExit.label>giving up and leaving</GiveUpExit.label>
