@@ -2,20 +2,20 @@
 <LanguageData>
 	
 	<SolarFlare.label>güneş patlaması</SolarFlare.label>
-	<SolarFlare.description>A solar flare is hitting the planet. This creates extreme electrical interference and prevents most electrical devices from working.</SolarFlare.description>
-	<SolarFlare.endMessage>The solar flare is ending.</SolarFlare.endMessage>
+	<SolarFlare.description>Güneş patlaması gezegeni vuruyor. Bu, aşırı elektrik dalgalanmalarına neden olur ve elektrikli araçların çalışmasını önler.</SolarFlare.description>
+	<SolarFlare.endMessage>Güneş patlaması sona eriyor</SolarFlare.endMessage>
 	
 	<Eclipse.label>Güneş tutulması</Eclipse.label>
-	<Eclipse.description>eclipse is shadowing the surface. It will be dark, even during the daytime.</Eclipse.description>
-	<Eclipse.endMessage>The eclipse is ending.</Eclipse.endMessage>
+	<Eclipse.description>Güneş tutlması, gezegen yüzeyinin ışık alamamasına neden olur. Hatta hava kararacak; gündüzler gece gibi karanlık olacaktır.</Eclipse.description>
+	<Eclipse.endMessage>Güneş tutulması sona eriyor.</Eclipse.endMessage>
 	
 	<PsychicDrone.label>psişik ses</PsychicDrone.label>
-	<PsychicDrone.description>A distant, powerful AI is emitting waves of psychic force that are driving people towards insanity.</PsychicDrone.description>
-	<PsychicDrone.endMessage>The psychic drone is ending.</PsychicDrone.endMessage>
+	<PsychicDrone.description>Uzak, güçlü bir yapay zeka; yaydığı psişik güç dalgaları ile insanları etkilemekte, hatta onların çıldırmalarına neden olmaktadır.</PsychicDrone.description>
+	<PsychicDrone.endMessage>Psişik ses sona eriyor.</PsychicDrone.endMessage>
 	
-	<PsychicSoothe.label>psişik rahatlatıcı</PsychicSoothe.label>
-	<PsychicSoothe.description>A distant, powerful AI is emitting waves of psychic force that are calming people and stabilizing their minds.</PsychicSoothe.description>
-	<PsychicSoothe.endMessage>The psychic soothe is ending.</PsychicSoothe.endMessage>
+	<PsychicSoothe.label>psişik rahatlatıcı güç dalgaları</PsychicSoothe.label>
+	<PsychicSoothe.description>Uzak, güçlü bir yapay zeka; insanları sakinleştiren, onların zihinlerindeki olumsuz düşünceleri yokeden psişik güç dalgaları yaymaktadır. neden olmaktadır.</PsychicSoothe.description>
+	<PsychicSoothe.endMessage>Psişik rahatlatıcı güç dalgaları sona eriyor.</PsychicSoothe.endMessage>
 	
 	<ToxicFallout.label>zehirli serpinti</ToxicFallout.label>
 	<ToxicFallout.description>A plume of toxic dust from some distant source is slowly settling over this entire region of the planet. Anyone not under a roof will be slowly poisoned.</ToxicFallout.description>
