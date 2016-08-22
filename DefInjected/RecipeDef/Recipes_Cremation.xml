@@ -2,11 +2,11 @@
 <LanguageData>
     
     <CremateCorpse.label>ceset yak</CremateCorpse.label>
-    <CremateCorpse.description>Cesetleri yakmak onları tamamen yok eder.</CremateCorpse.description>
+    <CremateCorpse.description>Cesetleri yakmak, onları tamamen yok eder.</CremateCorpse.description>
     <CremateCorpse.jobString>Yakılıyor.</CremateCorpse.jobString>
     
     <BurnApparel.label>kıyafetleri yak/BurnApparel.label>
-    <BurnApparel.description>Kıyafetleri yakmak onları tamamen yok eder.</BurnApparel.description>
+    <BurnApparel.description>Kıyafetleri yakmak, onları tamamen yok eder.</BurnApparel.description>
     <BurnApparel.jobString>Kıyafetler yakılıyor.</BurnApparel.jobString>
     
 </LanguageData>
