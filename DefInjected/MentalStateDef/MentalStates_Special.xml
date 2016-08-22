@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <WanderConfused.label>confused wandering</WanderConfused.label>
-    <WanderConfused.beginLetterLabel>confusion</WanderConfused.beginLetterLabel>
-    <WanderConfused.beginLetter>{0} has broken down and is wandering around confused.</WanderConfused.beginLetter>
-    <WanderConfused.recoveryMessage>{0} is no longer confused.</WanderConfused.recoveryMessage>
-    <WanderConfused.inspectLine>Mental state: Confused and wandering</WanderConfused.inspectLine>
+    <WanderConfused.label>kafası karışmış halde dolanıyor</WanderConfused.label>
+    <WanderConfused.beginLetterLabel>kafası karışık</WanderConfused.beginLetterLabel>
+    <WanderConfused.beginLetter>{0} moralmen çötü, etrafta kafası karışık bir halde dolaşyor.</WanderConfused.beginLetter>
+    <WanderConfused.recoveryMessage>{0} şaşkınlığı geçiyor.</WanderConfused.recoveryMessage>
+    <WanderConfused.inspectLine>R: Confused and wandering</WanderConfused.inspectLine>
     
     <PanicFlee.label>panic fleeing</</PanicFlee.label>
     <PanicFlee.beginLetterLabel>flee</PanicFlee.beginLetterLabel>
