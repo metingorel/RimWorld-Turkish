@@ -16,45 +16,45 @@
     <FireStartingSpree.inspectLine>Akıl Sağlığı: Yangın çıkartma çılgınlığına kapılmış</FireStartingSpree.inspectLine>
     
     
-    <GiveUpExit.label>giving up and leaving</GiveUpExit.label>
-    <GiveUpExit.beginLetterLabel>gave up</GiveUpExit.beginLetterLabel>
-    <GiveUpExit.beginLetter>{0} is leaving the colony.</GiveUpExit.beginLetter>
-    <GiveUpExit.recoveryMessage>{0} has had a change of heart and is coming back to the colony.</GiveUpExit.recoveryMessage>
-    <GiveUpExit.inspectLine>Mental state: Given up and leaving</GiveUpExit.inspectLine>
+    <GiveUpExit.label>vazgeçme ve terketme</GiveUpExit.label>
+    <GiveUpExit.beginLetterLabel>vazgeç</GiveUpExit.beginLetterLabel>
+    <GiveUpExit.beginLetter>{0} koloniyi terkediyor.</GiveUpExit.beginLetter>
+    <GiveUpExit.recoveryMessage>{0} fikrini değiştirdi ve koloniye geri dönüyor.</GiveUpExit.recoveryMessage>
+    <GiveUpExit.inspectLine>Ruh Hali: Herşeyden vazgeçip koloniyi terketmeyi düşünüyor.</GiveUpExit.inspectLine>
     
     
-    <BingingAlcohol.label>binging on alcohol</BingingAlcohol.label>
-    <BingingAlcohol.beginLetterLabel>booze binge</BingingAlcohol.beginLetterLabel>
-    <BingingAlcohol.beginLetter>{0} is binging on alcohol.</BingingAlcohol.beginLetter>
-    <BingingAlcohol.recoveryMessage>{0} is no longer binging on alcohol.</BingingAlcohol.recoveryMessage>
-    <BingingAlcohol.inspectLine>Mental state: Binging on alcohol</BingingAlcohol.inspectLine>
+    <BingingAlcohol.label>içki içme isteği/BingingAlcohol.label>
+    <BingingAlcohol.beginLetterLabel>aşırı içki içme isteği</BingingAlcohol.beginLetterLabel>
+    <BingingAlcohol.beginLetter>{0} içki içme isteği duyuyor.</BingingAlcohol.beginLetter>
+    <BingingAlcohol.recoveryMessage>{0} içki içme isteği kalmadı.</BingingAlcohol.recoveryMessage>
+    <BingingAlcohol.inspectLine>Ruh hali: içki içmek istiyor.</BingingAlcohol.inspectLine>
     
     
-    <WanderPsychotic.label>wandering in psychosis</WanderPsychotic.label>
-    <WanderPsychotic.beginLetterLabel>daze</WanderPsychotic.beginLetterLabel>
-    <WanderPsychotic.beginLetter>{0} is wandering around in a psychotic state.</WanderPsychotic.beginLetter>
-    <WanderPsychotic.recoveryMessage>{0} - is no longer wandering in a psychotic state.</WanderPsychotic.recoveryMessage>
-    <WanderPsychotic.inspectLine>Mental state: Psychotic wandering</WanderPsychotic.inspectLine>
+    <WanderPsychotic.label>psikolojik sıkıntı</WanderPsychotic.label>
+    <WanderPsychotic.beginLetterLabel>şaşkın, afallamış</WanderPsychotic.beginLetterLabel>
+    <WanderPsychotic.beginLetter>{0} psikolojik sıkıntıları var.</WanderPsychotic.beginLetter>
+    <WanderPsychotic.recoveryMessage>{0} - psikolojik sıkıntılarından artık kurtuluyor.</WanderPsychotic.recoveryMessage>
+    <WanderPsychotic.inspectLine>Ruh hali: Psikolojik sıkıntıları var</WanderPsychotic.inspectLine>
     
     
-    <BingingFood.label>binging on food</BingingFood.label>
-    <BingingFood.beginLetterLabel>food binge</BingingFood.beginLetterLabel>
-    <BingingFood.beginLetter>{0} is pigging out on food.</BingingFood.beginLetter>
-    <BingingFood.recoveryMessage>{0} is no longer pigging out on food.</BingingFood.recoveryMessage>
-    <BingingFood.inspectLine>Mental state: Pigging out</BingingFood.inspectLine>
+    <BingingFood.label>yemek yeme isteği</BingingFood.label>
+    <BingingFood.beginLetterLabel>yemek isteği</BingingFood.beginLetterLabel>
+    <BingingFood.beginLetter>{0} fütursuzca yemek yemek istiyor.</BingingFood.beginLetter>
+    <BingingFood.recoveryMessage>{0} fütursuzca yemek yeme isteği azalıyor.</BingingFood.recoveryMessage>
+    <BingingFood.inspectLine>Ruh hali: Aşırı yemek yemek istiyor</BingingFood.inspectLine>
     
     
-    <WanderSad.label>sad wandering</WanderSad.label>
-    <WanderSad.beginLetterLabel>sad wander</WanderSad.beginLetterLabel>
-    <WanderSad.beginLetter>{0} is wandering around in sadness</WanderSad.beginLetter>
-    <WanderSad.recoveryMessage>{0} is no longer wandering in sadness.</WanderSad.recoveryMessage>
-    <WanderSad.inspectLine>Mental state: Sad wandering</WanderSad.inspectLine>
+    <WanderSad.label>üzgün üzgün dolanma</WanderSad.label>
+    <WanderSad.beginLetterLabel>üzgün üzgün dolanma</WanderSad.beginLetterLabel>
+    <WanderSad.beginLetter>{0} üzüntü içinde etrafta dolanıyor.</WanderSad.beginLetter>
+    <WanderSad.recoveryMessage>{0} üzüntü içinde dolanma hali gittikçe azalıyor.</WanderSad.recoveryMessage>
+    <WanderSad.inspectLine>Ruh hali: Üzgün üzgün dolanıyor</WanderSad.inspectLine>
     
     
-    <WanderOwnRoom.label>sitting alone</WanderOwnRoom.label>
-    <WanderOwnRoom.beginLetterLabel>hide in room</WanderOwnRoom.beginLetterLabel>
-    <WanderOwnRoom.beginLetter>{0} is hiding in HIS room.</WanderOwnRoom.beginLetter>
-    <WanderOwnRoom.recoveryMessage>{0} is no longer hiding in HIS room.</WanderOwnRoom.recoveryMessage>
-    <WanderOwnRoom.inspectLine>Mental state: Hiding in room</WanderOwnRoom.inspectLine>
+    <WanderOwnRoom.label>yalnız başına oturma</WanderOwnRoom.label>
+    <WanderOwnRoom.beginLetterLabel>odadan çıkmama</WanderOwnRoom.beginLetterLabel>
+    <WanderOwnRoom.beginLetter>{0} odasından çıkmıyor.</WanderOwnRoom.beginLetter>
+    <WanderOwnRoom.recoveryMessage>{0} odasından çıkmama hali gittikçe azalıyor.</WanderOwnRoom.recoveryMessage>
+    <WanderOwnRoom.inspectLine>Ruh hali: Odasından çıkmak istemiyor</WanderOwnRoom.inspectLine>
     
 </LanguageData>
