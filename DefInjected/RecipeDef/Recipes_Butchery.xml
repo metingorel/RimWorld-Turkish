@@ -2,7 +2,7 @@
 <LanguageData>
     
     <ButcherCorpseFlesh.label>yaratıkları parçala</ButcherCorpseFlesh.label>
-    <ButcherCorpseFlesh.description>Yaratıkları parçalamak yaratığın kullanılabilir etini elde etmeni sağlar.</ButcherCorpseFlesh.description>
+    <ButcherCorpseFlesh.description>Yaratıkları parçalamak, yaratığın kullanılabilir etini elde etmeni sağlar.</ButcherCorpseFlesh.description>
     <ButcherCorpseFlesh.jobString>Parçalanıyor.</ButcherCorpseFlesh.jobString>
     
     <ButcherCorpseMechanoid.label>robotu sök</ButcherCorpseMechanoid.label>
