@@ -36,13 +36,13 @@
     <GranduncleOrGrandaunt.label>büyük amca</GranduncleOrGrandaunt.label>
     <GranduncleOrGrandaunt.labelFemale>büyük teyze</GranduncleOrGrandaunt.labelFemale>
     
-    <GrandnephewOrGrandniece.label>grandnephew/siostry</GrandnephewOrGrandniece.label>
-    <GrandnephewOrGrandniece.labelFemale>grandniece/siostry</GrandnephewOrGrandniece.labelFemale>
+    <GrandnephewOrGrandniece.label>kardeşinin erkek torunu</GrandnephewOrGrandniece.label>
+    <GrandnephewOrGrandniece.labelFemale>kardeşinin kız torunu</GrandnephewOrGrandniece.labelFemale>
     
-    <CousinOnceRemoved.label>cousin once removed</CousinOnceRemoved.label>
+    <CousinOnceRemoved.label>geçmişte kuzeniydi</CousinOnceRemoved.label>
     
-    <SecondCousin.label>second cousin</SecondCousin.label>
+    <SecondCousin.label>kardeş torunu</SecondCousin.label>
     
-    <Kin.label>kin</Kin.label>
+    <Kin.label>akraba</Kin.label>
     
 </LanguageData>
