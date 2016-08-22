@@ -5,23 +5,23 @@
     <WanderConfused.beginLetterLabel>kafası karışık</WanderConfused.beginLetterLabel>
     <WanderConfused.beginLetter>{0} moralmen çötü, etrafta kafası karışık bir halde dolaşyor.</WanderConfused.beginLetter>
     <WanderConfused.recoveryMessage>{0} şaşkınlığı geçiyor.</WanderConfused.recoveryMessage>
-    <WanderConfused.inspectLine>R: Confused and wandering</WanderConfused.inspectLine>
+    <WanderConfused.inspectLine>Ruh hali: Kafası karışmış halde etrafta dolaşma eğilimi gösteriyor.</WanderConfused.inspectLine>
     
-    <PanicFlee.label>panic fleeing</</PanicFlee.label>
-    <PanicFlee.beginLetterLabel>flee</PanicFlee.beginLetterLabel>
-    <PanicFlee.beginLetter>{0} is fleeing in panic.</PanicFlee.beginLetter>
-    <PanicFlee.recoveryMessage>{0} is no longer fleeing in panic.</PanicFlee.recoveryMessage>
-    <PanicFlee.inspectLine>Mental state: Fleeing in panic</PanicFlee.inspectLine>
+    <PanicFlee.label>panik halinde kaçıyor</</PanicFlee.label>
+    <PanicFlee.beginLetterLabel>kaçıyor</PanicFlee.beginLetterLabel>
+    <PanicFlee.beginLetter>{0} panik içinde kaçıyor.</PanicFlee.beginLetter>
+    <PanicFlee.recoveryMessage>{0} panik halinde kaçma durumu geçiyor.</PanicFlee.recoveryMessage>
+    <PanicFlee.inspectLine>Ruh hali: panik halinde kaçma eğilimi gösteriyor</PanicFlee.inspectLine>
     
-    <Manhunter.label>manhunter</Manhunter.label>
-    <Manhunter.beginLetterLabel>manhunter</Manhunter.beginLetterLabel>
-    <Manhunter.beginLetter>{0} has become a manhunter.</Manhunter.beginLetter>
-    <Manhunter.recoveryMessage>{0}'s manhunting bloodlust has come to an end.</Manhunter.recoveryMessage>
-    <Manhunter.inspectLine>Maddened: Manhunter</Manhunter.inspectLine>
+    <Manhunter.label>insan avcısı</Manhunter.label>
+    <Manhunter.beginLetterLabel>insan avcısı</Manhunter.beginLetterLabel>
+    <Manhunter.beginLetter>{0} bir insan avcısına dönüştü.</Manhunter.beginLetter>
+    <Manhunter.recoveryMessage>{0}' in insan avcısı hali sona erdi</Manhunter.recoveryMessage>
+    <Manhunter.inspectLine>Delilik: İnsan avcısı</Manhunter.inspectLine>
     
     
     <SocialFighting.label>social fighting</SocialFighting.label>
-    <SocialFighting.recoveryMessage>{0} and {1} are no longer social fighting.</SocialFighting.recoveryMessage>
-    <SocialFighting.inspectLine>Mental state: Social fighting</SocialFighting.inspectLine>
+    <SocialFighting.recoveryMessage>{0} and {1} kavgacı hali sona erdi.</SocialFighting.recoveryMessage>
+    <SocialFighting.inspectLine>Ruh hali: Kavgacı</SocialFighting.inspectLine>
     
 </LanguageData>
