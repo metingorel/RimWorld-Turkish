@@ -40,7 +40,7 @@
 	<ClimateCycle.label>iklim döngüsü</ClimateCycle.label>
 	<ClimateCycle.description>Gezegenin eliptik yörüngesi nedeniyle, iklim döngüsü birkaç yıl sürüyor.</ClimateCycle.description>
     
-	<Planetkiller.label>gegen yokedici</Planetkiller.label>
+	<Planetkiller.label>gezegen yokedici</Planetkiller.label>
 	<Planetkiller.description>Yıldızlararası bir gezegen yokedici silah, bulunduğun gezegene yaklaşıyor. O, gezegene çarptığında tüm yaşam yok olacak.</Planetkiller.description>
     
 </LanguageData>
