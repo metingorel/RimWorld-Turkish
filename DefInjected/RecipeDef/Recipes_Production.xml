@@ -6,7 +6,7 @@
 	
 	<ExtractMetalFromSlag.label>hurda metalleri erit</ExtractMetalFromSlag.label>
 	<ExtractMetalFromSlag.description>Isı ve güçlü elektromıknatıslar kullanılarak hurda metallerden kullanışlı metalleri ayırır.</ExtractMetalFromSlag.description>
-	<ExtractMetalFromSlag.jobString>Hurdadan metaller elde ediliyor.</ExtractMetalFromSlag.jobString>
+	<ExtractMetalFromSlag.jobString>Hurdadan metal elde ediliyor.</ExtractMetalFromSlag.jobString>
 	
 	<SmeltWeapon.label>silahları erit</SmeltWeapon.label>
 	<SmeltWeapon.description>Isı ve güçlü elektromıknatıslar kullanılarak silahlardan kullanışlı metalleri ayırır.</SmeltWeapon.description>
@@ -14,7 +14,7 @@
 
 	<MakeArtilleryShell.label>ağır silah mermisi yap</MakeArtilleryShell.label>
 	<MakeArtilleryShell.description>Bir ağır silah mermisi yapar.</MakeArtilleryShell.description>
-	<MakeArtilleryShell.jobString>Ağır silah mermisi yapılyıor.</MakeArtilleryShell.jobString>
+	<MakeArtilleryShell.jobString>Ağır silah mermisi yapılyor.</MakeArtilleryShell.jobString>
 	
 	<MakeComponent.label>parça üret</MakeComponent.label>
 	<MakeComponent.description>Bir parça üret.</MakeComponent.description>
