@@ -3,15 +3,15 @@
     
     <CookMealSimple.label>basit yemek pişir</CookMealSimple.label>
     <CookMealSimple.description>Bir maddeden basit bir yemek pişirilebilir.</CookMealSimple.description>
-    <CookMealSimple.jobString>Basit yemek pişiriyor.</CookMealSimple.jobString>
+    <CookMealSimple.jobString>Basit yemek pişiriliyor.</CookMealSimple.jobString>
     
     
     <CookMealFine.label>iyi yemek pişir</CookMealFine.label>
     <CookMealFine.description>İyi bir yemek pişirmek biraz zordur, çiğ et ve ham bitkinin karışımı ile elde edlir.</CookMealFine.description>
-    <CookMealFine.jobString>İyi yemek pişiriyor.</CookMealFine.jobString>
+    <CookMealFine.jobString>İyi yemek pişiriliyor.</CookMealFine.jobString>
     
     <CookMealLavish.label>çok iyi yemek pişir</CookMealLavish.label>
     <CookMealLavish.description>Çok iyi bir yemek pişirmek oldukça oldukça zordur. Bolca çiğ et ve bitkinin karışımı ile elde edilir. Bir sürü yemek malzemesi ziyan edilir.</CookMealLavish.description>
-    <CookMealLavish.jobString>Çok iyi yemek pişiriyor.</CookMealLavish.jobString>
+    <CookMealLavish.jobString>Çok iyi yemek pişiriliyor.</CookMealLavish.jobString>
     
 </LanguageData>
