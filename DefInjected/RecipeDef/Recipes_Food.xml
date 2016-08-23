@@ -3,11 +3,11 @@
     
     <MakeKibble.label>yem yap</MakeKibble.label>
     <MakeKibble.description>Çiğ et ile bitkiler karıştırlarak hayvan yemi yapılır</MakeKibble.description>
-    <MakeKibble.jobString>Yem yapıyor.</MakeKibble.jobString>
+    <MakeKibble.jobString>Yem yapılıyor.</MakeKibble.jobString>
     
     <MakePemmican.label>kurutulmuş yiyecek yap</MakePemmican.label>
     <MakePemmican.description>Kurutulmuş yiyecek dayanıklı olup çiğ et ile bitkiler karıştırılarak yapılır. Tadı ahım şahım değildir ancak soğutucuya gerek olmadan bir yıl bozulmadan dayanabilir.</MakePemmican.description>
-    <MakePemmican.jobString>Kurulmuş yiyecek yapıyor.</MakePemmican.jobString>
+    <MakePemmican.jobString>Kurulmuş yiyecek yapılıyor.</MakePemmican.jobString>
     
     
 </LanguageData>
