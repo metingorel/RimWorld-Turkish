@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <MakeKibble.label>make kibble</MakeKibble.label>
-    <MakeKibble.description>Make animal kibble by combining raw meat and plants.</MakeKibble.description>
-    <MakeKibble.jobString>Making kibble.</MakeKibble.jobString>
+    <MakeKibble.label>yem yap</MakeKibble.label>
+    <MakeKibble.description>Çiğ et ile bitkiler karıştırlarak hayvan yemi yapılır</MakeKibble.description>
+    <MakeKibble.jobString>yem yapmak.</MakeKibble.jobString>
     
-    <MakePemmican.label>make pemmican</MakePemmican.label>
-    <MakePemmican.description>Make pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a year without refrigeration.</MakePemmican.description>
-    <MakePemmican.jobString>Making pemmican.</MakePemmican.jobString>
+    <MakePemmican.label>kurutulmuş yiyecek yap</MakePemmican.label>
+    <MakePemmican.description>Kurutulmuş yiyecek dayanıklı olup çiğ et ile bitkiler karıştırılarak yapılır. Tadı ahım şahım değildir ancak soğutucuya gerek olmadan bir yıl bozulmadan dayanabilir.</MakePemmican.description>
+    <MakePemmican.jobString>kurulmuş yiyecek yapmak.</MakePemmican.jobString>
     
     
 </LanguageData>
