@@ -13,7 +13,7 @@
 	<SmeltWeapon.jobString>Silahtan metal elde ediliyor.</SmeltWeapon.jobString>
 
 	<MakeArtilleryShell.label>ağır silah mermisi yap</MakeArtilleryShell.label>
-	<MakeArtilleryShell.description>Bir ağır silah mermisi yapar..</MakeArtilleryShell.description>
+	<MakeArtilleryShell.description>Bir ağır silah mermisi yapar.</MakeArtilleryShell.description>
 	<MakeArtilleryShell.jobString>Ağır silah mermisi yapılyıor.</MakeArtilleryShell.jobString>
 	
 	<MakeComponent.label>parça üret</MakeComponent.label>
