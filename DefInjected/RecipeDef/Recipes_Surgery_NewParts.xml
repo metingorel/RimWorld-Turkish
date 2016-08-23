@@ -41,16 +41,16 @@
 	<InstallSimpleProstheticArm.description>Basit protez kol takılır.</InstallSimpleProstheticArm.description>
 	<InstallSimpleProstheticArm.jobString>Basit protez kol takılıyor.</InstallSimpleProstheticArm.jobString>
 	
-	<InstallDenture.label>install denture</InstallDenture.label>
-	<InstallDenture.description>Installs denture.</InstallDenture.description>
-	<InstallDenture.jobString>Installing denture.</InstallDenture.jobString>
+	<InstallDenture.label>protez diş takılması</InstallDenture.label>
+	<InstallDenture.description>Protez diş takılır.</InstallDenture.description>
+	<InstallDenture.jobString>Protez diş takılıyor.</InstallDenture.jobString>
 	
-	<InstallPowerClaw.label>install power claw</InstallPowerClaw.label>
-	<InstallPowerClaw.description>Installs power claw.</InstallPowerClaw.description>
-	<InstallPowerClaw.jobString>Installing power claw.</InstallPowerClaw.jobString>
+	<InstallPowerClaw.label>güç pençesi takılması</InstallPowerClaw.label>
+	<InstallPowerClaw.description>Güç pençesi takılır.</InstallPowerClaw.description>
+	<InstallPowerClaw.jobString>Güç pençesi takılıyor.</InstallPowerClaw.jobString>
 	
-	<InstallScytherBlade.label>install scyther blade</InstallScytherBlade.label>
-	<InstallScytherBlade.description>Installs scyther blade.</InstallScytherBlade.description>
-	<InstallScytherBlade.jobString>Installing scyther blade.</InstallScytherBlade.jobString>
+	<InstallScytherBlade.label>Scyther bıçağı takılması</InstallScytherBlade.label>
+	<InstallScytherBlade.description>Scyther bıçağı takılması</InstallScytherBlade.description>
+	<InstallScytherBlade.jobString>Scyther bıçağı takılıyor.</InstallScytherBlade.jobString>
 
 </LanguageData>
