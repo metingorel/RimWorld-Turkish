@@ -7,7 +7,7 @@
 	
 	<InstallNaturalLiver.label>karaciğer nakli</InstallNaturalLiver.label>
 	<InstallNaturalLiver.description>Karaciğer nakli yapılır.</InstallNaturalLiver.description>
-	<InstallNaturalLiver.jobString>Karaciğer nakli yapılıy.</InstallNaturalLiver.jobString>
+	<InstallNaturalLiver.jobString>Karaciğer nakli yapılıyor.</InstallNaturalLiver.jobString>
 	
 	<InstallNaturalKidney.label>böbrek nakli</InstallNaturalKidney.label>
 	<InstallNaturalKidney.description>Böbrek nakli yapılır.</InstallNaturalKidney.description>
@@ -15,7 +15,7 @@
 	
 	<InstallNaturalLung.label>akciğer nakli</InstallNaturalLung.label>
 	<InstallNaturalLung.description>Akciğer nakli yapılır</InstallNaturalLung.description>
-	<InstallNaturalLung.jobString>Akciğer naklediliyor.</InstallNaturalLung.jobString>
+	<InstallNaturalLung.jobString>Akciğer nakli yapılıyor.</InstallNaturalLung.jobString>
 	
 	<InstallPegLeg.label>çubuk bacak takılması</InstallPegLeg.label>
 	<InstallPegLeg.description>Çubuk bacak takılır.</InstallPegLeg.description>
