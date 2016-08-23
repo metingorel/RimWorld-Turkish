@@ -3,10 +3,10 @@
     
     <ButcherCorpseFlesh.label>yaratıkları parçala</ButcherCorpseFlesh.label>
     <ButcherCorpseFlesh.description>Yaratıkları parçalamak, yaratığın kullanılabilir etini elde etmeni sağlar.</ButcherCorpseFlesh.description>
-    <ButcherCorpseFlesh.jobString>Parçalıyor.</ButcherCorpseFlesh.jobString>
+    <ButcherCorpseFlesh.jobString>Etler parçalanıyor.</ButcherCorpseFlesh.jobString>
     
     <ButcherCorpseMechanoid.label>robotu sök</ButcherCorpseMechanoid.label>
     <ButcherCorpseMechanoid.description>Bozulmuş bir robotu sökmek bileşen parçası elde etmeni sağlar.</ButcherCorpseMechanoid.description>
-    <ButcherCorpseMechanoid.jobString>Robotu söküyor.</ButcherCorpseMechanoid.jobString>
+    <ButcherCorpseMechanoid.jobString>Robot sökülüyor.</ButcherCorpseMechanoid.jobString>
   
 </LanguageData>
