@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <TimeAsColonist.label>time as a colonist</TimeAsColonist.label>
-    <TimeAsColonist.description>Total time spent as a colonist.</TimeAsColonist.description>
+    <TimeAsColonist.label>Bir kolonici olarak zamanı</TimeAsColonist.label>
+    <TimeAsColonist.description>Tüm zamanını kolonici olarak geçirdi.</TimeAsColonist.description>
     
-    <TimeAsPrisoner.label>time as a prisoner</TimeAsPrisoner.label>
-    <TimeAsPrisoner.description>Total time spent as a prisoner.</TimeAsPrisoner.description>
+    <TimeAsPrisoner.label>Bir mahkum olarak zamanı</TimeAsPrisoner.label>
+    <TimeAsPrisoner.description>Tüm zamanını mahkum olarak geçirdi.</TimeAsPrisoner.description>
     
-    <TimeInBed.label>time in a bed</TimeInBed.label>
-    <TimeInBed.description>Total time spent in a bed.</TimeInBed.description>
+    <TimeInBed.label>yatakta geçirdiği zaman</TimeInBed.label>
+    <TimeInBed.description>Tüm zamanını yatakta geçirdi.</TimeInBed.description>
     
-    <TimeInBedForMedicalReasons.label>time in a bed for medical reasons</TimeInBedForMedicalReasons.label>
-    <TimeInBedForMedicalReasons.description>Total time spent in a bed for medical reasons: awaiting treatment, recovering from injuries or being operated on.</TimeInBedForMedicalReasons.description>
+    <TimeInBedForMedicalReasons.label>Tibbi nedenlerle yatakta geçirdiği zaman</TimeInBedForMedicalReasons.label>
+    <TimeInBedForMedicalReasons.description>Tüm zamanını tıbbi nedenlerle yatakta geçirdi: örneğin bekleyen tedavi, yaralanmalardan yada geçirilen ameliyatlardan kaynaklanan işlemler.</TimeInBedForMedicalReasons.description>
     
     <TimeDowned.label>time downed</TimeDowned.label>
     <TimeDowned.description>Total time spent downed.</TimeDowned.description>
