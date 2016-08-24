@@ -49,7 +49,7 @@
     <OperationsReceived.label>geçirilen operasyon</OperationsReceived.label>
     <OperationsReceived.description>Geçirdiğim operasyon sayısı.</OperationsReceived.description>
     
-    <OperationsPerformed.label>yapılan operasyons</OperationsPerformed.label>
+    <OperationsPerformed.label>yapılan operasyon</OperationsPerformed.label>
     <OperationsPerformed.description>Yaptığım tıbbi operasyon sayısı.</OperationsPerformed.description>
     
     <TimesTendedTo.label>geçirilen tedavi</TimesTendedTo.label>
