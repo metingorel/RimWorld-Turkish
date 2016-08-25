@@ -13,7 +13,7 @@
     <HospitalBed.label>hastane yatağı</HospitalBed.label>
     <HospitalBed.description>Kolonicilerin hastane yatağı yapmasını sağlar, tıbbi müdehalelerde başarı şansını artırır.</HospitalBed.description>
     
-    <MultiAnalyzer.label>çokyönlü analizatör</MultiAnalyzer.label>
-    <MultiAnalyzer.description>Kolonicilerin çokyönlü analizatör yapımına izin verir, araştırma tesgahına yakın konumlandırılırsa araştırma hızını artırır ve yüksek seviye araştırma projelerinine izin verir.</MultiAnalyzer.description>
+    <MultiAnalyzer.label>çok yönlü analizatör</MultiAnalyzer.label>
+    <MultiAnalyzer.description>Kolonicilerin çok yönlü analizatör yapımına izin verir, araştırma tezgahına yakın konumlandırılırsa araştırma hızını arttırır ve yüksek seviye araştırma projelerine izin verir.</MultiAnalyzer.description>
     
 </LanguageData>
