@@ -8,12 +8,12 @@
     <MoisturePump.description>Nem pompası ünitelerinin konmasını sağlar, konulduğu bölgenin toprağını kurutur.</MoisturePump.description>
     
     <GeothermalPower.label>jeotermak güç</GeothermalPower.label>
-    <GeothermalPower.description>Gayzer in üstüne jeotermal güç santrali yapmamızı sağlar, kesintisiz güç kaynağıdır.</GeothermalPower.description>
+    <GeothermalPower.description>Gayzerin üstüne jeotermal güç santrali yapmamızı sağlar, kesintisiz güç kaynağıdır.</GeothermalPower.description>
     
     <HospitalBed.label>hastane yatağı</HospitalBed.label>
-    <HospitalBed.description>Kolonitslerin hastane yatağı yapmasını sağlar, tıbbi müdehalelerde başarı şansını artırır.</HospitalBed.description>
+    <HospitalBed.description>Kolonicilerin hastane yatağı yapmasını sağlar, tıbbi müdehalelerde başarı şansını artırır.</HospitalBed.description>
     
     <MultiAnalyzer.label>çokyönlü analizatör</MultiAnalyzer.label>
-    <MultiAnalyzer.description>Kolonistlerin çokyönlü analizatör yapımına izin verir, Araştırma tesgahına yakın konumlandırılırsa araştırma hızını artırır ve yüksek seviye araştırma projelerinine izin verir.</MultiAnalyzer.description>
+    <MultiAnalyzer.description>Kolonicilerin çokyönlü analizatör yapımına izin verir, araştırma tesgahına yakın konumlandırılırsa araştırma hızını artırır ve yüksek seviye araştırma projelerinine izin verir.</MultiAnalyzer.description>
     
 </LanguageData>
