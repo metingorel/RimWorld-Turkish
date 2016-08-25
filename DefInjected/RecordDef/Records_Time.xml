@@ -2,39 +2,39 @@
 <LanguageData>
     
     <TimeAsColonist.label>Bir kolonici olarak geçirdiği zaman</TimeAsColonist.label>
-    <TimeAsColonist.description>Toplamda kolonici olarak zaman geçirdi.</TimeAsColonist.description>
+    <TimeAsColonist.description>Toplamda kolonici olarak zamanını geçirdi.</TimeAsColonist.description>
     
     <TimeAsPrisoner.label>Bir mahkum olarak geçirdiği zaman</TimeAsPrisoner.label>
     <TimeAsPrisoner.description>Toplamda mahkum olarak zaman geçirdi.</TimeAsPrisoner.description>
     
     <TimeInBed.label>yatakta geçirdiği zaman</TimeInBed.label>
-    <TimeInBed.description>Toplamda yatakta zaman geçirdi.</TimeInBed.description>
+    <TimeInBed.description>Toplamda yatakta zamanını geçirdi.</TimeInBed.description>
     
-    <TimeInBedForMedicalReasons.label>Tibbi nedenlerle yatakta geçirdiği zaman</TimeInBedForMedicalReasons.label>
-    <TimeInBedForMedicalReasons.description>Toplamda tıbbi nedenlerle yatakta zaman geçirdi: örneğin bekleyen tedavi, yaralanmalardan yada geçirilen ameliyatlardan kaynaklanan işlemler.</TimeInBedForMedicalReasons.description>
+    <TimeInBedForMedicalReasons.label>tıbbi nedenlerle yatakta geçirdiği zaman</TimeInBedForMedicalReasons.label>
+    <TimeInBedForMedicalReasons.description>Toplamda tıbbi nedenlerle yatakta zamanını geçirdi: örneğin bekleyen tedavi, yaralanmalardan yada geçirilen ameliyatlardan kaynaklanan işlemler.</TimeInBedForMedicalReasons.description>
     
     <TimeDowned.label>içki içerek geçirdiği zaman</TimeDowned.label>
-    <TimeDowned.description>Toplamda içerek zaman geçirdi.</TimeDowned.description>
+    <TimeDowned.description>Toplamda içerek zamanını geçirdi.</TimeDowned.description>
     
     <TimeGettingFood.label>yiyecek arayarak ve yiyerek geçirdiği zaman</TimeGettingFood.label>
-    <TimeGettingFood.description>Toplamda yiyecek arayarak ve yiyerek zaman geçirdi.</TimeGettingFood.description>
+    <TimeGettingFood.description>Toplamda yiyecek arayarak ve yiyerek zamanını geçirdi.</TimeGettingFood.description>
     
     <TimeGettingJoy.label>eğlencede geçirdiği zaman</TimeGettingJoy.label>
-    <TimeGettingJoy.description>Toplamda eğlenncede zaman geçirdi.</TimeGettingJoy.description>
+    <TimeGettingJoy.description>Toplamda eğlencede zamanını geçirdi.</TimeGettingJoy.description>
     
     <TimeUnderRoof.label>kapalı bir ortamda geçirdiği zaman</TimeUnderRoof.label>
-    <TimeUnderRoof.description>Toplamda kapalı bir ortamda zaman geçirdi.</TimeUnderRoof.description>
+    <TimeUnderRoof.description>Toplamda kapalı bir ortamda zamanını geçirdi.</TimeUnderRoof.description>
     
     <TimeDrafted.label>plan yaparken geçirdiği zaman</TimeDrafted.label>
     <TimeDrafted.description>Toplamda plan yaparak zamanını geçirdi.</TimeDrafted.description>
     
-    <TimeOnFire.label>Ateş ederek geçirdiği zaman</TimeOnFire.label>
+    <TimeOnFire.label>ateş ederek geçirdiği zaman</TimeOnFire.label>
     <TimeOnFire.description>Toplamda ateş ederek zamanını geçirdi.</TimeOnFire.description>
     
-    <TimeInMentalState.label>Ruhsal sıkıntılarla uğraşırken geçirdiği zaman</TimeInMentalState.label>
+    <TimeInMentalState.label>ruhsal sıkıntılarla uğraşırken geçirdiği zaman</TimeInMentalState.label>
     <TimeInMentalState.description>Toplamda ruhsal sorunları ile uğraşarak zamanını geçirdi.</TimeInMentalState.description>
     
-    <TimeHauling.label>Taşıma için harcadığı zaman</TimeHauling.label>
+    <TimeHauling.label>taşıma için harcadığı zaman</TimeHauling.label>
     <TimeHauling.description>Toplamda birşeyler taşıyarak zamanını geçirdi.</TimeHauling.description>
     
     <TimeHandlingAnimals.label>hayvanların bakımına ayırdığı zaman</TimeHandlingAnimals.label>
@@ -43,31 +43,31 @@
     <TimeFirefighting.label>Yangın ile mücadele ettiği zaman</TimeFirefighting.label>
     <TimeFirefighting.description>Toplamda yangınla mücadele ederek zamanını geçirdi.</TimeFirefighting.description>
     
-    <TimeWardening.label>time wardening</TimeWardening.label>
-    <TimeWardening.description>Total time spent wardening.</TimeWardening.description>
+    <TimeWardening.label>gardiyanlık yaparak geçirdiği zaman</TimeWardening.label>
+    <TimeWardening.description>Toplamda gardiyanlık yaparak zamanını geçirdi.</TimeWardening.description>
     
-    <TimeHunting.label>time hunting</TimeHunting.label>
-    <TimeHunting.description>Total time spent hunting.</TimeHunting.description>
+    <TimeHunting.label>avlanarak geçirdiği zaman</TimeHunting.label>
+    <TimeHunting.description>Toplamda avlanarak zamanını geçirdi.</TimeHunting.description>
     
-    <TimeConstructing.label>time constructing</TimeConstructing.label>
-    <TimeConstructing.description>Total time spent constructing and deconstructing.</TimeConstructing.description>
+    <TimeConstructing.label>inşa işlerinde geçirdiği zaman</TimeConstructing.label>
+    <TimeConstructing.description>Toplamda inşa ederek yada inşaat yıkarak zamanını geçirdi.</TimeConstructing.description>
     
-    <TimeTreatingAndFeeding.label>time treating and feeding</TimeTreatingAndFeeding.label>
-    <TimeTreatingAndFeeding.description>Total time spent treating and feeding patients.</TimeTreatingAndFeeding.description>
+    <TimeTreatingAndFeeding.label>tedavi ve hasta besleyerek geçirdiği zaman</TimeTreatingAndFeeding.label>
+    <TimeTreatingAndFeeding.description>Toplamda hastaları tedavi ederek yada besleyerek zamanını geçirdi.</TimeTreatingAndFeeding.description>
     
-    <TimeResearching.label>time researching</TimeResearching.label>
-    <TimeResearching.description>Total time spent researching.</TimeResearching.description>
+    <TimeResearching.label>araştırmaya ayırdığı zaman</TimeResearching.label>
+    <TimeResearching.description>Toplamda araştırmaya zamanını ayırdı.</TimeResearching.description>
     
-    <TimeCleaning.label>time cleaning</TimeCleaning.label>
-    <TimeCleaning.description>Total time spent cleaning.</TimeCleaning.description>
+    <TimeCleaning.label>temizlik yaparak geçirdiği zaman</TimeCleaning.label>
+    <TimeCleaning.description>Toplamda temizlik yaparak zamanını geçirdi.</TimeCleaning.description>
     
-    <TimeRepairing.label>time repairing</TimeRepairing.label>
-    <TimeRepairing.description>Total time spent repairing.</TimeRepairing.description>
+    <TimeRepairing.label>tamir ederek geçirdiği zaman</TimeRepairing.label>
+    <TimeRepairing.description>Toplamda tamir ederek zamanını geçirdi.</TimeRepairing.description>
     
-    <TimeMining.label>time mining</TimeMining.label>
-    <TimeMining.description>Total time spent mining.</TimeMining.description>
+    <TimeMining.label>maden kazarak geçirdiği zaman</TimeMining.label>
+    <TimeMining.description>Toplamda maden kazarak zaman geçirdi.</TimeMining.description>
     
-    <TimeSowingAndHarvesting.label>time sowing and harvesting</TimeSowingAndHarvesting.label>
-    <TimeSowingAndHarvesting.description>Total time spent sowing, harvesting and cutting plants.</TimeSowingAndHarvesting.description>
+    <TimeSowingAndHarvesting.label>ekerek yada hasat ederek geçirdiği zaman</TimeSowingAndHarvesting.label>
+    <TimeSowingAndHarvesting.description>Toplamda ekerek yada  hasat ederek yada bitki keserek zamanını geçirdi.</TimeSowingAndHarvesting.description>
     
 </LanguageData>
