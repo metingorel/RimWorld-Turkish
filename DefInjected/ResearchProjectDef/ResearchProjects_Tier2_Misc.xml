@@ -2,19 +2,19 @@
 <LanguageData>
     
     <Batteries.label>Aküler</Batteries.label>
-    <Batteries.description>Aküler elektriği depolamanızı sağlar.</Batteries.description>
+    <Batteries.description>Aküler, elektriği depolamanızı sağlar.</Batteries.description>
     
     <NutrientPaste.label>besin macunu</NutrientPaste.label>
-    <NutrientPaste.description>Ham besin ürünlerini kolay yenebilir ve stoklanabilir besin macununa çevirmeni sağlar.</NutrientPaste.description>
+    <NutrientPaste.description>Ham besin ürünlerini, kolay yenebilir ve stoklanabilir besin macununa çevirmeni sağlar.</NutrientPaste.description>
     
     <SolarPanels.label>güneş panelleri</SolarPanels.label>
     <SolarPanels.description>Güneş paneli yaparsan Güneşten elektrik üretmeni sağlar.</SolarPanels.description>
     
     <AirConditioning.label>klima</AirConditioning.label>
-    <AirConditioning.description>Klima yaptığın odaları soğutabilir ve ısıtabilirsin.</AirConditioning.description>
+    <AirConditioning.description>Klima, yaptığın odaları soğutabilir ve ısıtabilirsin.</AirConditioning.description>
     
     <Autodoors.label>oto. kapılar.</Autodoors.label>
-    <Autodoors.description>Otomatik kapı yapılan yerlerde kise yavaşlamadan yoluna devam eder.</Autodoors.description>
+    <Autodoors.description>Otomatik kapı yapılan yerlerde kişiler yavaşlamadan yoluna devam eder.</Autodoors.description>
     
     <Hydroponics.label>topraksız tarım</Hydroponics.label>
     <Hydroponics.description>Topraksız tarım masalarında içerde havadan veya arazi koşullarından etkilenmeden bitki yetiştirebilirsin.</Hydroponics.description>
@@ -32,13 +32,13 @@
     <Machining.description>Mekanik İşleme masası yaparsan silah ve makine yapabilir veya mechanoidlerin ölülerini parçalayabilirsin.</Machining.description>
     
     <Mortars.label>Havan topu</Mortars.label>
-    <Mortars.description>Havan topu yapmayı öğrenir, uzun mesafeden mermileri duvarları ardına yollayabilirsin.</Mortars.description>
+    <Mortars.description>Havan topu yapmayı öğrenir, uzun mesafeden mermileri duvarların ardına yollayabilirsin.</Mortars.description>
     
     <IEDBomb.label>patlayan DYPler</IEDBomb.label>
-    <IEDBomb.description>Kolonistlerin patlayan DYP-doğaçlama yapılan patlayıcılar dan tuzaklar kurmasına olanak sağlar. </IEDBomb.description>
+    <IEDBomb.description>Kolonistlerin patlayan DYP-doğaçlama yapılan patlayıcılardan tuzaklar kurmasına olanak sağlar. </IEDBomb.description>
     
     <IEDIncendiary.label>yanıcı DYPler</IEDIncendiary.label>
-    <IEDIncendiary.description>Kolonistlerin yanıcı DYP-doğaçlama yapılan patlayıcılar dan tuzaklar kurmasına olanak sağlar.</IEDIncendiary.description>
+    <IEDIncendiary.description>Kolonistlerin yanıcı DYP-doğaçlama yapılan patlayıcılardan tuzaklar kurmasına olanak sağlar.</IEDIncendiary.description>
    
     <MicroelectronicsBasics.label>mikroelektronik temelleri</MicroelectronicsBasics.label>
      <MicroelectronicsBasics.description>Karışık elektroniğin kapılarını açar.Bu yüksek teknoloji araştırma tezgahı, haberleşme konsolu ve tüplü televizyonlar gibi diğer araştırma projeleri ve cryptosleep sekmelerini açar.</MicroelectronicsBasics.description>
