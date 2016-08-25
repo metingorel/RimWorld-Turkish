@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<Impressiveness.label>impressiveness</Impressiveness.label>
-	<Impressiveness.scoreStages.0.label>awful</Impressiveness.scoreStages.0.label>
-	<Impressiveness.scoreStages.1.label>repulsive</Impressiveness.scoreStages.1.label>
-	<Impressiveness.scoreStages.2.label>dull</Impressiveness.scoreStages.2.label>
-	<Impressiveness.scoreStages.3.label>mediocre</Impressiveness.scoreStages.3.label>
-	<Impressiveness.scoreStages.4.label>interesting</Impressiveness.scoreStages.4.label>
-	<Impressiveness.scoreStages.5.label>little bit impressive</Impressiveness.scoreStages.5.label>
-	<Impressiveness.scoreStages.6.label>impressive</Impressiveness.scoreStages.6.label>
-	<Impressiveness.scoreStages.7.label>very impressive</Impressiveness.scoreStages.7.label>
-	<Impressiveness.scoreStages.8.label>extremely impressive</Impressiveness.scoreStages.8.label>
-	<Impressiveness.scoreStages.9.label>unbelievably impressive</Impressiveness.scoreStages.9.label>
-	<Impressiveness.scoreStages.10.label>miraculously wonderful</Impressiveness.scoreStages.10.label>
-	<Impressiveness.scoreStages.11.label>wonder of the World</Impressiveness.scoreStages.11.label>
+	<Impressiveness.label>etkileyicilik</Impressiveness.label>
+	<Impressiveness.scoreStages.0.label>korkunç</Impressiveness.scoreStages.0.label>
+	<Impressiveness.scoreStages.1.label>iğrenç</Impressiveness.scoreStages.1.label>
+	<Impressiveness.scoreStages.2.label>donuk</Impressiveness.scoreStages.2.label>
+	<Impressiveness.scoreStages.3.label>vasat</Impressiveness.scoreStages.3.label>
+	<Impressiveness.scoreStages.4.label>ilginç</Impressiveness.scoreStages.4.label>
+	<Impressiveness.scoreStages.5.label>biraz etkileyici</Impressiveness.scoreStages.5.label>
+	<Impressiveness.scoreStages.6.label>etkileyici</Impressiveness.scoreStages.6.label>
+	<Impressiveness.scoreStages.7.label>çok etkileyici</Impressiveness.scoreStages.7.label>
+	<Impressiveness.scoreStages.8.label>son derece etkileyici</Impressiveness.scoreStages.8.label>
+	<Impressiveness.scoreStages.9.label>inanılmaz etkileyici</Impressiveness.scoreStages.9.label>
+	<Impressiveness.scoreStages.10.label>mucizevi bir şekilde harika</Impressiveness.scoreStages.10.label>
+	<Impressiveness.scoreStages.11.label>Dünya harikası</Impressiveness.scoreStages.11.label>
 	
 	<Wealth.label>wealth</Wealth.label>
 	<Wealth.scoreStages.0.label>impoverished</Wealth.scoreStages.0.label>
