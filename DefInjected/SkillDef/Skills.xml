@@ -26,7 +26,7 @@
     <Cooking.pawnLabel>Cook</Cooking.pawnLabel>
     
     <Construction.skillLabel>İnşaat</Construction.skillLabel>
-    <Construction.description>İyi ustalar, kısa zamanda  kaliteli mobilyalar yapar  ve yapılar inşa eder.</Construction.description>
+    <Construction.description>İyi ustalar; kısa zamanda  kaliteli mobilyalar yapar  ve yapılar inşa eder.</Construction.description>
     <Construction.pawnLabel>Usta</Construction.pawnLabel>
     
     <Growing.skillLabel>Yetiştirme</Growing.skillLabel>
@@ -37,16 +37,16 @@
     <Mining.description>Tüneller kazar, mineralleri ve gömülü kaynakları ayrıştırır.</Mining.description>
     <Mining.pawnLabel>Madenci</Mining.pawnLabel>
     
-    <Artistic.skillLabel>Artistic</Artistic.skillLabel>
-    <Artistic.description>Crafting art.</Artistic.description>
-    <Artistic.pawnLabel>Artist</Artistic.pawnLabel>
+    <Artistic.skillLabel>Sanat</Artistic.skillLabel>
+    <Artistic.description>Sanat eserleri yapar.</Artistic.description>
+    <Artistic.pawnLabel>Sanatçı</Artistic.pawnLabel>
     
-    <Crafting.skillLabel>Crafting</Crafting.skillLabel>
-    <Crafting.description>Crafting general items including weapons and tools.</Crafting.description>
-    <Crafting.pawnLabel>Craftsman</Crafting.pawnLabel>
+    <Crafting.skillLabel>Zanaat</Crafting.skillLabel>
+    <Crafting.description>Silahlar ve araçlar da dahil olmak üzere günlük kullanım için alet adavat yapar.</Crafting.description>
+    <Crafting.pawnLabel>Zanaatkar</Crafting.pawnLabel>
     
-    <Research.skillLabel>Research</Research.skillLabel>
-    <Research.description>Investigating evidence, doing experiments, and learning.</Research.description>
-    <Research.pawnLabel>Researcher</Research.pawnLabel>
+    <Research.skillLabel>Araştırma</Research.skillLabel>
+    <Research.description>Kanıtları inceler,deneyler yapar ve öğrenir.</Research.description>
+    <Research.pawnLabel>Araştırmacı</Research.pawnLabel>
     
 </LanguageData>
