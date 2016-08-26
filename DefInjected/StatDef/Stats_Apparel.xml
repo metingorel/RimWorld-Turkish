@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <ArmorRating_Blunt.label>Armor - Blunt</ArmorRating_Blunt.label>
-    <ArmorRating_Blunt.description>Armor against blunt damage like club attacks, rock falls, and explosions.</ArmorRating_Blunt.description>
+    <ArmorRating_Blunt.label>Zırh - kesici olmayan</ArmorRating_Blunt.label>
+    <ArmorRating_Blunt.description>Patlamalar, kaya düşmeleri , club saldırıları gibi kesici olmayan hasarlara karşı zırh.</ArmorRating_Blunt.description>
     
     <ArmorRating_Sharp.label>Armor - Sharpe</ArmorRating_Sharp.label>
     <ArmorRating_Sharp.description>Armor against sharp damage like bullets, knife stabs, and animal bites.</ArmorRating_Sharp.description>
