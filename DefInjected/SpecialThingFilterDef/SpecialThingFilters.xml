@@ -14,6 +14,6 @@
     <AllowNonSmeltableWeapons.description>Silahların geridönüştürülemez olmasına izin verir.</AllowNonSmeltableWeapons.description>
     
     <AllowPlantFood.label>gıda mahsullerine izin verir</AllowPlantFood.label>
-    <AllowPlantFood.description>Saman gibi hasat edilmemiş bitkilere eşdeğer kalitede gıdalara izin verir. </AllowPlantFood.description>
+    <AllowPlantFood.description>Kuru ot gibi hasat edilmemiş bitkilere eşdeğer kalitede gıdalara izin verir. </AllowPlantFood.description>
     
 </LanguageData>
