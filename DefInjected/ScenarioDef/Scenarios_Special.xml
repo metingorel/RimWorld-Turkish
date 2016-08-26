@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <TheRichExplorer.label>Varlıklı Gezgin</TheRichExplorer.label>
-    <TheRichExplorer.description>İnsanlar, parıltılı bir yaşam sürdüğünüz evinizi terk ettiğiniz için sizin deli olduğunuzu düşünüyordu, ama siz her zaman nöro simülatörün dışında - yıldızları keşfetmek istemiştiniz. Ama şimdi uyku kapsülünde geçen uzun bir yolculuğun sonundasınız, neye benzedğini görmek için bilinmeyen bir gezegene, Rimworld' a iniyorsunuz.</TheRichExplorer.description>
+    <TheRichExplorer.label>Varlıklı Kaşif</TheRichExplorer.label>
+    <TheRichExplorer.description>İnsanlar, parıltılı bir yaşam sürdüğünüz evinizi terk ettiğiniz için sizin deli olduğunuzu düşünüyordu, fakat siz, her zaman nöro simülatörün dışında - yıldızları keşfetmek istemiştiniz. Şimdi uyku kapsülünde geçen uzun bir yolculuğun sonundasınız, neye benzediğini görmek için bilinmeyen bir gezegene, Rimworld' a iniyorsunuz.</TheRichExplorer.description>
     
-  	<TheRichExplorer.scenario.name>The Rich Explorer</TheRichExplorer.scenario.name>
-  	<TheRichExplorer.scenario.description>People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.</TheRichExplorer.scenario.description>
-  	<TheRichExplorer.scenario.summary>One rich explorer out to experience the universet.</TheRichExplorer.scenario.summary>
-  	<TheRichExplorer.scenario.parts.12.text>The neurosimulations, holo-games, and free-orgies were never enough for you. You wanted more - the grit and consequence of real life, like they talk about in the history books. You wanted to know what real challenge and consequence feel like.\n\nNow, after a journey of decades in cryptosleep, you're landing on this unknown rimworld. Real consequences await you.</TheRichExplorer.scenario.parts.12.text>
+  	<TheRichExplorer.scenario.name>Varlıklı Kaşif</TheRichExplorer.scenario.name>
+  	<TheRichExplorer.scenario.description>İnsanlar, parıltılı bir yaşam sürdüğünüz evinizi terk ettiğiniz için sizin deli olduğunuzu düşünüyordu, fakat siz, her zaman nöro simülatörün dışında - yıldızları keşfetmek istemiştiniz. Şimdi uyku kapsülünde geçen uzun bir yolculuğun sonundasınız, neye benzediğini görmek için bilinmeyen bir gezegene, Rimworld' a iniyorsunuz.</TheRichExplorer.scenario.description>
+  	<TheRichExplorer.scenario.summary>Varlıklı bir kaşif, evreni tecrübe ediyor.</TheRichExplorer.scenario.summary>
+  	<TheRichExplorer.scenario.parts.12.text>Nörosimülasyonlar, halografik oyunlar ve herşeyin serbest olduğu partiler asla sana yeterli gelmedi. Sen daha fazlasını istedin - taş parçaları ve gerçek hayatın sonuçları, tıpkı tarih kitaplarında onlardan bahsedildiği gibi. Sen; sonunda nasıl hissedeceğini bilmek isteyeceğin gerçek bir meydan okuma arıyordun.\n\nŞimdi, uyku kapsülünde onlarca yıl süren bir yolculuktan sonra, bu bilinmeyen gezegene, Rimworl'a iniyorsun. Gerçekler sonuçlar seni bekliyor.</TheRichExplorer.scenario.parts.12.text>
  
     <LostTribe.label>Lost Tribe</LostTribe.label>
     <LostTribe.description>Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.</LostTribe.description>
