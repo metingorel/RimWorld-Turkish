@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <AllowCorpsesColonist.label>allow colonist corpses</AllowCorpsesColonist.label>
-    <AllowCorpsesColonist.description>Allow dead former colonists.</AllowCorpsesColonist.description>
+    <AllowCorpsesColonist.label>kolonici cesetlerine izin verir</AllowCorpsesColonist.label>
+    <AllowCorpsesColonist.description>Ölmüş önceki kolonicilere izin verir.</AllowCorpsesColonist.description>
     
-    <AllowCorpsesStranger.label>allow stranger corpses</AllowCorpsesStranger.label>
-    <AllowCorpsesStranger.description>Allow dead former strangers and enemies.</AllowCorpsesStranger.description>
+    <AllowCorpsesStranger.label>yabancı cesetlere izin verir.</AllowCorpsesStranger.label>
+    <AllowCorpsesStranger.description>Ölmüş önceki yabancılara ve düşmanlara izin verir.</AllowCorpsesStranger.description>
     
-    <AllowRotten.label>allow rotten</AllowRotten.label>
-    <AllowRotten.description>Allow organic things which have started to rot.</AllowRotten.description>
+    <AllowRotten.label>çürümeye izin verir.</AllowRotten.label>
+    <AllowRotten.description>Çürümeye başlayan organik şeylere izin verir.</AllowRotten.description>
     
-    <AllowNonSmeltableWeapons.label>allow non-smeltable</AllowNonSmeltableWeapons.label>
-    <AllowNonSmeltableWeapons.description>Allow weapons which can't be smelted.</AllowNonSmeltableWeapons.description>
+    <AllowNonSmeltableWeapons.label>işlenemezliğe izin verir.</AllowNonSmeltableWeapons.label>
+    <AllowNonSmeltableWeapons.description>Silahların geridönüştürülemez olmasına izin verir.</AllowNonSmeltableWeapons.description>
     
-    <AllowPlantFood.label>allow plant food</AllowPlantFood.label>
-    <AllowPlantFood.description>Allow foods that are of quality equivalent to unharvested plants, like hay.</AllowPlantFood.description>
+    <AllowPlantFood.label>gıda mahsullerine izin verir</AllowPlantFood.label>
+    <AllowPlantFood.description>Saman gibi hasat edilmemiş bitkilere eşdeğer kalitede gıdalara izin verir. </AllowPlantFood.description>
     
 </LanguageData>
