@@ -2,27 +2,27 @@
 <LanguageData>
     
     <ArmorRating_Blunt.label>Zırh - kesici olmayan</ArmorRating_Blunt.label>
-    <ArmorRating_Blunt.description>Patlamalar, kaya düşmeleri , club saldırıları gibi kesici olmayan hasarlara karşı zırh.</ArmorRating_Blunt.description>
+    <ArmorRating_Blunt.description>Patlamalar, kaya düşmeleri , çivili sopa saldırıları gibi kesici olmayan hasarlara karşı dayanıklı zırh.</ArmorRating_Blunt.description>
     
-    <ArmorRating_Sharp.label>Armor - Sharpe</ArmorRating_Sharp.label>
-    <ArmorRating_Sharp.description>Armor against sharp damage like bullets, knife stabs, and animal bites.</ArmorRating_Sharp.description>
+    <ArmorRating_Sharp.label>Zırh - kesici</ArmorRating_Sharp.label>
+    <ArmorRating_Sharp.description>Mermi, bıçak darbesi ve hayvan ısırığı gibi kesici hasarlara karşı dayanıklı zırh.</ArmorRating_Sharp.description>
     
-    <ArmorRating_Heat.label>Armor - Heat</ArmorRating_Heat.label>
-    <ArmorRating_Heat.description>Armor against temperature-related damage like burns.</ArmorRating_Heat.description>
+    <ArmorRating_Heat.label>Zırh - Isı</ArmorRating_Heat.label>
+    <ArmorRating_Heat.description>Yanma gibi ısı hasarlarına dayanıklı zırh.</ArmorRating_Heat.description>
     
-    <ArmorRating_Electric.label>Armor - Electric</ArmorRating_Electric.label>
-    <ArmorRating_Electric.description>Armor against electric damage like EMP pulses.</ArmorRating_Electric.description>
+    <ArmorRating_Electric.label>Zırh - Elektrik</ArmorRating_Electric.label>
+    <ArmorRating_Electric.description>EMP atışına benzer elektrik hasarlarına karşı dayanıklı zırh.</ArmorRating_Electric.description>
     
-    <Insulation_Cold.label>Insulation - Cold</Insulation_Cold.label>
-    <Insulation_Cold.description>How much this apparel offsets a wearer's minimum comfortable temperature when worn.</Insulation_Cold.description>
+    <Insulation_Cold.label>Yalıtım - Soğuk</Insulation_Cold.label>
+    <Insulation_Cold.description>Bu giyim eşyası, ne kadar aşındığına bağlı olarak giyen kişi için minimum vücut sıcaklığı koruması sağlar.</Insulation_Cold.description>
     
-    <Insulation_Heat.label>Insulation - Heat</Insulation_Heat.label>
-    <Insulation_Heat.description>How much this apparel offsets a wearer's maximum comfortable temperature when worn.</Insulation_Heat.description>
+    <Insulation_Heat.label>Yalıtım - Isı</Insulation_Heat.label>
+    <Insulation_Heat.description>Bu giyim eşyası, ne kadar aşındığına bağlı olarak giyen kişi için maksimum vücut sıcaklığı koruması sağlar.</Insulation_Heat.description>
     
-    <PersonalShieldEnergyMax.label>Shield max energy</PersonalShieldEnergyMax.label>
-    <PersonalShieldEnergyMax.description>The maximum energy a personal shield can have at one time. More energy can absorb more damage.</PersonalShieldEnergyMax.description>
+    <PersonalShieldEnergyMax.label>Maksimum enerji kalkanı</PersonalShieldEnergyMax.label>
+    <PersonalShieldEnergyMax.description>Maksimum enerji, aynı anda kişisel bir kalkan olarak vazife görebilir. Daha fazla enerji daha fazla hasarı emebilir.</PersonalShieldEnergyMax.description>
     
-    <PersonalShieldRechargeRate.label>Shield recharge rate</PersonalShieldRechargeRate.label>
-    <PersonalShieldRechargeRate.description>The rate at which a shield gains energy as long as it is not broken.</PersonalShieldRechargeRate.description>
+    <PersonalShieldRechargeRate.label>Kalkan şarh hızı</PersonalShieldRechargeRate.label>
+    <PersonalShieldRechargeRate.description>Kalkanın, bozuk olmadığı oranda tekrar şarj olma hızıdır.</PersonalShieldRechargeRate.description>
     
 </LanguageData>
