@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<DoorOpenSpeed.label>door opening speed</DoorOpenSpeed.label>
-	<DoorOpenSpeed.description>The speed at which the door opens.</DoorOpenSpeed.description>
+	<DoorOpenSpeed.label>kapı açma hızı</DoorOpenSpeed.label>
+	<DoorOpenSpeed.description>Kapıların hangi hızda açılacağını ifade eder.</DoorOpenSpeed.description>
 	
-	<BedRestEffectiveness.label>rest effectiveness</BedRestEffectiveness.label>
-	<BedRestEffectiveness.description>How fast people sleeping on this gain rest.</BedRestEffectiveness.description>
+	<BedRestEffectiveness.label>dinlenme etkililiği</BedRestEffectiveness.label>
+	<BedRestEffectiveness.description>İnsanların uyurken dinlenmelerinin artış hızını ifade eder.</BedRestEffectiveness.description>
 	
 	<TrapMeleeDamage.label>trap melee damage</TrapMeleeDamage.label>
 	<TrapMeleeDamage.description>How much damage this trap typically does. The actual damage may vary somewhat.</TrapMeleeDamage.description>
