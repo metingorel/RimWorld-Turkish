@@ -2,7 +2,7 @@
 <LanguageData>
     
     <MaxHitPoints.label>maksimum isabet puanı</MaxHitPoints.label>
-    <MaxHitPoints.description>Objenin maksimum isabet oranı. Bu, saldırı öncesi oluşacak hasarın miktarını görebilmenizi sağlar.</MaxHitPoints.description>
+    <MaxHitPoints.description>Objenin maksimum isabet oranı. Bu, oluşacak hasarın miktarını saldırı öncesi görebilmenizi sağlar.</MaxHitPoints.description>
     
     <MarketValue.label>piyasa değeri</MarketValue.label>
     <MarketValue.description>Objenin market değeri. Fiyat, tüccar ile olan iletişim durumuna ve müzakere yeteneğine bağlı olarak değişir</MarketValue.description>
@@ -11,13 +11,13 @@
     <SellPriceFactor.description>Ettiği fiyattaki çarpana göre öğeyi satabilirsin.</SellPriceFactor.description>
     
     <Flammability.label>alev alma</Flammability.label>
-    <Flammability.description>Alev nesneye ne kadar çabuk yayılırsa o kadar güçlü yanar.</Flammability.description>
+    <Flammability.description>Alev, nesneye ne kadar çabuk yayılırsa o kadar güçlü yanar.</Flammability.description>
     
     <WorkToMake.label>yapmaya çalışmak</WorkToMake.label>
-    <WorkToMake.description>Birşeyi yapmak için minimum gerekli çalışma, tüm metaryelleri en azından bir kez toplamadır.</WorkToMake.description>
+    <WorkToMake.description>Birşeyi yapmak için minimum gerekli çalışma, tüm metaryelleri en azından bir kez toplamaktır.</WorkToMake.description>
     
     <DeteriorationRate.label>bozulma oranı</DeteriorationRate.label>
-    <DeteriorationRate.description>özellikle yağmurlu havada dışarıda kalan öğelerin bozulma oranıdır. </DeteriorationRate.description>
+    <DeteriorationRate.description>Özellikle yağmurlu havada dışarıda kalan öğelerin bozulma oranıdır. </DeteriorationRate.description>
     
     <Beauty.label>güzellik</Beauty.label>
     <Beauty.description>Nesnenin ne kadar bakılmaya layık, ne kadar eğlenceli olduğunu ifade eder.</Beauty.description>
