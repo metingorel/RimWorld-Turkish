@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <MaxHitPoints.label>max hit points</MaxHitPoints.label>
-    <MaxHitPoints.description>The maximum hit points of an object. This represents how much damage it can take before being destroyed.</MaxHitPoints.description>
+    <MaxHitPoints.label>maksimum isabet puanı</MaxHitPoints.label>
+    <MaxHitPoints.description>Objenin maksimum isabet oranı. Bu, saldırı öncesi oluşacak hasarın miktarını görebilmenizi sağlar.</MaxHitPoints.description>
     
     <MarketValue.label>market value</MarketValue.label>
     <MarketValue.description>The market value of an object. The actual trade price will be further modified by relationship status and negotitation skill.</MarketValue.description>
