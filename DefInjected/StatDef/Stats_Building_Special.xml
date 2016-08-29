@@ -7,26 +7,26 @@
 	<BedRestEffectiveness.label>dinlenme etkililiği</BedRestEffectiveness.label>
 	<BedRestEffectiveness.description>İnsanların uyurken dinlenmelerinin artış hızını ifade eder.</BedRestEffectiveness.description>
 	
-	<TrapMeleeDamage.label>trap melee damage</TrapMeleeDamage.label>
-	<TrapMeleeDamage.description>How much damage this trap typically does. The actual damage may vary somewhat.</TrapMeleeDamage.description>
+	<TrapMeleeDamage.label>tuzak zararı</TrapMeleeDamage.label>
+	<TrapMeleeDamage.description>Tuzağın normalde ne kadar zarar verdiğini gösterir. Gerçekte verdiği zarar biraz farklılık gösterebilir..</TrapMeleeDamage.description>
 	
-	<TrapSpringChance.label>trap spring chance</TrapSpringChance.label>
-	<TrapSpringChance.description>The likelihood that the trap will spring when an unaware creature passes over it.</TrapSpringChance.description>
+	<TrapSpringChance.label>tuzaktan kurtulma ihtimali</TrapSpringChance.label>
+	<TrapSpringChance.description>Habersiz bir yaratığın tuzağın üzerinden geçerken kurtulma ihtimalini ifade eder.</TrapSpringChance.description>
 	
-	<ResearchSpeedFactor.label>research speed factor</ResearchSpeedFactor.label>
-	<ResearchSpeedFactor.description>Speed at which people do research is multiplied by this value.</ResearchSpeedFactor.description>
-	<ResearchSpeedFactor.parts.1.customLabel>Room cleanliness</ResearchSpeedFactor.parts.1.customLabel>
+	<ResearchSpeedFactor.label>araştırma hızı faktörü</ResearchSpeedFactor.label>
+	<ResearchSpeedFactor.description>İnsanların hangi hızda araştırma yaptığı bu değerle çarpılır.</ResearchSpeedFactor.description>
+	<ResearchSpeedFactor.parts.1.customLabel>Oda temizliği</ResearchSpeedFactor.parts.1.customLabel>
 	
-	<MedicalTreatmentQualityFactor.label>medical treatment quality factor</MedicalTreatmentQualityFactor.label>
-	<MedicalTreatmentQualityFactor.description>Medical treatment quality is multiplied by this value.</MedicalTreatmentQualityFactor.description>
+	<MedicalTreatmentQualityFactor.label>Tıbbi tedavi kalite faktörü</MedicalTreatmentQualityFactor.label>
+	<MedicalTreatmentQualityFactor.description>Tıbbi tedavi kalitesi bu değerle çarpılır.</MedicalTreatmentQualityFactor.description>
 	
-	<ImmunityGainSpeedFactor.label>immunity gain speed factor</ImmunityGainSpeedFactor.label>
-	<ImmunityGainSpeedFactor.description>Immunity gain speed is multiplied by this value.</ImmunityGainSpeedFactor.description>
+	<ImmunityGainSpeedFactor.label>bağışıklık kazanç hız faktörü</ImmunityGainSpeedFactor.label>
+	<ImmunityGainSpeedFactor.description>bağışıklık kazanma hızı bu değerle çarpılır.</ImmunityGainSpeedFactor.description>
 	
-	<WorkTableWorkSpeedFactor.label>work speed factor</WorkTableWorkSpeedFactor.label>
-	<WorkTableWorkSpeedFactor.description>Work speed is multiplied by this value.</WorkTableWorkSpeedFactor.description>
+	<WorkTableWorkSpeedFactor.label>çalışma hızı faktörü</WorkTableWorkSpeedFactor.label>
+	<WorkTableWorkSpeedFactor.description>Çalışma hızı bu değerle çarpılır.</WorkTableWorkSpeedFactor.description>
 	
-	<EntertainmentStrengthFactor.label>entertainment strength factor</EntertainmentStrengthFactor.label>
-	<EntertainmentStrengthFactor.description>How effectively this item entertains people and gives them joy.</EntertainmentStrengthFactor.description>
+	<EntertainmentStrengthFactor.label>eğlence gücü faktörü</EntertainmentStrengthFactor.label>
+	<EntertainmentStrengthFactor.description>Bu öğenin insanları eğlendirmede, neşelendirmede ne kadar etkili olduğudur.</EntertainmentStrengthFactor.description>
 
 </LanguageData>
