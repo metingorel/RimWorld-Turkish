@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<MoveSpeed.label>move speed</MoveSpeed.label>
-	<MoveSpeed.description>Speed of movement through the world in cells per second.</MoveSpeed.description>
+	<MoveSpeed.label>hareket hızı</MoveSpeed.label>
+	<MoveSpeed.description>Saniye başına yüzey boyunca hücrelerdeki hareket hızıdır.</MoveSpeed.description>
 
-	<MentalBreakThreshold.label>mental break threshold</MentalBreakThreshold.label>
-	<MentalBreakThreshold.description>As long as someone's mood is below this level, they are in danger of having a mental break.</MentalBreakThreshold.description>
+	<MentalBreakThreshold.label>zihinsel kırılma eşiği</MentalBreakThreshold.label>
+	<MentalBreakThreshold.description>Birilerinin ruh hali, bu seviyenin altında olduğu sürece, onlar, zihinsel kırılma tehlikesi ile karşı karşıyadır. </MentalBreakThreshold.description>
 
-	<PsychicSensitivity.label>psychic sensitivity</PsychicSensitivity.label>
-	<PsychicSensitivity.description>Multiplier on the impact of psychic phenomena affecting this person.</PsychicSensitivity.description>
+	<PsychicSensitivity.label>psişik duyarlılık</PsychicSensitivity.label>
+	<PsychicSensitivity.description>Kişiyi etkileyen psişik fenomenin etkilerine dair çarpandır.</PsychicSensitivity.description>
 
-	<ToxicSensitivity.label>toxic sensitivity</ToxicSensitivity.label>
-	<ToxicSensitivity.description>Multiplier on the impact of toxic buildup on this character.</ToxicSensitivity.description>
+	<ToxicSensitivity.label>zehir duyarlılığı</ToxicSensitivity.label>
+	<ToxicSensitivity.description>Karakterdeki zehir birikiminin etkilerine ilişkin çarpandır.</ToxicSensitivity.description>
 
-	<GlobalLearningFactor.label>global learning factor</GlobalLearningFactor.label>
-	<GlobalLearningFactor.description>Global learning efficiency for all skills.</GlobalLearningFactor.description>
+	<GlobalLearningFactor.label>genel öğrenme faktörü</GlobalLearningFactor.label>
+	<GlobalLearningFactor.description>Tüm yetenekler üzerinde genel öğrenme verimliliğidir.</GlobalLearningFactor.description>
 
-	<EatingSpeed.label>eating speed</EatingSpeed.label>
-	<EatingSpeed.description>Multiplier on eating speed.</EatingSpeed.description>
+	<EatingSpeed.label>yeme hızı</EatingSpeed.label>
+	<EatingSpeed.description>Yeme hızı üzerine çarpandır.</EatingSpeed.description>
 
-	<ComfyTemperatureMin.label>Minimum comfortable temperature</ComfyTemperatureMin.label>
-	<ComfyTemperatureMin.description>Below this temperature, characters will be unhappy. Significantly below this temperature, they will develop hypothermia and frostbite and eventually die.</ComfyTemperatureMin.description>
+	<ComfyTemperatureMin.label>Minimum konforlu yaşam sıcaklığı</ComfyTemperatureMin.label>
+	<ComfyTemperatureMin.description>Bu sıcaklığın altında karakterler mutsuz olacaktır. Önemli ölçüde bu sıcaklığın altında kalırlarsa, hipotermi geçirecek, donacak ve hatta sonunda öleceklerdir.</ComfyTemperatureMin.description>
 
 	<ComfyTemperatureMax.label>Maximum comfortable temperature</ComfyTemperatureMax.label>
 	<ComfyTemperatureMax.description>Above this temperature, characters will be unhappy. Significantly above this temperature, they will develop heatstroke and eventually die.</ComfyTemperatureMax.description>
