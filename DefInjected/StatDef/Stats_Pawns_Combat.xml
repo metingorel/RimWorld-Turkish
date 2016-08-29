@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <MeleeDPS.label>melee DPS</MeleeDPS.label>
-    <MeleeDPS.description>Average damage per second in melee combat.</MeleeDPS.description>
+    <MeleeDPS.label>yakın dövüş DPS</MeleeDPS.label>
+    <MeleeDPS.description>Yakın dövüşte saniye başına ortalama hasar.</MeleeDPS.description>
     
-    <ShootingAccuracy.label>shooting accuracy</ShootingAccuracy.label>
-    <ShootingAccuracy.description>Base chance to not miss per square of shot distance.</ShootingAccuracy.description>
+    <ShootingAccuracy.label>atış isabeti</ShootingAccuracy.label>
+    <ShootingAccuracy.description>Atış mesafesi karesi başına kaçırmama ihtimalinin taban değeri. </ShootingAccuracy.description>
     
-    <AimingDelayFactor.label>aiming time</AimingDelayFactor.label>
-    <AimingDelayFactor.description>How long it takes to strike after aiming.</AimingDelayFactor.description>
+    <AimingDelayFactor.label>hedef zaman</AimingDelayFactor.label>
+    <AimingDelayFactor.description>Hedefleme ile vurma arasında ne kadar zaman geçeceğidir.</AimingDelayFactor.description>
     
-    <MeleeHitChance.label>melee hit chance</MeleeHitChance.label>
-    <MeleeHitChance.description>Base chance to hit a target in melee.</MeleeHitChance.description>
+    <MeleeHitChance.label>yakın dövüş isabet ihtimali</MeleeHitChance.label>
+    <MeleeHitChance.description>Yakın dövüşte hedefe isabetli vurma ihtimalinin taban değeridir.</MeleeHitChance.description>
     
 </LanguageData>
