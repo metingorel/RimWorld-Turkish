@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <RecruitPrisonerChance.label>recruit prisoner chance</RecruitPrisonerChance.label>
-    <RecruitPrisonerChance.description>Base chance this person will recruit a prisoner.</RecruitPrisonerChance.description>
+    <RecruitPrisonerChance.label>mahkumu istihdam etme ihtimali</RecruitPrisonerChance.label>
+    <RecruitPrisonerChance.description>Kişinin bir mahkumu istihdam etmek için inandırabilme ihtimalidir.</RecruitPrisonerChance.description>
     
-    <TameAnimalChance.label>tame animal chance</TameAnimalChance.label>
-    <TameAnimalChance.description>Base chance this person will tame an animal.</TameAnimalChance.description>
+    <TameAnimalChance.label>hayvanı evcileştirebilme ihtimali</TameAnimalChance.label>
+    <TameAnimalChance.description>Kişinin hayvanı evcilleştirebilme ihtimalidir.</TameAnimalChance.description>
     
-    <TrainAnimalChance.label>train animal chance</TrainAnimalChance.label>
-    <TrainAnimalChance.description>Base chance this person will make progress training an animal on a given attempt. May change based on the animal.</TrainAnimalChance.description>
+    <TrainAnimalChance.label>hayvanı eğitebilme ihtimali</TrainAnimalChance.label>
+    <TrainAnimalChance.description>Hayvan eğitmek için yapılan girişimlerin bu kişinin gelişimine sağlayacağı temel katkıdır. Hayvanına göre değişir.</TrainAnimalChance.description>
     
-    <SocialImpact.label>social chat impact</SocialImpact.label>
-    <SocialImpact.description>When this person interacts socially, this is how much the other person is affected.</SocialImpact.description>
+    <SocialImpact.label>Sosyal konuşma etkisi</SocialImpact.label>
+    <SocialImpact.description>Bu kişinin sosyal etkileşim kurduğunda, diğer kişiyi nasıl etkilediğidir.</SocialImpact.description>
     
-    <GiftImpact.label>diplomatic gift impact</GiftImpact.label>
-    <GiftImpact.description>When this person gives gifts to another faction, this multiplier is applied to their impact on faction relations.</GiftImpact.description>
+    <GiftImpact.label>diplomatik hediye etkisi</GiftImpact.label>
+    <GiftImpact.description>Kişinin başka fraksiyona hediye verdiğinde,bu çarpan fraksiyonlarla olan ilişkilere yöneliktir.</GiftImpact.description>
     
-    <TradePriceImprovement.label>trade price improvement</TradePriceImprovement.label>
-    <TradePriceImprovement.description>When this person negotiates prices, buy and sell prices are improved by this percentage.</TradePriceImprovement.description>
+    <TradePriceImprovement.label>ticari fiyat iyileştirme/TradePriceImprovement.label>
+    <TradePriceImprovement.description>Kişinin, fiyatları nasıl müzakere ettiğidir, alım satım fiyatları buna göre değişir.</TradePriceImprovement.description>
     
 </LanguageData>
