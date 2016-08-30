@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<WorkSpeedGlobal.label>global work speed</WorkSpeedGlobal.label>
-	<WorkSpeedGlobal.description>A multiplier on someone's speed at doing any work.</WorkSpeedGlobal.description>
+	<WorkSpeedGlobal.label>genel çalışma hızı</WorkSpeedGlobal.label>
+	<WorkSpeedGlobal.description>Herhangi bir işi yapan kişinin çalışma hızına ilişkin çarpandır.</WorkSpeedGlobal.description>
 	
 	<MiningSpeed.label>mining speed</MiningSpeed.label>
 	<MiningSpeed.description>A multiplier on the speed at which this person mines rock.</MiningSpeed.description>
