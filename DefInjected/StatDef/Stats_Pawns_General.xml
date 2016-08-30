@@ -20,24 +20,24 @@
 	<EatingSpeed.description>Yeme hızı üzerine çarpandır.</EatingSpeed.description>
 
 	<ComfyTemperatureMin.label>Minimum konforlu yaşam sıcaklığı</ComfyTemperatureMin.label>
-	<ComfyTemperatureMin.description>Bu sıcaklığın altında karakterler mutsuz olacaktır. Önemli ölçüde bu sıcaklığın altında kalırlarsa, hipotermi geçirecek, donacak ve hatta sonunda öleceklerdir.</ComfyTemperatureMin.description>
+	<ComfyTemperatureMin.description>Bu sıcaklığın altında karakterler mutsuz olacaktır. Önemli ölçüde bu sıcaklığın altına maruz kalırlarsa, hipotermi geçirecek, donacak ve hatta sonunda öleceklerdir.</ComfyTemperatureMin.description>
 
-	<ComfyTemperatureMax.label>Maximum comfortable temperature</ComfyTemperatureMax.label>
-	<ComfyTemperatureMax.description>Above this temperature, characters will be unhappy. Significantly above this temperature, they will develop heatstroke and eventually die.</ComfyTemperatureMax.description>
+	<ComfyTemperatureMax.label>Maximum konforlu yaşam sıcaklığı</ComfyTemperatureMax.label>
+	<ComfyTemperatureMax.description>Bu sıcaklığın üstünde, karakterler mutsuz olur.Önemli ölçüde bu sıcaklığın üstüne maruz kalırlarsa, güneş çarpması geçirecek ve sonunda ölecektir.</ComfyTemperatureMax.description>
 
-	<ImmunityGainSpeed.label>immunity gain speed</ImmunityGainSpeed.label>
-	<ImmunityGainSpeed.description>Speed at which this character gains immunity to diseases. If this is too slow, the character will die from a disease before developing immunity.</ImmunityGainSpeed.description>
+	<ImmunityGainSpeed.label>bağışıklık kazanma hızı</ImmunityGainSpeed.label>
+	<ImmunityGainSpeed.description>Karakterin hangi hızda hastalıklara bağışıklık kazandığıdır.Eğer bu çok yavaşsa, karakter bağışıklık gelişteremeden hastalıtan ölecektir.</ImmunityGainSpeed.description>
 
-	<CarryingCapacity.label>carrying capacity</CarryingCapacity.label>
-	<CarryingCapacity.description>The amount of stuff this creature can carry in its hands, mouth, or other manipulators.</CarryingCapacity.description>
+	<CarryingCapacity.label>taşıma kapasitesi</CarryingCapacity.label>
+	<CarryingCapacity.description>Yaratığın elinde taşyabileceği şeylerin miktarıdır; ağız ile yada diğer organları ile.</CarryingCapacity.description>
 
-	<MeatAmount.label>meat amount</MeatAmount.label>
-	<MeatAmount.description>The amount of meat you will get from butchering this creature.</MeatAmount.description>
+	<MeatAmount.label>et miktarı</MeatAmount.label>
+	<MeatAmount.description>Yaratık kesildiğinde elde edilebilecek et miktarıdır.</MeatAmount.description>
 
-	<LeatherAmount.label>leather amount</LeatherAmount.label>
-	<LeatherAmount.description>The amount of leather you will get from butchering this creature.</LeatherAmount.description>
+	<LeatherAmount.label>deri miktarı</LeatherAmount.label>
+	<LeatherAmount.description>Yaratık kesildiğinde elde edilebilecek deri miktarıdır.</LeatherAmount.description>
 
-	<MinimumHandlingSkill.label>minimum handling skill</MinimumHandlingSkill.label>
-	<MinimumHandlingSkill.description>This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals.</MinimumHandlingSkill.description>
+	<MinimumHandlingSkill.label>minimum idare becerisi</MinimumHandlingSkill.label>
+	<MinimumHandlingSkill.description>Hayvanlara ilişkin bu becerisi sözkonusu değerden düşük olursa yaratık evcilleştirlemez, eğitilemez veya idare edilemez.</MinimumHandlingSkill.description>
 
 </LanguageData>
