@@ -5,7 +5,7 @@
 	<MoveSpeed.description>Saniye başına yüzey boyunca hücrelerdeki hareket hızıdır.</MoveSpeed.description>
 
 	<MentalBreakThreshold.label>zihinsel kırılma eşiği</MentalBreakThreshold.label>
-	<MentalBreakThreshold.description>Birilerinin ruh hali, bu seviyenin altında olduğu sürece, onlar, zihinsel kırılma tehlikesi ile karşı karşıyadır. </MentalBreakThreshold.description>
+	<MentalBreakThreshold.description>Karakterlerin ruh hali, bu seviyenin altında olduğu sürece, onlar, zihinsel kırılma tehlikesi ile karşı karşıyadır. </MentalBreakThreshold.description>
 
 	<PsychicSensitivity.label>psişik duyarlılık</PsychicSensitivity.label>
 	<PsychicSensitivity.description>Kişiyi etkileyen psişik fenomenin etkilerine dair çarpandır.</PsychicSensitivity.description>
@@ -29,7 +29,7 @@
 	<ImmunityGainSpeed.description>Karakterin hangi hızda hastalıklara bağışıklık kazandığıdır.Eğer bu çok yavaşsa, karakter bağışıklık gelişteremeden hastalıtan ölecektir.</ImmunityGainSpeed.description>
 
 	<CarryingCapacity.label>taşıma kapasitesi</CarryingCapacity.label>
-	<CarryingCapacity.description>Yaratığın elinde taşyabileceği şeylerin miktarıdır; ağız ile yada diğer organları ile.</CarryingCapacity.description>
+	<CarryingCapacity.description>Yaratığın taşıyabileceği şeylerin miktarıdır; ağız ile yada diğer organları ile.</CarryingCapacity.description>
 
 	<MeatAmount.label>et miktarı</MeatAmount.label>
 	<MeatAmount.description>Yaratık kesildiğinde elde edilebilecek et miktarıdır.</MeatAmount.description>
@@ -38,6 +38,6 @@
 	<LeatherAmount.description>Yaratık kesildiğinde elde edilebilecek deri miktarıdır.</LeatherAmount.description>
 
 	<MinimumHandlingSkill.label>minimum idare becerisi</MinimumHandlingSkill.label>
-	<MinimumHandlingSkill.description>Hayvanlara ilişkin bu becerisi sözkonusu değerden düşük olursa yaratık evcilleştirlemez, eğitilemez veya idare edilemez.</MinimumHandlingSkill.description>
+	<MinimumHandlingSkill.description>Hayvanlara ilişkin bu beceri, sözkonusu değerden düşük olursa yaratık evcilleştirilemez, eğitilemez veya idare edilemez.</MinimumHandlingSkill.description>
 
 </LanguageData>
