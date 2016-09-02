@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <MeleeWeapon_DamageAmount.label>melee damage</MeleeWeapon_DamageAmount.label>
-    <MeleeWeapon_DamageAmount.description>Damage done per hit in melee combat.</MeleeWeapon_DamageAmount.description>
+    <MeleeWeapon_DamageAmount.label>yakın dövüş hasarı</MeleeWeapon_DamageAmount.label>
+    <MeleeWeapon_DamageAmount.description>Yakın dövüşte isabet başına verilen hasardır.</MeleeWeapon_DamageAmount.description>
     
-    <MeleeWeapon_Cooldown.label>melee cooldown</MeleeWeapon_Cooldown.label>
-    <MeleeWeapon_Cooldown.description>How long it takes to recover after striking with this as a melee weapon.</MeleeWeapon_Cooldown.description>
+    <MeleeWeapon_Cooldown.label>yakın dövüş bekleme süresi</MeleeWeapon_Cooldown.label>
+    <MeleeWeapon_Cooldown.description>Bu, yakın dövüş silahı ile saldırı yaptıktan sonra tekrar saldırana kadar beklenilmesi gereken süredir.</MeleeWeapon_Cooldown.description>
     
-    <SharpDamageMultiplier.label>sharp damage (walka wr?cz)</SharpDamageMultiplier.label>
-    <SharpDamageMultiplier.description>Multiplier on damage with sharp attacks like cutting or stabbing for items made of this material.</SharpDamageMultiplier.description>
+    <SharpDamageMultiplier.label>kesici hasar(boğuşma)</SharpDamageMultiplier.label>
+    <SharpDamageMultiplier.description>Kesici yada delici malzemelerden yapılmış öğeler ile yapılan saldırıların vereceği hasara dair çarpandır.</SharpDamageMultiplier.description>
     
-    <BluntDamageMultiplier.label>blunt damage</BluntDamageMultiplier.label>
-    <BluntDamageMultiplier.description>Multiplier on damage with blunt attacks for items made of this material.</BluntDamageMultiplier.description>
+    <BluntDamageMultiplier.label>ezici darbe</BluntDamageMultiplier.label>
+    <BluntDamageMultiplier.description>Bu materyal ile yapılan ezici, görünürde kan akıtmayan hasara dair çarpandır.</BluntDamageMultiplier.description>
     
 </LanguageData>
