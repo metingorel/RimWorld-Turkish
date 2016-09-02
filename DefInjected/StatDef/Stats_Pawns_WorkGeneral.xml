@@ -4,28 +4,28 @@
 	<WorkSpeedGlobal.label>genel çalışma hızı</WorkSpeedGlobal.label>
 	<WorkSpeedGlobal.description>Herhangi bir işi yapan kişinin çalışma hızına ilişkin çarpandır.</WorkSpeedGlobal.description>
 	
-	<MiningSpeed.label>mining speed</MiningSpeed.label>
-	<MiningSpeed.description>A multiplier on the speed at which this person mines rock.</MiningSpeed.description>
+	<MiningSpeed.label>madencilik hızı</MiningSpeed.label>
+	<MiningSpeed.description>Kişinin madenleri kazma hızı üzerine olan çarpandır.</MiningSpeed.description>
 	
-	<SmoothingSpeed.label>smoothing speed</SmoothingSpeed.label>
-	<SmoothingSpeed.description>A multiplier on the speed at which this person smooths floors.</SmoothingSpeed.description>
+	<SmoothingSpeed.label>düzleştirme hızı</SmoothingSpeed.label>
+	<SmoothingSpeed.description>Kişinin yüzeyleri düzleştirmedeki hızına ilişkin çarpandır.</SmoothingSpeed.description>
 	
-	<ResearchSpeed.label>research speed</ResearchSpeed.label>
-	<ResearchSpeed.description>This person does research at this speed.</ResearchSpeed.description>
+	<ResearchSpeed.label>araştırma hızı</ResearchSpeed.label>
+	<ResearchSpeed.description>Kişi bu hızda araştırma yapmaktadır.</ResearchSpeed.description>
 	
-	<ConstructionSpeed.label>construction speed</ConstructionSpeed.label>
-	<ConstructionSpeed.description>Speed at which this person constructs and repairs buildings.</ConstructionSpeed.description>
+	<ConstructionSpeed.label>inşa hızı</ConstructionSpeed.label>
+	<ConstructionSpeed.description>Kişinin inşa etme ve binaları tamir etme hızıdır.</ConstructionSpeed.description>
 	
-	<PlantWorkSpeed.label>plant work speed</PlantWorkSpeed.label>
-	<PlantWorkSpeed.description>Speed at which this person sows and harvests plants.</PlantWorkSpeed.description>
+	<PlantWorkSpeed.label>bitki işleri hızı</PlantWorkSpeed.label>
+	<PlantWorkSpeed.description>Kişinin bitkileri ekerken ve onları hasat ederken hızıdır.</PlantWorkSpeed.description>
 	
-	<HarvestFailChance.label>harvest fail chance</HarvestFailChance.label>
-	<HarvestFailChance.description>The chance that this person will accidentally destroy the harvest instead of collecting it.</HarvestFailChance.description>
+	<HarvestFailChance.label>hasadın başarısız olma ihtimali</HarvestFailChance.label>
+	<HarvestFailChance.description>Kişinin ekini hasat etmek yerine yanlışlıkla ziyan etme ihtimalidir.</HarvestFailChance.description>
 	
-	<ConstructFailChance.label>construct fail chance</ConstructFailChance.label>
-	<ConstructFailChance.description>The chance that this person will fail in constructing something, wasting time and resources.</ConstructFailChance.description>
+	<ConstructFailChance.label>inşanın başarısız olma ihtimali</ConstructFailChance.label>
+	<ConstructFailChance.description>Kişinin, bir şeyi inşa ederken başarısız olup zamanı ve kaynakları israf etme ihtimalidir.</ConstructFailChance.description>
     
-	<FixBrokenDownBuildingFailChance.label>repair fail chance</FixBrokenDownBuildingFailChance.label>
-	<FixBrokenDownBuildingFailChance.description>The chance that this person will fail to repair a broken down building.</FixBrokenDownBuildingFailChance.description>
+	<FixBrokenDownBuildingFailChance.label>tamirin başarısız olma ihtimali</FixBrokenDownBuildingFailChance.label>
+	<FixBrokenDownBuildingFailChance.description>Kişinin bir şeyi tamir ederken başarısız olup o şeyi bozma ihtimalidir.</FixBrokenDownBuildingFailChance.description>
     
 </LanguageData>
