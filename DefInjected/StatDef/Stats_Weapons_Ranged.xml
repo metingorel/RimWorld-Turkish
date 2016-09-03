@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <AccuracyTouch.label>Accuracy (touch)</AccuracyTouch.label>
-    <AccuracyTouch.description>Accuracy multiplier at touch range.</AccuracyTouch.description>
+    <AccuracyTouch.label>Doğruluk (temas)</AccuracyTouch.label>
+    <AccuracyTouch.description>Temas mesafesinde hedef doğruluğuna ilişkin çarpandır.</AccuracyTouch.description>
     
-    <AccuracyShort.label>Accuracy (short)</AccuracyShort.label>
-    <AccuracyShort.description>Accuracy multiplier at short range.</AccuracyShort.description>
+    </AccuracyShort.label>Doğruluk (kısa)</AccuracyShort.label>
+    <AccuracyShort.description>Kısa mesafede hedef doğruluğuna ilişkin çarpandır.</AccuracyShort.description>
     
-    <AccuracyMedium.label>Accuracy (medium)</AccuracyMedium.label>
-    <AccuracyMedium.description>Accuracy multiplier at medium range.</AccuracyMedium.description>
+    <AccuracyMedium.label>Doğruluk (orta)</AccuracyMedium.label>
+    <AccuracyMedium.description>Orta mesafede hedef doğruluğuna ilişkin çarpandır.</AccuracyMedium.description>
     
-    <AccuracyLong.label>Accuracy (long)</AccuracyLong.label>
-    <AccuracyLong.description>Accuracy multiplier at long range.</AccuracyLong.description>
+    <AccuracyLong.label>Doğruluk (Uzun)</AccuracyLong.label>
+    <AccuracyLong.description>Uzun mesafede hedef doğruluğuna ilişkin çarpandır.</AccuracyLong.description>
     
-    <RangedWeapon_Cooldown.label>ranged cooldown</RangedWeapon_Cooldown.label>
-    <RangedWeapon_Cooldown.description>How long it takes to recover after firing this weapon.</RangedWeapon_Cooldown.description>
+    <RangedWeapon_Cooldown.label>tekrar atış bekleme süresi</RangedWeapon_Cooldown.label>
+    <RangedWeapon_Cooldown.description>Silahın ateşlendikten sonra tekrar ateşlenene kadar ne kadar süre geçtiğidir.</RangedWeapon_Cooldown.description>
     
 </LanguageData>
