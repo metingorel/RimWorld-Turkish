@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 	
-	<Metallic.label>Metalik</Metallic.label>
-	<Woody.label>Ahşap</Woody.label>
-	<Stony.label>Taşlı</Stony.label>
-	<Fabric.label>Dokuma</Fabric.label>
-	<Leathery.label>Deri</Leathery.label>
+	<Metallic.label>Metalden</Metallic.label>
+	<Woody.label>Ahşaptan</Woody.label>
+	<Stony.label>Taştan</Stony.label>
+	<Fabric.label>Kumaştan</Fabric.label>
+	<Leathery.label>Deriden</Leathery.label>
 	
 </LanguageData>
