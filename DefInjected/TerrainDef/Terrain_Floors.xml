@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <MetalTile.label>metal tile</MetalTile.label>
-    <MetalTile.description>Metal tiles, for that spaceship look. Pretty, but labor and material-intensive.</MetalTile.description>
+    <MetalTile.label>metal plaka</MetalTile.label>
+    <MetalTile.description>Metal plakalar, uzay aracı gibi bir gönüm için. Hoş, ancak malzeme ve işçiliği aşırı.</MetalTile.description>
     
     <SilverTile.label>silver tile</SilverTile.label>
     <SilverTile.description>Expensive and slow to build, but very pretty. Fits perfectly into all kinds of luxurious rooms.</SilverTile.description>
