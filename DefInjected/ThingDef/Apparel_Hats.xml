@@ -14,9 +14,9 @@
 	<Apparel_KevlarHelmet.description>Hafif savaş kaskı.</Apparel_KevlarHelmet.description>
 	
 	<Apparel_MilitaryHelmet.label>Ordu Miğferi</Apparel_MilitaryHelmet.label>
-	<Apparel_MilitaryHelmet.description>Eski görünüşlü ve ağır, ama etkili. Düşük hızlı şarapnellere, havadan düşen enkaz parçalarına, düşük hızlı kurşunlara ve kesici silahlardan başını korur.</Apparel_MilitaryHelmet.description>
+	<Apparel_MilitaryHelmet.description>Eski görünüşlü ve ağır, ama etkili. Düşük hızlı şarapnellere, havadan düşen enkaz parçalarına, düşük hızlı kurşunlara ve kesici silahlara karşı başını korur.</Apparel_MilitaryHelmet.description>
 	
-	<Apparel_PsychicFoilHelmet.label>Psişik folyo kask</Apparel_PsychicFoilHelmet.label>
-	<Apparel_PsychicFoilHelmet.description>Psişik-emici folyo ince ayarlı levhalar içeren ince bir kask. psişik olayların etkisini azaltır.</Apparel_PsychicFoilHelmet.description>
+	<Apparel_PsychicFoilHelmet.label>Anti psişik folyodan kask</Apparel_PsychicFoilHelmet.label>
+	<Apparel_PsychicFoilHelmet.description>Psişik emici folyodan plakalar içeren ince bir kask. Psişik olayların etkisini azaltır.</Apparel_PsychicFoilHelmet.description>
 
 </LanguageData>
