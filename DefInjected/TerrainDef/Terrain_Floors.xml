@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <MetalTile.label>metal plaka</MetalTile.label>
-    <MetalTile.description>Metal plakalar, uzay aracı gibi bir gönüm için. Hoş, ancak malzeme ve işçiliği aşırı.</MetalTile.description>
+    <MetalTile.label>metal yer karosu</MetalTile.label>
+    <MetalTile.description>Metal plakalar, uzay aracı gibi bir görünüm için. Hoş, ancak malzeme ve işçiliği çok fazla.</MetalTile.description>
     
-    <SilverTile.label>silver tile</SilverTile.label>
-    <SilverTile.description>Expensive and slow to build, but very pretty. Fits perfectly into all kinds of luxurious rooms.</SilverTile.description>
+    <SilverTile.label>gümüş yer karosu</SilverTile.label>
+    <SilverTile.description>Pahalı ve inşa etmesi yavaş, ama çok güzel. Lüks odaların her türüne mükemmel uyum sağlar.</SilverTile.description>
     
-    <GoldTile.label>gold tile</GoldTile.label>
-    <GoldTile.description>The most beautiful and impressive kind of floor. Very expensive and requires a lot of work to build.</GoldTile.description>
+    <GoldTile.label>altın yer karosu</GoldTile.label>
+    <GoldTile.description>En güzel ve en etkileyici zemin türü. Çok pahalı ve bir sürü işçilik gerektirir.</GoldTile.description>
     
-    <SterileTile.label>sterile tile</SterileTile.label>
-    <SterileTile.description>Sterile tiles help keep the room clean. Very useful in hospitals to prevent patients from getting various infections. Neutral in terms of looks and very slow to build.</SterileTile.description>
+    <SterileTile.label>steril yer karosu</SterileTile.label>
+    <SterileTile.description>Steril yer karosu, odaların temiz kalmasına yardımcı olur. Hastanelerde, hastaların enfeksiyon kapmasını önlemede çok yararlı. Görünüm açısından sıradan ve inşa etmesi çok yavaş.</SterileTile.description>
     
-    <PavedTile.label>paved tile</PavedTile.label>
-    <PavedTile.description>Utilitarian concrete tiles. Cheap and quick to move around on, but neutral in terms of looks and slow to build.</PavedTile.description>
+    <PavedTile.label>beton yer karosu</PavedTile.label>
+    <PavedTile.description>İşlevsel beton yer karoları. Ucuz ve taşınması kolay.Ancak görünüm açısından sıradan ve inşa edilmesi yavaş.</PavedTile.description>
     
-    <Concrete.label>concrete</Concrete.label>
-    <Concrete.description>Quick-poured concrete. Fast to walk on, cheap, and very quick to pour, but quite ugly.</Concrete.description>
+    <Concrete.label>beton</Concrete.label>
+    <Concrete.description>Beton hızlıca hazırlanıp dökülür. Ucuzdur, çabuk dökülür, üzerinde hızlı yürünür ancak çok da çirkin.</Concrete.description>
     
-    <WoodPlankFloor.label>wood floor</WoodPlankFloor.label>
-    <WoodPlankFloor.description>Wood plank flooring. For that warm, homey feeling.</WoodPlankFloor.description>
+    <WoodPlankFloor.label>ahşap parke</WoodPlankFloor.label>
+    <WoodPlankFloor.description>Ağaçtan elde edilmiş tahtadan zemindir. Sıcak, evinizdeymiş gibi his verir.</WoodPlankFloor.description>
     
-    <CarpetRed.label>red carpet</CarpetRed.label>
-    <CarpetRed.description>Plush carpet in a lovely rose hue.</CarpetRed.description>
+    <CarpetRed.label>kırmızı halı</CarpetRed.label>
+    <CarpetRed.description>Gül tonunda güzel bir peluş halı.</CarpetRed.description>
     
-    <CarpetGreen.label>green carpet</CarpetGreen.label>
-    <CarpetGreen.description>Naturalistic-feeling green carpet.</CarpetGreen.description>
+    <CarpetGreen.label>yeşil halı</CarpetGreen.label>
+    <CarpetGreen.description>Doğa ile bütünleşmiş hissi veren yeşil renkli bir halı.</CarpetGreen.description>
     
-    <CarpetBlue.label>blue carpet</CarpetBlue.label>
-    <CarpetBlue.description>Toe-hugging plush carpet in a cool blue color.</CarpetBlue.description>
+    <CarpetBlue.label>mavi halı</CarpetBlue.label>
+    <CarpetBlue.description>Ayak parmaklarını sarmalayan soğuk mavi renkte bir peluş halı.</CarpetBlue.description>
     
-    <CarpetCream.label>cream carpet</CarpetCream.label>
-    <CarpetCream.description>Inviting cream-colored carpet.</CarpetCream.description>
+    <CarpetCream.label>krem renginde halı</CarpetCream.label>
+    <CarpetCream.description>Davetkar krem renginde bir halı.</CarpetCream.description>
     
-    <CarpetDark.label>dark carpet</CarpetDark.label>
-    <CarpetDark.description>Professional-looking dark gray carpet.</CarpetDark.description>
+    <CarpetDark.label>koyu renkli halı</CarpetDark.label>
+    <CarpetDark.description>Profesyonel görünümlü koyu gri renginde bir halı.</CarpetDark.description>
     
 
-    <Sandstone_Rough.label>Pürüzlü Kumtaşı</Sandstone_Rough.label>
+    <Sandstone_Rough.label>Yüzeyi Pürüzlü Kumtaşı</Sandstone_Rough.label>
     <Sandstone_RoughHewn.label>Yontulmamış Kumtaşı</Sandstone_RoughHewn.label>
     <Sandstone_Smooth.label>Pürüzsüz Kumtaşı</Sandstone_Smooth.label>
 	
-    <Granite_Rough.label>Pürüzlü Granit</Granite_Rough.label>
+    <Granite_Rough.label>Yüzeyi Pürüzlü Granit</Granite_Rough.label>
     <Granite_RoughHewn.label>Yontulmamış Granit</Granite_RoughHewn.label>
     <Granite_Smooth.label>Pürüzsüz Granit</Granite_Smooth.label>
 	
-    <Limestone_Rough.label>Pürüzlü Kalker</Limestone_Rough.label>
+    <Limestone_Rough.label>Yüzeyi Pürüzlü Kalker</Limestone_Rough.label>
     <Limestone_RoughHewn.label>Yontulmamış Kalker</Limestone_RoughHewn.label>
     <Limestone_Smooth.label>Pürüzsüz Kalker</Limestone_Smooth.label>
-    <Slate_Rough.label>Pürüzlü Arduvaz</Slate_Rough.label>
+    <Slate_Rough.label>Yüzeyi Pürüzlü Arduvaz</Slate_Rough.label>
     <Slate_RoughHewn.label>Yontulmamış Arduvaz</Slate_RoughHewn.label>
     <Slate_Smooth.label>Pürüzsüz Arduvaz</Slate_Smooth.label>
 	
-    <Marble_Rough.label>Pürüzlü Mermer</Marble_Rough.label>
+    <Marble_Rough.label>Yüzeyi Pürüzlü Mermer</Marble_Rough.label>
     <Marble_RoughHewn.label>Yontulmamış Mermer</Marble_RoughHewn.label>
     <Marble_Smooth.label>Pürüzsüz Mermer</Marble_Smooth.label>
 
