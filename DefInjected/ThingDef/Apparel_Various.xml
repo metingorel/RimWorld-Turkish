@@ -25,9 +25,9 @@
   <!-- ============= Stuff-less apparel =================-->
   
 	<Apparel_VestPlate.label>Çelik Yelek</Apparel_VestPlate.label>
-	<Apparel_VestPlate.description>İçine zırhlı tabakalar konulmuş bir yelek. Silah mermilerinden korur.	</Apparel_VestPlate.description>
+	<Apparel_VestPlate.description>İçine zırhlı plakalar konulmuş bir yelek. Silah mermilerinden korur.</Apparel_VestPlate.description>
 	
 	<Apparel_PowerArmor.label>Güçlendirilmiş Zırh</Apparel_PowerArmor.label>
-	<Apparel_PowerArmor.description>Çoğunlukla gösterişli gezegenlerdeki askerlerin kullandığı zırh.</Apparel_PowerArmor.description>
+	<Apparel_PowerArmor.description>Çoğunlukla gösterişli gezegenlerde askerlerin kullandığı türden bir zırh.</Apparel_PowerArmor.description>
 
 </LanguageData>
