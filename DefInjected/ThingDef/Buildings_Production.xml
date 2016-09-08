@@ -4,23 +4,23 @@
 	<CraftingSpot.label>Üretim noktası</CraftingSpot.label>
 	<CraftingSpot.description>Basit yay ve bıçak yapmak için bir yer.</CraftingSpot.description>
 
-	<TableSculpting.label>Heykeltraşın masası</TableSculpting.label>
-	<TableSculpting.description>Heykeltraş için bir çalışma masası.</TableSculpting.description>
+	<TableSculpting.label>Heykeltraş masası</TableSculpting.label>
+	<TableSculpting.description>Heykeltraşlar için bir çalışma masası.</TableSculpting.description>
 	
 	<TableButcher.label>Kasap masası</TableButcher.label>
 	<TableButcher.description>Ölü yaratıkları parçalayıp ham et elde etmek için ağır bir masa.</TableButcher.description>
 
-  	<HandTailoringBench.label>Elde dikiş masası.</HandTailoringBench.label>
+  	<HandTailoringBench.label>Elle işleyen dikiş masası.</HandTailoringBench.label>
   	<HandTailoringBench.description>Kıyafetleri elde dkmek için bir çalışma masası. Elektrikli dikiş masasına göre %40 daha yavaş.</HandTailoringBench.description>
 
-	<ElectricTailoringBench.label>Elektrikli dikiş massı</ElectricTailoringBench.label>
-  	<ElectricTailoringBench.description>Kıyafetleri hızlı şekilde dikmek için tasarlanmış çalışma masası. Elektrik olmadan da %40 daha yavaş şekilde çalışabilir.</ElectricTailoringBench.description>
+	<ElectricTailoringBench.label>Elektrikli dikiş masası</ElectricTailoringBench.label>
+  	<ElectricTailoringBench.description>Kıyafetleri hızlı şekilde dikmek için tasarlanmış çalışma masası. Elektrik yoksa %40 daha yavaş çalışır.</ElectricTailoringBench.description>
 
-  	<FueledSmithy.label>Odunla çalışan demirci yeri.</FueledSmithy.label>
-  	<FueledSmithy.description>Odunla ısıtılan mekanik olmayan eşya ve silah yapmaya yarayan yer.</FueledSmithy.description>
+  	<FueledSmithy.label>Odunla çalışan demirci yeri</FueledSmithy.label>
+  	<FueledSmithy.description>Mekanik olmayan eşya ve silah yapmaya yarayan odunla ısıtılan yer.</FueledSmithy.description>
 
- 	<ElectricSmithy.label>Elektrikle çalışan demirci yeri.</ElectricSmithy.label>
-  	<ElectricSmithy.description>Elektrikle çalışan mekanik olmayan silah ve eşyalar yapmaya yarayan yer.</ElectricSmithy.description>
+ 	<ElectricSmithy.label>Elektrikle çalışan demirci yeri</ElectricSmithy.label>
+  	<ElectricSmithy.description>Mekanik olmayan silah ve eşyalar yapmaya yarayan elektrikle çalışan yer.</ElectricSmithy.description>
 
 	<TableMachining.label>İşleme masası</TableMachining.label>
 	<TableMachining.description>Silah ve mekanik ceset gibi m1akine parçalarını birleştirme ve ayrıştırma yapabileceğin bir çalışma istasyonu.</TableMachining.description>
@@ -32,33 +32,33 @@
   	<FueledStove.description>Yemek pişirmeye yarayan ve kendi tezgahı bulunan odunla çalışan ısıtıcı.</FueledStove.description>
 
 	<TableStonecutter.label>Taş yontma masası</TableStonecutter.label>
-	<TableStonecutter.description>Sert taşları işleyip kullanılabilir blok haline getirmeye yarayan çalışma masası.</TableStonecutter.description>
+	<TableStonecutter.description>Ham taşları işleyip kullanılabilir blok haline getirmeye yarayan çalışma masası.</TableStonecutter.description>
 	
 	<Brewery.label>Bira makinesi</Brewery.label>
-	<Brewery.description>Gerekli eşyaları damıtıp bira yapmaya yarayan çalışma masası.</Brewery.description>
+	<Brewery.description>Gerekli malzemelerden damıtma yoluyla bira yapmaya yarayan çalışma masası.</Brewery.description>
 
 	<ElectricSmelter.label>Elektrikli döküm makinesi</ElectricSmelter.label>
-	<ElectricSmelter.description>Hurda metallerden ve diğer karışık metallerden işe yarar metal çıkarmaya yarar. Çok fazla güç kullanır.</ElectricSmelter.description>
+	<ElectricSmelter.description>Hurda metallerden ve diğer karışık madenlerden işe yarar metal elde etmeye yarar. Çok fazla güç kullanır.</ElectricSmelter.description>
 	
 	<ComponentAssemblyBench.label>Bileşen montaj masası</ComponentAssemblyBench.label>
-  	<ComponentAssemblyBench.description>Basit materyallerden bileşen üretmek için gelişmiş aletlerle donatılmış çalışma masası.</ComponentAssemblyBench.description>
+  	<ComponentAssemblyBench.description>Basit materyallerden bileşen üretmek için kullanılan, gelişmiş aletlerle donatılmış çalışma masası.</ComponentAssemblyBench.description>
 
  	<SimpleResearchBench.label>Basit araştırma masası</SimpleResearchBench.label>
-  	<SimpleResearchBench.description>Düşük teknoloji ilerlemesini ve gelişmeleri kayda almak içn basit bir çalışma masası. Araştırmacılar burda çalışarak yeni şeyler keşfedebilir.</SimpleResearchBench.description>
+  	<SimpleResearchBench.description>Basit teknolojik ilerlemeleri ve gelişmeleri yapmak için basit bir çalışma masası. Araştırmacılar burada çalışarak yeni şeyler keşfedebilir.</SimpleResearchBench.description>
 
   	<HiTechResearchBench.label>Yüksek teknoloji araştırma masası</HiTechResearchBench.label>
-  	<HiTechResearchBench.description>Bilgisayar ve elektrikli ölçüm araçlarıyla donatılmış yüksek teknoloji araştırma masası. Araştırmalar yüksek teknolojik aletlerle hız kazanır. Güç gerektirir.</HiTechResearchBench.description>
+  	<HiTechResearchBench.description>Bilgisayar ve elektrikli ölçüm araçlarıyla donatılmış yüksek teknoloji araştırma masası. Araştırmalar, yüksek teknoloji aletlerle hız kazanır. Güç gerektirir.</HiTechResearchBench.description>
 
 	<ElectricCrematorium.label>Elektrikli ölü yakma yeri</ElectricCrematorium.label>
 	<ElectricCrematorium.description>Ölüleri yakmak için bir yer. Elektrik kullanır.</ElectricCrematorium.description>
 	
 	<HydroponicsBasin.label>Su havzası</HydroponicsBasin.label>
-	<HydroponicsBasin.description>Yapay olark hazırlanmış besin dolu içinde ekinler hızlıca gelişir. Çalışması için güç gerekir; eğer güç kesilirse ekinler ölecektir.</HydroponicsBasin.description>
+	<HydroponicsBasin.description>Yapay olarak hazırlanmış; içi besinle dolu. İçerisinde mahsuller hızla gelişir. Çalışması için güç gerekir; eğer güç kesilirse ekinler ölecektir.</HydroponicsBasin.description>
 	
-  	<NutrientPasteDispenser.label>Nutrient paste dispenser</NutrientPasteDispenser.label>
-	<NutrientPasteDispenser.description>Synthesizes nutrient paste from organic feedstocks. It consumes less ingredients and time than any other meal production method - but nobody likes eating nutrient paste. Accepts raw food, but not rough plant matter like hay.</NutrientPasteDispenser.description>
+  	<NutrientPasteDispenser.label>Besin macunu sentezleyicisi</NutrientPasteDispenser.label>
+	<NutrientPasteDispenser.description>Organik hammaddelerden besin macunu sentezler. Başka yemek üretim yöntemlerine göre daha az malzeme, daha az zaman gerektirir - fakat kimsenin bu besin macununu pek de severek yediği söylenemez. Çiğ yiyeceklerden yapılabilir, fakat saman gibi bitkilerden değil.</NutrientPasteDispenser.description>
 	
-	<Hopper.label>Hopper</Hopper.label>
-	<Hopper.description>Holds resources for use by machines like nutrient paste dispensers.</Hopper.description>
+	<Hopper.label>Besleme haznesi</Hopper.label>
+	<Hopper.description>Besin macunu sentezleyicisinde işlenecek malzemelerin konulduğu, besin macunu sentezleyicisine hammadde sağlayan haznedir.</Hopper.description>
   
 </LanguageData>
