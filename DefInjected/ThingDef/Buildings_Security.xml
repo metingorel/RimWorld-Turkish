@@ -17,12 +17,12 @@
 	<Turret_MortarEMP.description>Düştüğü yerdekileri sersemleten füze atar. Kullanmak için biri gerekir. Hasar aldığında patlar.</Turret_MortarEMP.description>
 
 	<TrapDeadfall.label>Tuzak</TrapDeadfall.label>
-	<TrapDeadfall.description>Hassas bir şekilde çalışan tuzak dikenler tarafından ağırlık merkezine sabitlenir ve merkeze ağırlık bindiği zaman kurbanı sıkıştırır.</TrapDeadfall.description>
+	<TrapDeadfall.description>Hassas bir şekilde tuzak tırtıklar ağırlık merkezine sabitlenir ve merkeze ağırlık bindiği zaman kurbanı sıkıştırır.</TrapDeadfall.description>
 
-	<TrapIEDBomb.label>Doğal patlayıcı</TrapIEDBomb.label>
-	<TrapIEDBomb.description>Ev yapımı doğal kurmalı patlayıcı. Üzerine basıltığı zaman alan hasarı verir.</TrapIEDBomb.description>
+	<TrapIEDBomb.label>Ev yapımı patlayıcı</TrapIEDBomb.label>
+	<TrapIEDBomb.description>Ev yapımı doğal kurmalı patlayıcı tuzak. Üzerine basıldığı zaman alan hasar verir.</TrapIEDBomb.description>
 
-	<TrapIEDIncendiary.label>Doğal yanar patlayıcı</TrapIEDIncendiary.label>
-	<TrapIEDIncendiary.description>Ev yapımı doğal yakıcı patlayıcı tuzak. Üzerine basıltığı zaman alan hasarı verir ve çevre alev alır.</TrapIEDIncendiary.description>
+	<TrapIEDIncendiary.label>Ev yapımı yanar patlayıcı</TrapIEDIncendiary.label>
+	<TrapIEDIncendiary.description>Ev yapımı doğal yakıcı patlayıcı tuzak. Üzerine basıldığı zaman alan hasar verir ve çevreyi ateşe boğar.</TrapIEDIncendiary.description>
 	
 </LanguageData>
