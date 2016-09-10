@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<MealSurvivalPack.label>Paketlenmiş Yemek</MealSurvivalPack.label>
-	<MealSurvivalPack.description>Hayatta kalma durumlarında kullanılmak üzere üretilen paketlenmiş yüksek kaliteli yemek.</MealSurvivalPack.description>
+	<MealSurvivalPack.label>Paketlenmiş Acil Durum Yiyeceği</MealSurvivalPack.label>
+	<MealSurvivalPack.description>Acil durumlarda hayatta kalabilmek için üretilmiş, paketlenmiş yüksek kaliteli yiyecek.</MealSurvivalPack.description>
 
-	<MealNutrientPaste.label>Sıkıştırılmış Besin</MealNutrientPaste.label>
-	<MealNutrientPaste.description>Protein, karbonhidrat, vitamin, aminoasit ve minerallerin sentezlenmesiyle oluşur. Vücuda hepsinin ihtiyacı var ama kesinlikle iğrenç.</MealNutrientPaste.description>
+	<MealNutrientPaste.label>Besin Macunu</MealNutrientPaste.label>
+	<MealNutrientPaste.description>Protein, karbonhidrat, vitamin, aminoasit ve minerallerin sentetik bir karışımı. Vücudun ihtiyacı olan herşey, ancak kesinlikle iğrenç.</MealNutrientPaste.description>
 	
-	<MealSimple.label>Sade Yemek</MealSimple.label>
-	<MealSimple.description>Basit bir yemek, hızlı bir kaç malzemelerle pişmiş.</MealSimple.description>
+	<MealSimple.label>Basit Yemek</MealSimple.label>
+	<MealSimple.description>Birkaç malzemeyle hızlıca hazırlanıp pişirilen sade bir yemek.</MealSimple.description>
 	
 	<MealFine.label>Güzel Yemek</MealFine.label>
-	<MealFine.description>Et ve sebzelerin karıştırılmasıyla oluşan iyi yemek</MealFine.description>
+	<MealFine.description>Zengin seçenekler arasından özenle seçilmiş malzemelerden oluşturulmuş usta işi bir yemek.</MealFine.description>
 	
 	<MealLavish.label>Lüks Yemek</MealLavish.label>
-	<MealLavish.description>Mutfak sanatlarının bir başyapıt, bu yemek beden, zihin ve ruhu besler.</MealLavish.description>
+	<MealLavish.description>Mutfak sanatları içinden bir baş yapıt. Bu yemek; hem zihni, hem bedeni, hem de ruhu besler.</MealLavish.description>
 	
 	
 	
