@@ -9,7 +9,7 @@
     
     <RockRubble.label>kaya molozu</RockRubble.label>
     
-    <BuildingRubble.label>yapı molozları</BuildingRubble.label>
+    <BuildingRubble.label>inşaat molozları</BuildingRubble.label>
     
     <SandbagRubble.label>parçalanmış kum torbası</SandbagRubble.label>
     
@@ -19,13 +19,13 @@
     
     <FilthAmnioticFluid.label>amniyotik sıvı</FilthAmnioticFluid.label>
     
-    <FilthSlime.label>slime</FilthSlime.label>
+    <FilthSlime.label>balçık</FilthSlime.label>
     
     <FilthVomit.label>kusmuk</FilthVomit.label>
     
     <FilthFireFoam.label>yangın söndrüme köpüğü</FilthFireFoam.label>
     
-    <FilthFuel.label>yakıt biriintisi</FilthFuel.label>
+    <FilthFuel.label>yakıt birintisi</FilthFuel.label>
     <FilthFuel.description>Yerde yanar.</FilthFuel.description>
     
 </LanguageData>
