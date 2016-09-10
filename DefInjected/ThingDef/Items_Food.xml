@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <MealSurvivalPack.label>packaged survival meal</MealSurvivalPack.label>
-  <MealSurvivalPack.description>A high-quality packaged meal, manufactured for use in survival situations.</MealSurvivalPack.description>
+  <MealSurvivalPack.label>paketlenmiş acil durum yiyeceği</MealSurvivalPack.label>
+  <MealSurvivalPack.description>Acil durumlarda hayatta kalabilmek için üretilmiş, paketlenmiş yüksek kaliteli yiyecek.</MealSurvivalPack.description>
 
-  <MealNutrientPaste.label>nutrient paste meal</MealNutrientPaste.label>
-  <MealNutrientPaste.description>A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting.</MealNutrientPaste.description>
+  <MealNutrientPaste.label>besin macunu yiyeceği</MealNutrientPaste.label>
+  <MealNutrientPaste.description>Protein, karbonhidrat, vitamin, aminoasit ve minerallerin sentetik bir karışımı. Vücudun ihtiyacı olan herşey, ancak kesinlikle iğrenç.</MealNutrientPaste.description>
 
   <MealSimple.label>simple meal</MealSimple.label>
   <MealSimple.description>A simple meal quickly cooked from a few ingredients.</MealSimple.description>
