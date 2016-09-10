@@ -2,18 +2,18 @@
 <LanguageData>
     
     <HerbalMedicine.label>Bitkisel İlaç</HerbalMedicine.label>
-    <HerbalMedicine.description>İlaç olarak kullanılabilir bitkilerin karıştırıldığı paket. Endüstriyel ilaçlar kadar etkili değildir, ama hiç yoktan iyidir.</HerbalMedicine.description>
+    <HerbalMedicine.description>İlaç olarak kullanılabilen bitkilerin karışımından oluşan bir paket. Endüstriyel ilaçlar kadar etkili değildir ama hiç yoktan iyidir.</HerbalMedicine.description>
     
     <Medicine.label>Tıbbi Araç Gereç</Medicine.label>
-    <Medicine.description>Doktorlar bu araç gereçleri yaraları tedavi etmek için kullanır.</Medicine.description>
+    <Medicine.description>Doktorlar, bu araç gereçleri yaraları tedavi etmek için kullanır.</Medicine.description>
     
     <GlitterworldMedicine.label>Teknolojik Tıbbi Malzeme</GlitterworldMedicine.label>
     <GlitterworldMedicine.description>Yüksek teknolojiden üretilmiş teknolojik tıbbi malzeme.</GlitterworldMedicine.description>
     
-    <ArtilleryShell.label>Ağır Silah Mermesi</ArtilleryShell.label>
+    <ArtilleryShell.label>Ağır Silah Mermisi</ArtilleryShell.label>
     <ArtilleryShell.description>Ağır silahlardan ateşlenen mermi.</ArtilleryShell.description>
     
     <Component.label>Bileşen</Component.label>
-    <Component.description>Çok çarklar, kapastiörler, devre tahtası, tüpler, tekerlekler, sensörler, kablolar, çipler, işlemciler, ve diğer elektronik ve endüstriyel parçalar. Karışık makineleri ya da elektronikleri kurmak için gerekli bileşenler.</Component.description>
+    <Component.description>Çoklu çarklar, kapasitörler, devre tahtaları, tüpler, kasnaklar sensörler, kablolar, çipler, entegreler ile diğer elektronik ve endüstriyel parçalar. Karmaşık makineleri ya da elektronik cihazları yapabilmek için gerekli bileşenler.</Component.description>
   
 </LanguageData>
