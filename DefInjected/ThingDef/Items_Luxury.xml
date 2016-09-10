@@ -4,12 +4,12 @@
    <!--=============== Beer ====================-->
    
 	<Beer.label>Bira</Beer.label>
-	<Beer.description> Bira tadına bakabilirsiniz tadı hoşunuza gidebilir ama sarhoşluk etkisi vardır. Aşırı kullanım bağımlılığı yol açabilir.</Beer.description>
+	<Beer.description> Biranın tadına bakabilirsiniz,hoşunuza gidebilir ama sarhoşluk etkisi vardır. Aşırı kullanımı, bağımlılığı yol açabilir.</Beer.description>
 	
   <!--=============== Luxury ====================-->
    
 	<Chocolate.label>Çikolata</Chocolate.label>
-	<Chocolate.description> Kakao, şeker ve vanilya bir çok lezzetli karışım. Çikolata tadı çok iyi</Chocolate.description>
+	<Chocolate.description> Kakao, şeker ve vanilyadan oluşan lezzetli bir karışım. Çikolata, tadı çok iyi.</Chocolate.description>
 
 	
 </LanguageData>
