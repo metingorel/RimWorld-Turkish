@@ -23,7 +23,7 @@
     
     <FilthVomit.label>kusmuk</FilthVomit.label>
     
-    <FilthFireFoam.label>yangın söndrüme köpüğü</FilthFireFoam.label>
+    <FilthFireFoam.label>yangın söndürme köpüğü</FilthFireFoam.label>
     
     <FilthFuel.label>yakıt birintisi</FilthFuel.label>
     <FilthFuel.description>Yerde yanar.</FilthFuel.description>
