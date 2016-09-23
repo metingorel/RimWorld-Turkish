@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <CollapsedRocks.label>Çökmüş Kayaler</CollapsedRocks.label>
-    <CollapsedRocks.description>Çökmüş kayalar sıkı sıkıya bir arada olduğu zaman bir çatıyı ayakta tutabilir.</CollapsedRocks.description>
+    <CollapsedRocks.label>Çökük Kayalar</CollapsedRocks.label>
+    <CollapsedRocks.description>Çökük kayalar sıkı sıkıya bir arada olduğu zaman bir çatıyı ayakta tutabilir.</CollapsedRocks.description>
     
-    <MineableSteel.label>Sıkıştırılmış çelik</MineableSteel.label>
+    <MineableSteel.label>Çıkarılabilir çelik</MineableSteel.label>
     <MineableSteel.description>Çelik bakımından zengin antik zamandan kalan çökmüş yapılar.</MineableSteel.description>
     
     <MineableSilver.label>Gümüş cevheri</MineableSilver.label>
@@ -16,16 +16,16 @@
     <MineableUranium.label>Uranyum cevheri</MineableUranium.label>
     <MineableUranium.description>Bolca uranyum içeren kayalar</MineableUranium.description>
     
-    <MineablePlasteel.label>Sıkıştırılmış plasteel</MineablePlasteel.label>
-    <MineablePlasteel.description>Plasteel bakımından zengin antik zamandan kalan molozlar.(Plasteel: Plastik ve çeliğin karışımından yapılan çok güçlü madde.)</MineablePlasteel.description>
+    <MineablePlasteel.label>Çıkarılabilir plaçelik</MineablePlasteel.label>
+    <MineablePlasteel.description>Plaçelik bakımından zengin antik zamandan kalan molozlar.(Plaçelik: Plastik ve çeliğin karışımından yapılan çok güçlü madde.)</MineablePlasteel.description>
     
     <MineableJade.label>Yeşim taşı</MineableJade.label>
     <MineableJade.description>Bolca yeşim taşı içeren kayalar.</MineableJade.description>
     
-    <MineableComponents.label>Sıkıştırılmış makineler</MineableComponents.label>
-    <MineableComponents.description>Zaman içinde sıkışmış eski makinele kullanışlı bileşen elde etmek için kullanılabilir.</MineableComponents.description>
+    <MineableComponents.label>Çıkarılabilir bileşen</MineableComponents.label>
+    <MineableComponents.description>Zaman içinde sıkışmış eski bileşenler kullanışlı bileşen elde etmek için kullanılabilir.</MineableComponents.description>
     
-    <SteamGeyser.label>Gayzelr</SteamGeyser.label>
+    <SteamGeyser.label>Gayzer</SteamGeyser.label>
     <SteamGeyser.description>Doğal buhar kaynağı.</SteamGeyser.description>
     
     <Hive.label>Kovan</Hive.label>
