@@ -8,7 +8,7 @@
 	<Heater.description>Elektrikle çalışır ve etrafa ısıtır. Otomatik olarak kendini kapatabilir ve istenilen sıcaklığa getirilebilir.</Heater.description>
 	
 	<Cooler.label>Soğutucu</Cooler.label>
-	<Cooler.description>Elektrikle çalışır, duvara yerleştirilmesi gerekir. Sıcak hava alıp soğuk hava verir. Dondurucu yapmak için kullanılabilir. </Cooler.description>
+	<Cooler.description>Elektrikle çalışır, duvara yerleştirilmesi gerekir. Sıcak hava alıp soğuk hava verir. Soğuk oda yapmak için kullanılabilir. </Cooler.description>
 	
 	<Vent.label>Havalandrma</Vent.label>
 	<Vent.description>İki oda arası hava akımını sağlar.</Vent.description>
