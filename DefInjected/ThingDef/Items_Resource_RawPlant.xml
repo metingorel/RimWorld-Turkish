@@ -2,24 +2,24 @@
 <LanguageData>
     
     <Hay.label>kuru ot</Hay.label>
-    <Hay.description>Besin açısından zengin otlar, bitkiler; hasat edilip balyalanmış. Kuru ot hayvan yemidir, ancak zorda kalınırsa insanlar da yiyebilir.</Hay.description>
+    <Hay.description>Besin açısından zengin ot, bitki; hasat edilip balyalanmış. Kuru ot hayvan yemidir, ancak zorda kalınırsa insanlar da yiyebilir.</Hay.description>
     
     <RawHops.label>şerbetçi otu</RawHops.label>
-    <RawHops.description>Ham şerbetçi otu.. A flavoring and preserving agent that is necessary for making beer.</RawHops.description>
+    <RawHops.description>Ham şerbetçi otu. Bira yapmada kullanılan lezzet verici ve koruyucu bir bitki.</RawHops.description>
     
-    <RawPotatoes.label>potatoes</RawPotatoes.label>
-    <RawPotatoes.description>Raw potatoes</RawPotatoes.description>
+    <RawPotatoes.label>patates</RawPotatoes.label>
+    <RawPotatoes.description>Çiğ patates.</RawPotatoes.description>
     
-    <RawCorn.label>corn</RawCorn.label>
-    <RawCorn.description>Raw corn. Nice to eat, even when raw.</RawCorn.description>
+    <RawCorn.label>mısır</RawCorn.label>
+    <RawCorn.description>Çiğ mısır. Çiğken bile yemek çok güzel.</RawCorn.description>
     
-    <RawRice.label>rice</RawRice.label>
-    <RawRice.description>Raw rice.</RawRice.description>
+    <RawRice.label>pirinç</RawRice.label>
+    <RawRice.description>Çiğ pirinç.</RawRice.description>
     
-    <RawBerries.label>berries</RawBerries.label>
-    <RawBerries.description>Assorted berries. Nice to eat, even when raw.</RawBerries.description>
+    <RawBerries.label>böğürtlen</RawBerries.label>
+    <RawBerries.description>Çeşit çeşit böğürtlenler. Çiğken bile yemek güzel.</RawBerries.description>
     
-    <RawAgave.label>agave fruit</RawAgave.label>
-    <RawAgave.description>Raw agave fruit.</RawAgave.description>
+    <RawAgave.label>sabır otu meyvesi</RawAgave.label>
+    <RawAgave.description>Çiğ sabır otu meyvesi.</RawAgave.description>
     
 </LanguageData>
