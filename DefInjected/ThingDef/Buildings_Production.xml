@@ -25,26 +25,26 @@
 	<TableMachining.label>İşleme masası</TableMachining.label>
 	<TableMachining.description>Silah ve mekanik ceset gibi m1akine parçalarını birleştirme ve ayrıştırma yapabileceğin bir çalışma istasyonu.</TableMachining.description>
 
-	<ElectricStove.label>Elektrikli ısıtıcı</ElectricStove.label>
-  	<ElectricStove.description>Yemek pişirmeye yarayan ve kendi tezgahı bulunan elektrikli ısıtıcı.</ElectricStove.description>
+	<ElectricStove.label>Elektrikli pişirici</ElectricStove.label>
+  	<ElectricStove.description>Yemek pişirmeye yarayan ve kendi tezgahı bulunan elektrikli pişirici.</ElectricStove.description>
 
-  	<FueledStove.label>Odunlu ısıtıcı</FueledStove.label>
-  	<FueledStove.description>Yemek pişirmeye yarayan ve kendi tezgahı bulunan odunla çalışan ısıtıcı.</FueledStove.description>
+  	<FueledStove.label>Odunlu pişirici</FueledStove.label>
+  	<FueledStove.description>Yemek pişirmeye yarayan ve kendi tezgahı bulunan odunla çalışan pişirici.</FueledStove.description>
 
 	<TableStonecutter.label>Taş yontma masası</TableStonecutter.label>
-	<TableStonecutter.description>Ham taşları işleyip kullanılabilir blok haline getirmeye yarayan çalışma masası.</TableStonecutter.description>
+	<TableStonecutter.description>Ham taşları işleyip kullanılabilir bloklar haline getirmeye yarayan çalışma masası.</TableStonecutter.description>
 	
 	<Brewery.label>Bira makinesi</Brewery.label>
 	<Brewery.description>Gerekli malzemelerden damıtma yoluyla bira yapmaya yarayan çalışma masası.</Brewery.description>
 
 	<ElectricSmelter.label>Elektrikli döküm makinesi</ElectricSmelter.label>
-	<ElectricSmelter.description>Hurda metallerden ve diğer karışık madenlerden işe yarar metal elde etmeye yarar. Çok fazla güç kullanır.</ElectricSmelter.description>
+	<ElectricSmelter.description>Hurda metallerden ve diğer karışık madenlerden işe yarar metalleri ayıklamaya yarar. Çok fazla güç kullanır.</ElectricSmelter.description>
 	
 	<ComponentAssemblyBench.label>Bileşen montaj masası</ComponentAssemblyBench.label>
   	<ComponentAssemblyBench.description>Basit materyallerden bileşen üretmek için kullanılan, gelişmiş aletlerle donatılmış çalışma masası.</ComponentAssemblyBench.description>
 
  	<SimpleResearchBench.label>Basit araştırma masası</SimpleResearchBench.label>
-  	<SimpleResearchBench.description>Basit teknolojik ilerlemeleri ve gelişmeleri yapmak için basit bir çalışma masası. Araştırmacılar burada çalışarak yeni şeyler keşfedebilir.</SimpleResearchBench.description>
+  	<SimpleResearchBench.description>Basit teknolojik ilerlemeleri ve gelişmeleri yapmak için bir çalışma masası. Araştırmacılar burada çalışarak yeni şeyler keşfedebilir.</SimpleResearchBench.description>
 
   	<HiTechResearchBench.label>Yüksek teknoloji araştırma masası</HiTechResearchBench.label>
   	<HiTechResearchBench.description>Bilgisayar ve elektrikli ölçüm araçlarıyla donatılmış yüksek teknoloji araştırma masası. Araştırmalar, yüksek teknoloji aletlerle hız kazanır. Güç gerektirir.</HiTechResearchBench.description>
