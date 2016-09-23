@@ -2,7 +2,7 @@
 <LanguageData>
     
     <HorseshoesPin.label>Nal Atma</HorseshoesPin.label>
-    <HorseshoesPin.description>Antik zamandan kalma, birkaç nal ile geniş alanda oynanan oyun. Oyuncular nallara vurarak mesafe katedip raptiyelerin yakınına getirmeye çalışırlar. Rahatlatıcı, ve hatta el-göz koordinasyonu için bir antrenman sayılır.</HorseshoesPin.description>
+    <HorseshoesPin.description>Antik zamandan kalma, birkaç nal ile geniş bir alanda oynanan oyun. Oyuncular nalları fırlatarak belli bir mesafedeki çubuğun yakınına getirmeye çalışır. Rahatlatıcı ve hatta el-göz koordinasyonu için bir antrenman sayılır.</HorseshoesPin.description>
     
     <ChessTable.label>Satranç</ChessTable.label>
     <ChessTable.description>Antik zamandan kalma kralların oyunu. Birkaç saatlik eğlence, tek başına oynanırken bile.</ChessTable.description>
@@ -11,7 +11,7 @@
     <BilliardsTable.description>Çeşitli bilardo oyunlarını oynamak için sınırları belli, yumuşak ve üstü kaplı masa.</BilliardsTable.description>
     
     <TubeTelevision.label>Tüplü Televizyon</TubeTelevision.label>
-    <TubeTelevision.description>Sesle birlikte hareketleri resimleri izlemek için katota bağlanmış tüplü ekran. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting.</TubeTelevision.description>
+    <TubeTelevision.description>Sesle birlikte hareketleri resimleri izlemek için katota bağlanmış tüplü ekran. Rimworlds üzerinde bile marjinal ilginç vericileri çalıştıran birşeyler vardır.</TubeTelevision.description>
     
     <FlatscreenTelevision.label>Düz Ekran Televizyon</FlatscreenTelevision.label>
     <FlatscreenTelevision.description>Yüksek teknolojili kristal temizliğinde ve çeşitli renkleri verebilen bir düz ekran televizyon. Eski tüplü televizyona kıyasla daha fazla eğlenceli.</FlatscreenTelevision.description>
