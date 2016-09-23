@@ -12,6 +12,6 @@
 	<!--========================= Walls =============================-->
 	
 	<Wall.label>Duvar</Wall.label>
-	<Wall.description>Aşılamayan bir duvar. Üstünde bir çatı tutar.</Wall.description>
+	<Wall.description>Aşılamayan bir duvar. Üstünde bir çatı bulunur.</Wall.description>
 	
 </LanguageData>
