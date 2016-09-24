@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <Silver.label>silver</Silver.label>
-    <Silver.description>This metal is mostly used as a commodity currency. It can also be used for making attractive decorations.</Silver.description>
-    <Silver.stuffProps.stuffAdjective>Silveren</Silver.stuffProps.stuffAdjective>
+    <Silver.label>gümüş</Silver.label>
+    <Silver.description>Bu metal çoğunlukla alışverişlerde para birimi olarak kullanılır. Ayrıca ilgi çekici dekorasyonlar yapmak için de kullanılabilir.</Silver.description>
+    <Silver.stuffProps.stuffAdjective>gümüşten</Silver.stuffProps.stuffAdjective>
     
-    <Gold.label>gold</Gold.label>
-    <Gold.description>The most seductive metal of them all. Millions have died in attempting to feed the endless human thirst for gold. This soft metal is little use on its own, but is strikingly beautiful and very rare.</Gold.description>
-    <Gold.stuffProps.stuffAdjective>golden</Gold.stuffProps.stuffAdjective>
+    <Gold.label>altın</Gold.label>
+    <Gold.description>Hepsinin içinde endeğerli olan metaldir. Milyonlarca insan, insanların altına karşı bitmek tükenmek bilmeyen susuzluğunu gidermek için hayatını kaybetti. Bu yumuşak metal kendi başına az kullanım alanına sahiptir fakat çarpıcı bir güzelliğe sahiptir ve çok nadir bulunur.</Gold.description>
+    <Gold.stuffProps.stuffAdjective>altından</Gold.stuffProps.stuffAdjective>
     
-    <Steel.label>Steel</Steel.label>
-    <Steel.description>An iron-carbon metal alloy used for building structures, tools, and weapons.</Steel.description>
-    <Steel.stuffProps.stuffAdjective>Steelen</Steel.stuffProps.stuffAdjective>
+    <Steel.label>Çelik</Steel.label>
+    <Steel.description>Binaların, araç gereçlerin ve silahların yapımında kullanılan demir-karbon alaşımı bir metaldir.</Steel.description>
+    <Steel.stuffProps.stuffAdjective>çelikten</Steel.stuffProps.stuffAdjective>
     
-    <Plasteel.label>plasteel</Plasteel.label>
-    <Plasteel.description>Advanced spacer tech structural material. Plasteel is extremely strong due to its unique molecular structure.</Plasteel.description>
-    <Plasteel.stuffProps.stuffAdjective>Plasteelen</Plasteel.stuffProps.stuffAdjective>
+    <Plasteel.label>Plaçelik</Plasteel.label>
+    <Plasteel.description>Gelişmiş uzaylı teknolojisinin yapısal malzemesidir. Eşsiz moleküler yapısı nedeniyle son derece yüksek mekanik dayanıma sahiptir.</Plasteel.description>
+    <Plasteel.stuffProps.stuffAdjective>plaçelikten</Plasteel.stuffProps.stuffAdjective>
     
-    <WoodLog.label>wood</WoodLog.label>
-    <WoodLog.description>Wood from trees or other fibrous plants. Useful for building structures, weapons, and even simple prosthetics. A raw stick of wood can be used as a weapon in a pinch.</WoodLog.description>
-    <WoodLog.stuffProps.stuffAdjective>wooden</WoodLog.stuffProps.stuffAdjective>
+    <WoodLog.label>kereste</WoodLog.label>
+    <WoodLog.description>Ağaç yada diğer lifli bitkilerden kereste. Binaların, silahların ve basit protezlerin yapımı için kullanışlıdır. Herhangi bir işlem görmemiş basit bir ahşap sopa gerektiğinde silah olarak kullanılabilir.</WoodLog.description>
+    <WoodLog.stuffProps.stuffAdjective>ahşaptan</WoodLog.stuffProps.stuffAdjective>
     
-    <Uranium.label>uranium</Uranium.label>
-    <Uranium.description>An extremely hard, dense metal. While it is best known for its use powering nuclear reactors, its physical properties also make it excellent in some roles as a tool, weapon, or armor.</Uranium.description>
-    <Uranium.stuffProps.stuffAdjective>zUraniumen</Uranium.stuffProps.stuffAdjective>
+    <Uranium.label>uranyum</Uranium.label>
+    <Uranium.description>Son derece sert yoğun bir metal. Nükleer reaktörler için bir güç kaynağı olarak bilinmekle birlikte fiziksel özellikleri sayesinde araç gereçler, silahlar ve zırhlar için mükemmeldir.</Uranium.description>
+    <Uranium.stuffProps.stuffAdjective>Uranyumdan</Uranium.stuffProps.stuffAdjective>
     
-    <Jade.label>jade</Jade.label>
-    <Jade.description>A hard, green stone. Because of its beauty and rarity, jade is often used for ornaments and decorations. It's hardness and density also makes it a good material for blunt weapons.</Jade.description>
-    <Jade.stuffProps.stuffAdjective>jaden</Jade.stuffProps.stuffAdjective>
+    <Jade.label>yeşim taşı</Jade.label>
+    <Jade.description>Sert, yeşil bir taş. Güzelliği ve nadir bulunulurluğu nedeniyle yeşim taşı genellikle süs ve dekorasyon işlerinde kullanılır. Sertliği ve yoğunluğu onu, iyi bir yakın dövüş silahı malzemesi haline getirir.</Jade.description>
+    <Jade.stuffProps.stuffAdjective>yeşim taşından</Jade.stuffProps.stuffAdjective>
     
-    <Cloth.label>cloth</Cloth.label>
-    <Cloth.description>Cloth woven from organic fibers.</Cloth.description>
-    <Cloth.stuffProps.stuffAdjective>Clothen</Cloth.stuffProps.stuffAdjective>
+    <Cloth.label>kumaş</Cloth.label>
+    <Cloth.description>Kumaş, organik liflerden dokunmuştur.</Cloth.description>
+    <Cloth.stuffProps.stuffAdjective>Kumaştan</Cloth.stuffProps.stuffAdjective>
     
-    <Synthread.label>synthread</Synthread.label>
-    <Synthread.description>Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well.</Synthread.description>
-    <Synthread.stuffProps.stuffAdjective>synthreaden</Synthread.stuffProps.stuffAdjective>
+    <Synthread.label>sentetik</Synthread.label>
+    <Synthread.description>Uzaylı teknolojisi sentetik kumaş, sıradan kıyafetleri yapmak için tasarlanmıştır. Yumuşak, hafif, dayanıklı ve yalıtımı iyidir.</Synthread.description>
+    <Synthread.stuffProps.stuffAdjective>sentetik kumaştan</Synthread.stuffProps.stuffAdjective>
     
     <DevilstrandCloth.label>devilstrand</DevilstrandCloth.label>
     <DevilstrandCloth.description>Fabric spun from microfibers extracted from silk-producing Devilstrand mushrooms. Very tough, but insulates no better than cloth.</DevilstrandCloth.description>
