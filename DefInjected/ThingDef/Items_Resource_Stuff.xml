@@ -37,8 +37,8 @@
     <Synthread.description>Uzaylı teknolojisi sentetik kumaş, sıradan kıyafetleri yapmak için tasarlanmıştır. Yumuşak, hafif, dayanıklı ve yalıtımı iyidir.</Synthread.description>
     <Synthread.stuffProps.stuffAdjective>sentetik kumaştan</Synthread.stuffProps.stuffAdjective>
     
-    <DevilstrandCloth.label>şeytan ipliği</DevilstrandCloth.label>
-    <DevilstrandCloth.description>Şeytan ipliği mantarı ipeğinden elde edilen mikrofiberlerin bükülmesiyle oluşturulmuş kumaştır. Çok sert, ancak kumaş kadar iyi yalıtkan değildir.</DevilstrandCloth.description>
+    <DevilstrandCloth.label>şeytanipliği</DevilstrandCloth.label>
+    <DevilstrandCloth.description>Şeytanipliği mantarı ipeğinden elde edilen mikrofiberlerin bükülmesiyle oluşturulmuş kumaştır. Çok sert, ancak kumaş kadar iyi yalıtkan değildir.</DevilstrandCloth.description>
     <DevilstrandCloth.stuffProps.stuffAdjective>şeytanipliğinden</DevilstrandCloth.stuffProps.stuffAdjective>
     
     <Hyperweave.label>hiperdokuma</Hyperweave.label>
