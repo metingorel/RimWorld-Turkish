@@ -8,11 +8,11 @@
 	<Silver.stuffProps.stuffAdjective>Gümüş</Silver.stuffProps.stuffAdjective>
 	
 	<Gold.label>Altın</Gold.label>
-	<Gold.description>Metaller arasında en çekici olanı. Birilerinin altın açlığı için milyonlarca insan öldü. Bu yumuşak metal artık çok kullanılmıyor, ama hala değerli ve nadir.</Gold.description>
+	<Gold.description>Metaller arasında en çekici olanı. Birilerinin altın açlığı yüzünden milyonlarca insan öldü. Bu yumuşak metal artık çok kullanılmıyor, ama hala değerli ve nadir.</Gold.description>
 	<Gold.stuffProps.stuffAdjective>Altın</Gold.stuffProps.stuffAdjective>
 	
 	<Steel.label>Çelik</Steel.label>
-	<Steel.description>Demir-karbondan bir tür metal, yapı silah ve dekorasyon için kullanılabilir.</Steel.description>
+	<Steel.description>Demir-karbondan bir tür metal, yapı, silah ve dekorasyon için kullanılabilir.</Steel.description>
 	<Steel.stuffProps.stuffAdjective>Çelik</Steel.stuffProps.stuffAdjective>
 	
 	<Plasteel.label>Plaçelik</Plasteel.label>
@@ -20,7 +20,7 @@
 
 	
 	<WoodLog.label>Odun</WoodLog.label>
-	<WoodLog.description>Ağaçlardan çıkan odun. Yapılar, silahlar veya basit protezler yapmak, hatta gerektiğinde silah olarak için bile kullanılabilir.</WoodLog.description>
+	<WoodLog.description>Ağaçlardan çıkan odun. Yapılar, silahlar veya basit protezler yapmak için, hatta gerektiğinde silah olarak bile kullanılabilir.</WoodLog.description>
 	<WoodLog.stuffProps.stuffAdjective>Tahta</WoodLog.stuffProps.stuffAdjective>
 	
 	<Uranium.label>Uranyum</Uranium.label>
@@ -39,7 +39,7 @@
     <DevilstrandCloth.description>Son derece sağlam olan bu iplik şeytan mantarından yapılır.</DevilstrandCloth.description>
 	
 	<Hyperweave.label>Hiperdokuma</Hyperweave.label>
-	<Hyperweave.description>Yüksek-teknoloji ile yapılmış nano-fiber dokuma. Ağır olabilir, ama yırtılamayacak kadar sağlamdır. Bu dokumanın sırları sadece gösterişdünyası tarafından biliniyor.</Hyperweave.description>
+	<Hyperweave.description>Yüksek-teknoloji ile yapılmış nano-fiber dokuma. Ağır olabilir, ama yırtılamayacak kadar sağlamdır. Bu dokumanın sırları sadece gösterişli dünyalar tarafından biliniyor.</Hyperweave.description>
 	
 	
 	<!--=============== Plant products ====================-->
