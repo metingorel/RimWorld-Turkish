@@ -37,24 +37,24 @@
     <Synthread.description>Uzaylı teknolojisi sentetik kumaş, sıradan kıyafetleri yapmak için tasarlanmıştır. Yumuşak, hafif, dayanıklı ve yalıtımı iyidir.</Synthread.description>
     <Synthread.stuffProps.stuffAdjective>sentetik kumaştan</Synthread.stuffProps.stuffAdjective>
     
-    <DevilstrandCloth.label>devilstrand</DevilstrandCloth.label>
-    <DevilstrandCloth.description>Fabric spun from microfibers extracted from silk-producing Devilstrand mushrooms. Very tough, but insulates no better than cloth.</DevilstrandCloth.description>
-    <DevilstrandCloth.stuffProps.stuffAdjective>devilstranden</DevilstrandCloth.stuffProps.stuffAdjective>
+    <DevilstrandCloth.label>şeytan ipliği</DevilstrandCloth.label>
+    <DevilstrandCloth.description>Şeytan ipliği mantarı ipeğinden elde edilen mikrofiberlerin bükülmesiyle oluşturulmuş kumaştır. Çok sert, ancak kumaş kadar iyi yalıtkan değildir.</DevilstrandCloth.description>
+    <DevilstrandCloth.stuffProps.stuffAdjective>şeytanipliğinden</DevilstrandCloth.stuffProps.stuffAdjective>
     
-    <Hyperweave.label>hyperweaveen</Hyperweave.label>
-    <Hyperweave.description>High-tech nano-fibers woven into sheets. It is somewhat heavy, but is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures.</Hyperweave.description>
-    <Hyperweave.stuffProps.stuffAdjective>hyperweaven</Hyperweave.stuffProps.stuffAdjective>
+    <Hyperweave.label>hiperdokuma</Hyperweave.label>
+    <Hyperweave.description>Yüksek teknoloji nano-lifler içeren levhalarla dokunmuş. Biraz ağır, ancak kırmak inanılmaz derecede zor. Üretiminin sırları ancak en gelişmiş yüksek medeniyetlerce bilinmektedir.</Hyperweave.description>
+    <Hyperweave.stuffProps.stuffAdjective>hiperdokumadan</Hyperweave.stuffProps.stuffAdjective>
     
-    <MuffaloWool.label>muffalo wool</MuffaloWool.label>
-    <MuffaloWool.description>Soft, light and provides very good insulation. Wool clothes can keep the body warm even in extreme conditions.</MuffaloWool.description>
-    <MuffaloWool.stuffProps.stuffAdjective>muffalo woolen</MuffaloWool.stuffProps.stuffAdjective>
+    <MuffaloWool.label>muffalo yünü</MuffaloWool.label>
+    <MuffaloWool.description>Yumuşak, hafif ve çok iyi yalıtır. Yün giysiler zorlu koşullarda dahi vücudu sıcak tutar.</MuffaloWool.description>
+    <MuffaloWool.stuffProps.stuffAdjective>muffalo yününden</MuffaloWool.stuffProps.stuffAdjective>
     
-    <CamelHair.label>camelhair</CamelHair.label>
-    <CamelHair.description>Camelhair clothing is usually worn by desert travelers to protect them from the heat. It provides excellent insulation due to its thermostatic properties.</CamelHair.description>
-    <CamelHair.stuffProps.stuffAdjective>camelhairen</CamelHair.stuffProps.stuffAdjective>
+    <CamelHair.label>deve kılı</CamelHair.label>
+    <CamelHair.description>Deve kılından giyim, genellikle çölde seyahat edenlerce sıcaktan korunmak için tercih edilir. Termostatik özellikleri nedeniyle mükemmel yalıtım sağlar.</CamelHair.description>
+    <CamelHair.stuffProps.stuffAdjective>deve kılından</CamelHair.stuffProps.stuffAdjective>
     
-    <AlpacaWool.label>alpaca wool</AlpacaWool.label>
-    <AlpacaWool.description>The remarkably soft wool of an alpaca. It is very warm.</AlpacaWool.description>
-    <AlpacaWool.stuffProps.stuffAdjective>alpaca woolen</AlpacaWool.stuffProps.stuffAdjective>
+    <AlpacaWool.label>alpaca yünü</AlpacaWool.label>
+    <AlpacaWool.description>Alpaca yünü, oldukça yumuşak bir yündür. Çok sıcak tutar.</AlpacaWool.description>
+    <AlpacaWool.stuffProps.stuffAdjective>alpaca yününden</AlpacaWool.stuffProps.stuffAdjective>
     
 </LanguageData>
