@@ -2,10 +2,10 @@
 <LanguageData>
     
     <PlantPotato.label>patates bitkisi</PlantPotato.label>
-    <PlantPotato.description>Basit, son derece besleyici bir yumru. Grows well even in somewhat poor soil. Harvests quickly. A strong, versatile crop.</PlantPotato.description>
+    <PlantPotato.description>Basit, son derece besleyici bir yumru. Verimsiz topraklarda bile bir şekilde yetişir. Hızlıca hasat edilir. Güçlü, çok yönlü bir ürün.</PlantPotato.description>
     
-    <PlantCorn.label>corn plant</PlantCorn.label>
-    <PlantCorn.description>A large grain plant which produces ears of delicious yellow seeds. Takes a relatively long time to grow, but yields lots of food, takes a long time to spoil, and can be happily eaten raw. Needs fertile soil to grow well.</PlantCorn.description>
+    <PlantCorn.label>mısır bitkisi</PlantCorn.label>
+    <PlantCorn.description>Lezzetli sarı tohum taneleri üreten iri bir tahıl bitkisi. Büyümesi nispeten uzun bir zaman alır, ancak çok sayıda mahsul verir, hasatı uzun zaman alır ve çiğ olarak bile memnuniyetle yenir.Büyümesi için verimli toprağa ihtiyacı vardır.</PlantCorn.description>
     
     <PlantRice.label>rice plant</PlantRice.label>
     <PlantRice.description>A low grain plant that thrives in rich soil and yields food fast, but is not nice to eat uncooked.</PlantRice.description>
