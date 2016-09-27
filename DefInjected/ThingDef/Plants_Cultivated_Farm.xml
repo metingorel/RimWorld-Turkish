@@ -7,8 +7,8 @@
     <PlantCorn.label>mısır bitkisi</PlantCorn.label>
     <PlantCorn.description>Lezzetli sarı tohum taneleri üreten iri bir tahıl bitkisi. Büyümesi nispeten uzun bir zaman alır, ancak çok sayıda mahsul verir, hasatı uzun zaman alır ve çiğ olarak bile memnuniyetle yenir.Büyümesi için verimli toprağa ihtiyacı vardır.</PlantCorn.description>
     
-    <PlantRice.label>rice plant</PlantRice.label>
-    <PlantRice.description>A low grain plant that thrives in rich soil and yields food fast, but is not nice to eat uncooked.</PlantRice.description>
+    <PlantRice.label>pirinç bitkisi</PlantRice.label>
+    <PlantRice.description>Verimli topraklarda yetişen hali hazırda tüketilmeye müsait küçük tahıl bitkisi, fakat çiğ tüketmek pek de hoş değil.</PlantRice.description>
      
     <PlantHaygrass.label>haygrass</PlantHaygrass.label>
     <PlantHaygrass.description>A mixture of nutrient-rich grasses which yield large amounts of hay. Hay is edible for animals, but not humans.</PlantHaygrass.description>
