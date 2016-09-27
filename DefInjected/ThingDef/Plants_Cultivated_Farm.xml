@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
     
-    <PlantPotato.label>potato plant</PlantPotato.label>
-    <PlantPotato.description>A simple, highly nutritious tuber. Grows well even in somewhat poor soil. Harvests quickly. A strong, versatile crop.</PlantPotato.description>
+    <PlantPotato.label>patates bitkisi</PlantPotato.label>
+    <PlantPotato.description>Basit, son derece besleyici bir yumru. Grows well even in somewhat poor soil. Harvests quickly. A strong, versatile crop.</PlantPotato.description>
     
     <PlantCorn.label>corn plant</PlantCorn.label>
     <PlantCorn.description>A large grain plant which produces ears of delicious yellow seeds. Takes a relatively long time to grow, but yields lots of food, takes a long time to spoil, and can be happily eaten raw. Needs fertile soil to grow well.</PlantCorn.description>
