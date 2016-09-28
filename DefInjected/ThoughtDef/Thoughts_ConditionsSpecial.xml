@@ -21,11 +21,11 @@
   
   <rep>
     <path>ColonistLeftUnburied.stages[0].label</path>
-    <trans>Gömülmemiş kolonist</trans>
+    <trans>Gömülmemiş kolonici</trans>
   </rep>
   <rep>
     <path>ColonistLeftUnburied.stages[0].description</path>
-    <trans>İçimizden biri öldü ve biz öldüğü yerde bıraktık. Kimse öyle bırakılmamalı. İnsanlar defnedilmeyi hakediyor.</trans>
+    <trans>İçimizden biri öldü ve O'nu öldüğü yerde bıraktık. Kimse öyle bırakılmamalı. İnsanlar defnedilmeyi hakediyor.</trans>
   </rep>
   
   <rep>
@@ -51,7 +51,7 @@
   </rep>
   <rep>
     <path>Pain.stages[1].description</path>
-    <trans>Ughhh... Çok acıyor ne zaman biticek bu ağrı!</trans>
+    <trans>Ufffff... Çok acıyor, ne zaman biticek bu acı!</trans>
   </rep>
   <rep>
     <path>Pain.stages[2].label</path>
