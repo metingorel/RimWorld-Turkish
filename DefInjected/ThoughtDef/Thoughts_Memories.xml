@@ -7,7 +7,7 @@
   </rep>
   <rep>
     <path>SleepDisturbed.stages[0].description</path>
-    <trans>Huzur içinde uyuyamadım.</trans>
+    <trans>Huzurlu bir uyku çekemedim.</trans>
   </rep>
 
   <rep>
@@ -16,16 +16,16 @@
   </rep>
   <rep>
     <path>AteRawFood.stages[0].description</path>
-    <trans>Neden çiğ et yiyoruz? Yemeği pişiremez miyiz, en azından sıkıştırılmış besin yiyebiliriz?</trans>
+    <trans>Neden çiğ et yiyiyoruz? Yemeği pişiremez miyiz? En azından sıkıştırılmış besin yiyebiliriz.</trans>
   </rep>
   
   <rep>
     <path>AteNutrientPasteMeal.stages[0].label</path>
-    <trans>Sıkıştırılmış besin yedi</trans>
+    <trans>Besin macunu yedi</trans>
   </rep>
   <rep>
     <path>AteNutrientPasteMeal.stages[0].description</path>
-    <trans>Neden sıkıştırılmış besin yiyoruz? Biliyorum bizi hayatta tutuyor, ama kimse bu yapışken şeyi yutmak istemez.</trans>
+    <trans>Neden besin macunu yiyiyoruz? Biliyorum bizi hayatta tutuyor, ama kimse bu yapışken şeyi yutmak istemez.</trans>
   </rep>
   
   <rep>
@@ -43,7 +43,7 @@
   </rep>
   <rep>
     <path>AteLavishMeal.stages[0].description</path>
-    <trans>O lüks yemek cidden harikaydı. Hem bedenimi hem de ruhumu besledi.</trans>
+    <trans>Lüks yemek cidden harikaydı. Hem bedenimi hem de ruhumu besledi.</trans>
   </rep>
   
 	
@@ -99,7 +99,7 @@
   </rep>
   <rep>
     <path>AteWithoutTable.stages[0].description</path>
-    <trans>Neden yerde yemek yiyoruz? Şuraya bir masa falan koyamaz mıyız?</trans>
+    <trans>Neden yerde yemek yiyiyoruz? Şuraya bir masa falan koyamaz mıyız?</trans>
   </rep>
 	
 
@@ -125,7 +125,7 @@
 	
   <rep>
     <path>WitnessedDeathAlly.stages[0].label</path>
-    <trans>Bir dostun öldüğünü gördü</trans>
+    <trans>Bir dostunun öldüğünü gördü</trans>
   </rep>
   <rep>
     <path>WitnessedDeathAlly.stages[0].description</path>
@@ -240,7 +240,7 @@
   </rep>
   <rep>
     <path>KnowPrisonerSold.stages[0].description</path>
-    <trans>Burası koloniden ziyade köle tüccarı olmaya başladı. Bu iyi bir şey değil.</trans>
+    <trans>Burası bir koloniden ziyade köle ticarethanesi olmaya başladı. Bu iyi bir şey değil.</trans>
   </rep>
   
   <rep>
@@ -276,7 +276,7 @@
   </rep>
   <rep>
     <path>WasImprisoned.stages[0].description</path>
-    <trans>Kolonim beni bir süreliğine hapse soktu, tıpkı kafese koyulmuş bir kuş gibi.</trans>
+    <trans>Kolonim beni bir süreliğine hapsetti, tıpkı kafese konulmuş bir kuş gibi.</trans>
   </rep>
   
   <rep>
@@ -285,7 +285,7 @@
   </rep>
   <rep>
     <path>PrisonerFriendlyChat.stages[0].description</path>
-    <trans>O gardiyan ve ben koloni hakkında konuştuk. Buranın çok güzel bir yer olduğunu düşünüyorum...</trans>
+    <trans>O gardiyan ve ben, koloni hakkında konuştuk. Buranın çok güzel bir yer olduğunu düşünüyorum...</trans>
   </rep>
   
   <rep>
@@ -303,7 +303,7 @@
   </rep>
   <rep>
     <path>AbrasiveTalk.stages[0].description</path>
-    <trans>Birisi bana çok kaba davrandı. Asıl kötü olan, hiç öyle yapacağınıdüşünmediğim biriydi...</trans>
+    <trans>Birisi bana çok kaba davrandı. Asıl kötü olan, hiç öyle davranacağını düşünmediğim birisiydi...</trans>
   </rep>
   
   <rep>
@@ -317,7 +317,7 @@
   
   <rep>
     <path>Catharsis.stages[0].label</path>
-    <trans>Catharsis</trans>
+    <trans>boşalım</trans>
   </rep>
   <rep>
     <path>Catharsis.stages[0].description</path>
