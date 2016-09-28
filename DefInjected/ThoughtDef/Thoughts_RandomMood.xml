@@ -8,7 +8,7 @@
   </rep>
   <rep>
     <path>FeelingRandom.stages[0].description</path>
-    <trans>Ben sadece harika hissediyorum.</trans>
+    <trans>Sadece harika hissediyorum.</trans>
   </rep>
   <rep>
     <path>FeelingRandom.stages[1].label</path>
@@ -16,15 +16,15 @@
   </rep>
   <rep>
     <path>FeelingRandom.stages[1].description</path>
-    <trans>Ben sadece çok iyi hissediyorum.</trans>
+    <trans>Sadece çok iyi hissediyorum.</trans>
   </rep>
   <rep>
     <path>FeelingRandom.stages[2].label</path>
-    <trans>Iyi hissetmiyorum</trans>
+    <trans>İyi hissetmiyorum</trans>
   </rep>
   <rep>
     <path>FeelingRandom.stages[2].description</path>
-    <trans>Ben sadece kendimi özel hissetmiyorum.</trans>
+    <trans>Sadece kendimi özel hissetmiyorum.</trans>
   </rep>
   <rep>
     <path>FeelingRandom.stages[3].label</path>
