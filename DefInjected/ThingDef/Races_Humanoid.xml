@@ -4,7 +4,7 @@
 	<!-- ============================ Humanoid ========================== -->
 
 	<Human.label>İnsan</Human.label>
-	<Human.description>İlk insanların çoğunluğu gen mühendisliği tarafından genleri değiştirilmemiş ve dünya dışı gezegenlerde evrimsel baskı olmamıştır.</Human.description>
+	<Human.description>İlk insanların çoğunluğu gen mühendisliği tarafından genleri değiştirilmemiş ve dünya dışı gezegenlerde evrimsel baskılaramaruz kalmamıştır.</Human.description>
 	<Human_Leather.label>İnsan Derisi</Human_Leather.label>
 	<Human_Leather.description>İnsan Derisi.</Human_Leather.description>
 	<Human_Meat.label>İnsan Eti</Human_Meat.label>
