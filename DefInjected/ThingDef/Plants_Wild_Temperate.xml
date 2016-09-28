@@ -4,7 +4,7 @@
 	<!--===========================  Wild - clustering bushes (some harvestable) ==============================-->
 
 	<PlantRaspberry.label>Ahududu Fidanları</PlantRaspberry.label>
-	<PlantRaspberry.description>Lezzetli kırmızı meyveler veren bir çalı formunda bir bitkidir.</PlantRaspberry.description>
+	<PlantRaspberry.description>Lezzetli kırmızı meyveler veren çalı formunda bir bitkidir.</PlantRaspberry.description>
 
 	<PlantBush.label>Çalı</PlantBush.label>
 	<PlantBush.description>Kısa bitki.</PlantBush.description>
@@ -13,7 +13,7 @@
 	<!--======================= Wild plants - carpets ========================-->
 	
 	<PlantGrass.label>Çim</PlantGrass.label>
-	<PlantGrass.description>Yabanı çimen. Her yerde yetişebilir, yetişmesi için azıcık ışık yeterlidir.</PlantGrass.description>
+	<PlantGrass.description>Yabani çimen. Her yerde yetişebilir, yetişmesi için azıcık ışık yeterlidir.</PlantGrass.description>
 
 	<PlantDandelion.label>Karahindiba</PlantDandelion.label>
 	<PlantDandelion.description>Yaygın küçük bir çiçek. Gerçi bir esrar olarak kabul ediliyor, ona bakmak keyifli.</PlantDandelion.description>
@@ -37,7 +37,7 @@
 	<PlantTreePine.description>Büyük kozalaklı bir ağaç.</PlantTreePine.description>
 	
 	<PlantTreeBirch.label>Huş Ağacı</PlantTreeBirch.label>
-	<PlantTreeBirch.description>İnce ve yaprak gibi olan kabuğuyla bilinen kuzeyde yetişen bir ağaç.</PlantTreeBirch.description>
+	<PlantTreeBirch.description>İnce ve yaprak gibi kabuğuyla ünlü kuzeyde yetişen bir ağaç.</PlantTreeBirch.description>
 	
 	
 </LanguageData>
