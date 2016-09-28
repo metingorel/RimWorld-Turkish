@@ -19,13 +19,13 @@
     <PlantCotton.label>pamuk bitkisi</PlantCotton.label>
     <PlantCotton.description>Pamuk, kumaş yapmak için kullanılan ince bitki lifi verir.</PlantCotton.description>
      
-    <PlantDevilstrand.label>şeytan ipliği</PlantDevilstrand.label>
+    <PlantDevilstrand.label>şeytanipliği</PlantDevilstrand.label>
     <PlantDevilstrand.description>Bu hassas mantar, genetik olarak en yüksek kalitede ipek ağı verecek şekilde dizayn edildi. Mistik özelliklere sahip olduğundan çokça bahsediliyor, adının ilham kaynağı insanların açgözlülüğüne borçludur.</PlantDevilstrand.description>
     
-    <PlantHealroot.label>healroot</PlantHealroot.label>
-    <PlantHealroot.description>A slow-growing plant which yields herbal medicine when harvested.\n\nHealroot was selectively bred for centuries by settlers. It is sometimes also called &quot;healer's hand&quot; by tribespeople - a nickname it owes to its five major medicinal virtues.</PlantHealroot.description>
+    <PlantHealroot.label>iyileştirici kök</PlantHealroot.label>
+    <PlantHealroot.description>Hasat edildiğinde bitkisel ilaç elde edilen yavaş büyüyen bir bitki.\n\nİyileştirici kök, titiz göçmenler tarafından yüzyıllar boyunca yetiştirildi. Kabile insanlarının bazen ona &quot;şifacının eli&quot; de dediği olmuştur - ki bu takma adı beş büyük tıbbi erdemine borçludur.</PlantHealroot.description>
     
-    <PlantHops.label>hop plant</PlantHops.label>
-    <PlantHops.description>A flowering plant that yields hops, an essential ingredient in beer.</PlantHops.description>
+    <PlantHops.label>şerbetçiotu bitkisi</PlantHops.label>
+    <PlantHops.description>Şerbetçiotu adı verilen bu çiçekli bitki biranın önemli bir hammaddesidir.</PlantHops.description>
     
 </LanguageData>
