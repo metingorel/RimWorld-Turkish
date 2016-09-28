@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<RectTrigger.label>RectTrigger</RectTrigger.label>
-	<RectTrigger.description>a RectTrigger</RectTrigger.description>
+	<RectTrigger.label>Reaksiyontetikleyici</RectTrigger.label>
+	<RectTrigger.description>Bir reaksiyontetikleyici.</RectTrigger.description>
 	
 	<Puddle_Fuel.label>Yakıt Birikintisi</Puddle_Fuel.label>
 	<Puddle_Fuel.description>Yeri ateşe verir.</Puddle_Fuel.description>
