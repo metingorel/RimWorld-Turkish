@@ -3,7 +3,7 @@
   
   <!-- ============================ Cold weather animals ========================== -->
 	<Warg.label>Kurt</Warg.label>
-	<Warg.description>Yoğun kasları olan hayvan türü fazlasıyla vahşi ve saldırgandırlar. Bilim adamları bunlara 'asker yavruları' olduğunu söylüyorlar.</Warg.description>
+	<Warg.description>Güçlü kasları olan bir hayvan türü, fazlasıyla vahşi ve saldırgandırlar. Bilim adamları bunların 'asker yavruları' olduğunu söylüyorlar.</Warg.description>
 	<Warg_Leather.label>Kurt Derisi</Warg_Leather.label>
 	<Warg_Leather.description>Kurt derisi.</Warg_Leather.description>
 	<Warg_Meat.label>Kurt Eti</Warg_Meat.label>
@@ -14,7 +14,7 @@
 	<!-- ============================ Animals ========================== -->
   
 	<Muffalo.label>Muffalo</Muffalo.label>
-	<Muffalo.description>Büyük otobur manda soyundan gelen hayvanlardır ve bazı egzotik ortam için uyarlanmışlardır. Rahatsız edilmediği sürece tarafsızlardır.</Muffalo.description>
+	<Muffalo.description>Büyük, otobur, manda soyundan gelen hayvanlardır, bazı egzotik ortamlara uyum sağlamışlardır. Rahatsız edilmediği sürece saldırmazlar.</Muffalo.description>
 	<Muffalo_Leather.label>Muffalo Derisi</Muffalo_Leather.label>
 	<Muffalo_Leather.description>Muffakı derisi</Muffalo_Leather.description>
 	<Muffalo_Meat.label>Muffalo Eti</Muffalo_Meat.label>
@@ -23,7 +23,7 @@
 	<Muffalo_Corpse.description>Muffalo ceseti.</Muffalo_Corpse.description>
 	
 	<Deer.label>Alageyik</Deer.label>
-	<Deer.description>Orta boyda otobur hayvan. Rahatsız edilmediği sürece huzurludurlar.</Deer.description>
+	<Deer.description>Orta boyda otobur hayvanlardır. Rahatsız edilmedikleri sürece kaçmazlar.</Deer.description>
 	<Deer_Leather.label>Alageyik Derisi</Deer_Leather.label>
 	<Deer_Leather.description>Geyik Derisi</Deer_Leather.description>
 	<Deer_Meat.label>Alageyik Eti</Deer_Meat.label>
@@ -32,7 +32,7 @@
 	<Deer_Corpse.description>Alageyik ceseti.</Deer_Corpse.description>
 	
 	<Squirrel.label>Sincap</Squirrel.label>
-	<Squirrel.description>İnsanları takip eden dayanıklı kemirgenlerdir.</Squirrel.description>
+	<Squirrel.description>İnsanların peşinden giden dayanıklı kemirgenlerdir.</Squirrel.description>
 	<Squirrel_Leather.label>Sincap Derisi</Squirrel_Leather.label>
 	<Squirrel_Leather.description>Sincap Derisi.</Squirrel_Leather.description>
 	<Squirrel_Meat.label>Sincap Eti</Squirrel_Meat.label>
@@ -50,7 +50,7 @@
 	<Elk_Corpse.description>K.geyiği Ceseti.</Elk_Corpse.description>
 	
 	<Alphabeaver.label>Kunduz</Alphabeaver.label>
-	<Alphabeaver.description>Büyük bir kunduz, kereste makinesi gibi ağaçları kemirir. Acıktıklarında ne yazık ki tüm ağaçları yiyeceklerdir. </Alphabeaver.description>
+	<Alphabeaver.description>Yetişkin bir kunduz, kereste makinesi gibidir; ağaçları kemirir. Acıktıklarında ne yazık ki tüm ağaçları yiyeceklerdir. </Alphabeaver.description>
 	<Alphabeaver_Leather.label>Kunduz Derisi</Alphabeaver_Leather.label>
 	<Alphabeaver_Leather.description>Kunduz Derisi.</Alphabeaver_Leather.description>
 	<Alphabeaver_Meat.label>Kunduz Eti</Alphabeaver_Meat.label>
@@ -77,7 +77,7 @@
 	<Rhinoceros_Corpse.description>Gergedan Ceseti.</Rhinoceros_Corpse.description>
 	
 	<Dromedary.label>Deve</Dromedary.label>
-	<Dromedary.description>Kurak yerlerde yaşamaya adapte olmuştur, kuzenleri olan atlar gibi değildir, haftalarca susuz yaşayabilir.</Dromedary.description>
+	<Dromedary.description>Kurak yerlerde yaşamaya adapte olmuştur, kuzenleri olan atlar gibi değildir, haftalarca susuzluğa dayanabilir.</Dromedary.description>
 	<Dromedary_Leather.label>Deve Derisi</Dromedary_Leather.label>
 	<Dromedary_Leather.description>Deve Derisi.</Dromedary_Leather.description>
 	<Dromedary_Meat.label>Deve Eti</Dromedary_Meat.label>
@@ -95,7 +95,7 @@
 	<Boomrat_Corpse.description>Patlayan sıçan ceseti.</Boomrat_Corpse.description>
 	
 	<Hare.label>Tavşan</Hare.label>
-	<Hare.description>Bu küçük, yalnız otobur hayvan tehlikelerden hızlı bir şekilde zıplayarak kaçabilir.</Hare.description>
+	<Hare.description>Bu küçük, yalnız yaşayan otobur hayvan; zıplayarak tehlikelerden hızlı bir şekilde kaçabilir.</Hare.description>
 	<Hare_Leather.label>Tavşan Derisi</Hare_Leather.label>
 	<Hare_Leather.description>Tavşan Derisi.</Hare_Leather.description>
 	<Hare_Meat.label>Tavşan Eti</Hare_Meat.label>
@@ -113,7 +113,7 @@
 	<Iguana_Corpse.description>İguana Derisi.</Iguana_Corpse.description>
 	
 	<Megascarab.label>Mega Bok Böceği</Megascarab.label>
-	<Megascarab.description>Büyük, genetiğiyle oynanmış bir böcek. Mekanoidlerle savaşması için genetiğiyle oynanmış böceksi varlık, genellikle tek dolaşır.Kabuğu kalındır ve hasara karşı vücudunu korur.</Megascarab.description>
+	<Megascarab.description>Büyük, genetiğiyle oynanmış bir böcek. Mekanoidlerle savaşması için genetiğiyle oynanmış bu böceksi varlık, genellikle tek başına dolaşır. Kabuğu kalındır ve hasara karşı vücudunu korur.</Megascarab.description>
 	<!--<Megascarab_Leather.label>Skarabäenpanzer</Megascarab_Leather.label>
 	<Megascarab_Leather.description>Der Chitinpanzer eines Skarabäus.</Megascarab_Leather.description>-->
 	<Megascarab_Meat.label>Bok Böceği Eti</Megascarab_Meat.label>
@@ -122,7 +122,7 @@
 	<Megascarab_Corpse.description>Bok Böceği Ceseti.</Megascarab_Corpse.description>
 	
 	<Tortoise.label>Kaplumbağa</Tortoise.label>
-	<Tortoise.description>Bu kabuklu küçük sürüngen çok yavaş ve haince ısıran bir hayvan olarak bilinir.</Tortoise.description>
+	<Tortoise.description>Bu kabuklu küçük sürüngen, çok yavaştır ve acımasızca ısıran bir hayvan olarak bilinir.</Tortoise.description>
 	<Tortoise_Leather.label>Kaplumbağa Derisi</Tortoise_Leather.label>
 	<Tortoise_Leather.description>Kaplumbağa Derisi.</Tortoise_Leather.description>
 	<Tortoise_Meat.label>Kaplumbağa Eti</Tortoise_Meat.label>
@@ -140,7 +140,7 @@
 	<Cobra_Corpse.description>Kobra Ceseti.</Cobra_Corpse.description>
 	
 	<Monkey.label>Maymun</Monkey.label>
-	<Monkey.description>Bu maymun kuyruğu ve elleriyle dallara tutunup ormanlarda gezebilir.</Monkey.description>
+	<Monkey.description>Bu hayvan kuyruğu ve elleriyle dallara tutunup ormanlarda gezebilir.</Monkey.description>
 	<Monkey_Leather.label>Maymun derisi</Monkey_Leather.label>
 	<Monkey_Leather.description>Maymun derisi.</Monkey_Leather.description>
 	<Monkey_Meat.label>Maymun Eti</Monkey_Meat.label>
