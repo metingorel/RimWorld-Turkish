@@ -5,19 +5,19 @@
 
 	<Bullet_Pistol.label>Mermi (Tabanca)</Bullet_Pistol.label>
 	<Gun_Pistol.label>Tabanca</Gun_Pistol.label>
-	<Gun_Pistol.description>Eski tasarımlı bir tabanca. Zayıf ve kısa menzilli, ama hızlı.</Gun_Pistol.description>
+	<Gun_Pistol.description>Eski tasarımlı bir tabanca. Etkisi zayıf, kısa menzilli, ama hızlı.</Gun_Pistol.description>
 	
 	<!-- ============================================== -->
  
 	<Bullet_PumpShotgun.label>Saçma</Bullet_PumpShotgun.label>
 	<Gun_PumpShotgun.label>Av Tüfeği</Gun_PumpShotgun.label>
-	<Gun_PumpShotgun.description>Eski tasarımlı bir pompalı. Ölümcül ama ama kısa menzilli.</Gun_PumpShotgun.description>
+	<Gun_PumpShotgun.description>Eski tasarımlı bir pompalı tüfek. Ölümcül ama kısa menzilli.</Gun_PumpShotgun.description>
 
 	<!-- ============================================== -->
 	
 	<Bullet_SurvivalRifle.label>Mermi (Tüfek)</Bullet_SurvivalRifle.label>
 	<Gun_SurvivalRifle.label>Tüfek</Gun_SurvivalRifle.label>
-	<Gun_SurvivalRifle.description>Eski tasarımlı bir tüfek. Her yerde bulunabilir. İyi menzili ve gücü var ama atış hızı düşük.</Gun_SurvivalRifle.description>
+	<Gun_SurvivalRifle.description>Eski tasarımlı bir tüfek. Her yerde bulunabilir. Menzili iyi, gücü var ama atış hızı düşük.</Gun_SurvivalRifle.description>
 	
 	<!-- ============================================== -->
 	
@@ -41,7 +41,7 @@
 	
 	<Bullet_HeavySMG.label>Mermi (SMP)</Bullet_HeavySMG.label>
 	<Gun_HeavySMG.label>Ağır makinalı SMP</Gun_HeavySMG.label>
-	<Gun_HeavySMG.description>Büyük kalibreli makineli tüfek. Uzaktaki hedefleri vurma olasılığı iyidir ama iyi odaklanma gerekir.</Gun_HeavySMG.description>
+	<Gun_HeavySMG.description>Büyük kalibreli makineli tüfek. Uzaktaki hedefleri vurma olasılığı iyidir ama iyi odaklama gerekir.</Gun_HeavySMG.description>
 	
 	<!-- ==================== Incendiary launcher ========================== -->
 
@@ -58,7 +58,7 @@
 	<!-- ===================== Charge Rifle ========================= -->
 	
 	<Bullet_ChargeRifle.label>Enerji mermisi</Bullet_ChargeRifle.label>
-	<Gun_ChargeRifle.label>Enerjili tüfek</Gun_ChargeRifle.label>
+	<Gun_ChargeRifle.label>Enerji tüfeği</Gun_ChargeRifle.label>
 	<Gun_ChargeRifle.description>enerji mermili tüfek.</Gun_ChargeRifle.description>
 
 	<!-- ================ Improvised turret gun ============== -->
@@ -85,7 +85,7 @@
 	
 	<!-- ================= Mechanoid weapons ================= -->
 	
-	<Bullet_ChargeBlasterHeavy.label>charge blaster shot</Bullet_ChargeBlasterHeavy.label>
+	<Bullet_ChargeBlasterHeavy.label>çoklu atış tetikleyici</Bullet_ChargeBlasterHeavy.label>
 	<Gun_ChargeBlasterHeavy.label>heavy charge blaster</Gun_ChargeBlasterHeavy.label>
 	<Gun_ChargeBlasterHeavy.description>Alan atışlı yangın başlatmaya neden olan güçlü bir silah. Mekanoid yapımı.</Gun_ChargeBlasterHeavy.description>
 	
@@ -95,9 +95,9 @@
 	<Gun_InfernoCannon.description>Düştüğü yeri yakan gülle atan küçük top. Mekanoid yapımı.</Gun_InfernoCannon.description>
 	
 	
-	<Bullet_ChargeLance.label>charge lance shot</Bullet_ChargeLance.label>
+	<Bullet_ChargeLance.label>çoklu atış mızrağı</Bullet_ChargeLance.label>
 	<Gun_ChargeLance.label>Enerji püskürtmesi</Gun_ChargeLance.label>
-	<Gun_ChargeLance.description>Enerjili silah. Ateş aldığı zaman etrafa yüksek ses yayar.</Gun_ChargeLance.description>
+	<Gun_ChargeLance.description>Enerji silahı. Ateşlendiği zaman etrafa yüksek oranda ses yayar.</Gun_ChargeLance.description>
 	
 	
 	
