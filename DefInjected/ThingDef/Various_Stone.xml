@@ -30,7 +30,7 @@
 	
   
 	<Limestone.label>Kalker</Limestone.label>
-	<Limestone.description>Antik deniz kabuklarının sıkıştırılmış kalıntılarından oluşan bir tortul kayaç.</Limestone.description>
+	<Limestone.description>Antik deniz kabuğu kalıntılaırnın sıkışmasıyla oluşan bir tortul kayaç.</Limestone.description>
 	
 	<ChunkLimestone.label>Kalker Yığını</ChunkLimestone.label>
 	
@@ -55,7 +55,7 @@
 	<ChunkMarble.label>Mermer Yığını</ChunkMarble.label>
 	
 	<BlocksMarble.label>Mermer</BlocksMarble.label>
-	<BlocksMarble.description>Katı mermer blok. Mermer heykel kullanımda yumuşak olduğu için kullanılır, güzel bir taştır.</BlocksMarble.description>
+	<BlocksMarble.description>Katı mermer blok. Mermer yumuşak olduğu için heykel yapımında kullanılır, güzel bir taştır.</BlocksMarble.description>
 	<BlocksMarble.stuffProps.stuffAdjective>Mermer</BlocksMarble.stuffProps.stuffAdjective>
 	
 	
