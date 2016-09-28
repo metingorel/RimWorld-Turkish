@@ -8,7 +8,7 @@
   </rep>
   <rep>
     <path>LowExpectations.stages[0].description</path>
-    <trans>Burası oldukça acıklı. Buradan çokda fazla konfor bekleyemezsiniz.</trans>
+    <trans>Burası oldukça acıklı. Buradan çok da fazla konfor bekleyemezsiniz.</trans>
   </rep>
   <rep>
     <path>LowExpectations.stages[1].label</path>
@@ -16,7 +16,7 @@
   </rep>
   <rep>
     <path>LowExpectations.stages[1].description</path>
-    <trans>Burası sadece kötü. Hayatta kalmak için önce iyi hazırlamak gerek.</trans>
+    <trans>Burası sadece kötü. Hayatta kalmak için önce iyi hazırlanmak gerek.</trans>
   </rep>
   <rep>
     <path>LowExpectations.stages[2].label</path>
@@ -24,7 +24,7 @@
   </rep>
   <rep>
     <path>LowExpectations.stages[2].description</path>
-    <trans>Burası çok kötü. Burada konfor beklemek ve güçlü kalmak çok zor.</trans>
+    <trans>Burası çok kötü. Buradan konfor beklemek ve burada güçlü kalmak çok zor.</trans>
   </rep>
   <rep>
     <path>LowExpectations.stages[3].label</path>
@@ -32,7 +32,7 @@
   </rep>
   <rep>
     <path>LowExpectations.stages[3].description</path>
-    <trans>Burası sadece hayatta kalmak için. Sadece kendimi hayatta kalmak için hazırlamalıyım. </trans>
+    <trans>Burası sadece hayatta kalmak için. Yalnızca kendimi hayatta kalmak için hazırlamalıyım. </trans>
   </rep>
   
   
@@ -42,7 +42,7 @@
   </rep>
   <rep>
     <path>EnvironmentDark.stages[0].description</path>
-    <trans>Karanlıkta kalmayı sevmiyorum</trans>
+    <trans>Karanlıkta kalmayı sevmiyorum.</trans>
   </rep>
   
   
@@ -52,7 +52,7 @@
   </rep>
   <rep>
     <path>CabinFever.stages[0].description</path>
-    <trans>Ben günlerdir içinde tıkılı kaldım. Dışarıda durmam gerekiyor.</trans>
+    <trans>Günlerdir içeridede tıkılı kaldım. Dışarıya çıkmam gerekiyor.</trans>
   </rep>
   <rep>
     <path>CabinFever.stages[1].label</path>
@@ -60,7 +60,7 @@
   </rep>
   <rep>
     <path>CabinFever.stages[1].description</path>
-    <trans>Burada çok uzun süre kaldım kendimi bir sıçan gibi hissediyorum. Ben dışarı çıkmak istiyorum!</trans>
+    <trans>Burada çok uzun süre kaldım, kendimi bir sıçan gibi hissediyorum. Dışarıya çıkmak istiyorum!</trans>
   </rep>
 
   
@@ -70,7 +70,7 @@
   </rep>
   <rep>
     <path>ApparelDamaged.stages[0].description</path>
-    <trans>Giysilerim oldukça yıpranmış. Bunları giymek hoşuma gitmiyor.</trans>
+    <trans>Giysilerim oldukça yıpranık. Bunları giymek hoşuma gitmiyor.</trans>
   </rep>
   <rep>
     <path>ApparelDamaged.stages[1].label</path>
@@ -97,7 +97,7 @@
   </rep>
   <rep>
     <path>EnvironmentCold.stages[0].description</path>
-    <trans>Soğuk rahatsız ediyor.</trans>
+    <trans>Soğuk beni rahatsız ediyor.</trans>
   </rep>
   <rep>
     <path>EnvironmentCold.stages[1].label</path>
@@ -105,7 +105,7 @@
   </rep>
   <rep>
     <path>EnvironmentCold.stages[1].description</path>
-    <trans>Ben çok üşüyorum. * Brrr * Sadece ısınmak istiyorum.</trans>
+    <trans>Çok üşüyorum. * Bırrr * Sadece ısınmak istiyorum.</trans>
   </rep>
   <rep>
     <path>EnvironmentCold.stages[2].label</path>
@@ -113,7 +113,7 @@
   </rep>
   <rep>
     <path>EnvironmentCold.stages[2].description</path>
-    <trans>Çenem titriyor ve zar zor konuşabiliyorum. Ayak parmaklarım uyuştu. Gerçekten ısınmam gerekiyor.</trans>
+    <trans>Çenem titriyor, zar zor konuşabiliyorum. Ayak parmaklarım uyuştu. Gerçekten ısınmam gerekiyor.</trans>
   </rep>
   
   
@@ -147,7 +147,7 @@
   </rep>
   <rep>
     <path>EnvironmentHot.stages[3].description</path>
-    <trans>Hava çok ama çok sıcak. Bu sıcaklıktan ölebilirim.</trans>
+    <trans>Hava aşırı sıcak. Bu sıcaklıktan ölebilirim.</trans>
   </rep>
 
 	
