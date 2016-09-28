@@ -32,7 +32,7 @@
   </rep>
   <rep>
     <path>MasochistPain.stages[3].description</path>
-    <trans>Ahhh... Cennette miyim?</trans>
+    <trans>Ahhh... Cennette miyim neyim?</trans>
   </rep>
   
   
@@ -42,7 +42,7 @@
   </rep>
   <rep>
     <path>ProsthophileNoProsthetic.stages[0].description</path>
-    <trans>Sadece et parçalarıyla sınırlıyım. Keşke bazı yapay vücud parçalarım olsaydı.</trans>
+    <trans>Sadece et parçalarıyla sınırlıyım. Keşke bazı vücudumun bazı parçaları yapay olsaydı.</trans>
   </rep>
   
   
@@ -58,11 +58,11 @@
   
   <rep>
     <path>ProsthophobeUnhappy.stages[0].label</path>
-    <trans>Biyonik bir vücut parşasına sahip</trans>
+    <trans>Biyonik bir vücut parçasına sahip</trans>
   </rep>
   <rep>
     <path>ProsthophobeUnhappy.stages[0].description</path>
-    <trans>Beni iğrenç teknolojik bir şeye çevirdiler... Bana tek bir şans bile verselerdi...</trans>
+    <trans>Beni, iğrenç teknolojik bir şeye çevirdiler... Bana tek bir şans bile verselerdi...</trans>
   </rep>
   
   
@@ -72,7 +72,7 @@
   </rep>
   <rep>
     <path>BrawlerUnhappy.stages[0].description</path>
-    <trans>Uzaktan ateş etmeyi hiç sevmiyorum. Ben birine yakından vurmak istiyorum!</trans>
+    <trans>Uzaktan ateş etmeyi hiç sevmiyorum. Birine yakından vurmak istiyorum!</trans>
   </rep>
   
   
@@ -82,17 +82,17 @@
   </rep>
   <rep>
     <path>ClothedNudist.stages[0].description</path>
-    <trans>Çıplak değilim ama giysi giymekte gerekiyor aslında bu pekte dayanılmaz bir şey değil. Ama çıplak daha rahat.</trans>
+    <trans>Çıplak değilim, evet, giysi giymek de gerekiyor aslında. Bu pek de dayanılmaz bir şey değil. Ama çıplakken daha rahat.</trans>
   </rep>
   
   
   <rep>
     <path>HappyNude.stages[0].label</path>
-    <trans>Çıplaklıktan mutlu</trans>
+    <trans>Çıplak olmaktan mutlu</trans>
   </rep>
   <rep>
     <path>HappyNude.stages[0].description</path>
-    <trans>Çıplağım ve bunu seviyorum! Özgür, serbest ve çevre ile temas halinde hissediyorum!</trans>
+    <trans>Çıplağım ve bunu seviyorum! Kendimi özgür, serbest ve çevre ile uyum içerisinde hissediyorum!</trans>
   </rep>
   
   
