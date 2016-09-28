@@ -7,25 +7,25 @@
   </rep>
   <rep>
     <path>MoodOffsetSanguine.stages[0].description</path>
-    <trans>Kanlı Canlı özelliğinden bonus alır.</trans>
+    <trans>Kanlı canlı özelliğinden bonus alır.</trans>
   </rep>
 
   <rep>
     <path>MoodOffsetOptimist.stages[0].label</path>
-    <trans>Optimist</trans>
+    <trans>İyimser</trans>
   </rep>
   <rep>
     <path>MoodOffsetOptimist.stages[0].description</path>
-    <trans>Optimist özelliğinden bonus alır.</trans>
+    <trans>İyimser özelliğinden bonus alır.</trans>
   </rep>
 
   <rep>
     <path>MoodOffsetPessimist.stages[0].label</path>
-    <trans>Pesimist</trans>
+    <trans>Kötümser</trans>
   </rep>
   <rep>
     <path>MoodOffsetPessimist.stages[0].description</path>
-    <trans>Pesimist özelliğinden bonus alır.</trans>
+    <trans>Kötümser özelliğinden bonus alır.</trans>
   </rep>
 
   <rep>
