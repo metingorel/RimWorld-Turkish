@@ -85,8 +85,8 @@
 	
 	<!-- ================= Mechanoid weapons ================= -->
 	
-	<Bullet_ChargeBlasterHeavy.label>çoklu atış tetikleyici</Bullet_ChargeBlasterHeavy.label>
-	<Gun_ChargeBlasterHeavy.label>heavy charge blaster</Gun_ChargeBlasterHeavy.label>
+	<Bullet_ChargeBlasterHeavy.label>alan etkili atış tetikleyici</Bullet_ChargeBlasterHeavy.label>
+	<Gun_ChargeBlasterHeavy.label>ağır atış tetikleyicisi</Gun_ChargeBlasterHeavy.label>
 	<Gun_ChargeBlasterHeavy.description>Alan atışlı yangın başlatmaya neden olan güçlü bir silah. Mekanoid yapımı.</Gun_ChargeBlasterHeavy.description>
 	
 	
@@ -95,7 +95,7 @@
 	<Gun_InfernoCannon.description>Düştüğü yeri yakan gülle atan küçük top. Mekanoid yapımı.</Gun_InfernoCannon.description>
 	
 	
-	<Bullet_ChargeLance.label>çoklu atış mızrağı</Bullet_ChargeLance.label>
+	<Bullet_ChargeLance.label>alan etkili atış mızrağı</Bullet_ChargeLance.label>
 	<Gun_ChargeLance.label>Enerji püskürtmesi</Gun_ChargeLance.label>
 	<Gun_ChargeLance.description>Enerji silahı. Ateşlendiği zaman etrafa yüksek oranda ses yayar.</Gun_ChargeLance.description>
 	
