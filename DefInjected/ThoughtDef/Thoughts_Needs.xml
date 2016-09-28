@@ -7,7 +7,7 @@
   </rep>
   <rep>
     <path>Hungry.stages[0].description</path>
-    <trans>Bir süredir yemek yemedim.</trans>
+    <trans>Epeydir yemek yemedim.</trans>
   </rep>
   <rep>
     <path>Hungry.stages[1].label</path>
@@ -15,7 +15,7 @@
   </rep>
   <rep>
     <path>Hungry.stages[1].description</path>
-    <trans>Açlık bedenime eziyet çektirtiyor. Yemek yemek gerekiyor yakında açlıktan öleceğim.</trans>
+    <trans>Açlık bedenime eziyet çektirtiyor. Yemek yemem gerekiyor, yakında açlıktan öleceğim.</trans>
   </rep>
   <rep>
     <path>Hungry.stages[2].label</path>
@@ -33,7 +33,7 @@
   </rep>
   <rep>
     <path>Tired.stages[0].description</path>
-    <trans>Bir süredir uyumuyorum.</trans>
+    <trans>Epeydir uyumuyorum.</trans>
   </rep>
   <rep>
     <path>Tired.stages[1].label</path>
@@ -41,7 +41,7 @@
   </rep>
   <rep>
     <path>Tired.stages[1].description</path>
-    <trans>Çok yorgunum. Ben sadece birkaç dakika için mola vermek istiyorum...</trans>
+    <trans>Çok yorgunum. Sadece birkaç dakikalığına mola vermek istiyorum...</trans>
   </rep>
   <rep>
     <path>Tired.stages[2].label</path>
@@ -49,17 +49,17 @@
   </rep>
   <rep>
     <path>Tired.stages[2].description</path>
-    <trans>Zar zor ayakta duruyorum çok fazla yoruldum. Benim göz kapaklarım kapanıyor zor duruyorum. Hadi uyuyayım...</trans>
+    <trans>Zar zor ayakta duruyorum, çok fazla yoruldum. Göz kapaklarım kapanıyor, ayakta zor duruyorum. Artık uyuyayım...</trans>
   </rep>
 	
 	
   <rep>
     <path>JoyLevel.stages[0].label</path>
-    <trans>Eğlence tutkusu</trans>
+    <trans>Eğlence isteği</trans>
   </rep>
   <rep>
     <path>JoyLevel.stages[0].description</path>
-    <trans>Eğlenmeyeli uzun zaman oldu.</trans>
+    <trans>Eğlenmeyeli epey zaman oldu.</trans>
   </rep>
   <rep>
     <path>JoyLevel.stages[1].label</path>
@@ -83,7 +83,7 @@
   </rep>
   <rep>
     <path>JoyLevel.stages[3].description</path>
-    <trans>Çok Keyif aldım. Mükemmeldi!</trans>
+    <trans>Çok keyif aldım. Mükemmeldi!</trans>
   </rep>  
   <rep>
     <path>JoyLevel.stages[4].label</path>
@@ -91,7 +91,7 @@
   </rep>
   <rep>
     <path>JoyLevel.stages[4].description</path>
-    <trans>Çok Keyif aldım. Mükemmeldi!</trans>
+    <trans>Çok keyif aldım. Mükemmeldi!</trans>
   </rep>  
 	
 	
@@ -101,7 +101,7 @@
   </rep>
   <rep>
     <path>ComfortLevel.stages[0].description</path>
-    <trans>Benim için burada oldukça rahatsızlık verici.Oturmak için yumuşak şeyler gerekiyor.</trans>
+    <trans>Benim için burası oldukça rahatsızlık verici. Oturmak için yumuşak bir şeyler gerekiyor.</trans>
   </rep>
   <rep>
     <path>ComfortLevel.stages[1].label</path>
@@ -117,7 +117,7 @@
   </rep>
   <rep>
     <path>ComfortLevel.stages[2].description</path>
-    <trans>Burası gayet iyi. Burası özenli kullanılmalı.</trans>
+    <trans>Burası gayet iyi. Özenli kullanılmalı.</trans>
   </rep>
   <rep>
     <path>ComfortLevel.stages[3].label</path>
@@ -143,7 +143,7 @@
   </rep>
   <rep>
     <path>EnvironmentUgly.stages[0].description</path>
-    <trans>Bu yerin pis olmasıdan rahatsızım.</trans>
+    <trans>Bu yerin pis olmasından rahatsızım.</trans>
   </rep>
   <rep>
     <path>EnvironmentUgly.stages[1].label</path>
@@ -151,7 +151,7 @@
   </rep>
   <rep>
     <path>EnvironmentUgly.stages[1].description</path>
-    <trans>Etraf çok pis. Durada olmak istemiyorum.</trans>
+    <trans>Etraf çok pis. Burada olmak istemiyorum.</trans>
   </rep>
   <rep>
     <path>EnvironmentUgly.stages[2].label</path>
@@ -159,7 +159,7 @@
   </rep>
   <rep>
     <path>EnvironmentUgly.stages[2].description</path>
-    <trans>Burası dayanılmaz halde. Ben buradan çıkmak istiyorum...</trans>
+    <trans>Burası dayanılmaz derecede iğrenç. Buradan çıkmak istiyorum...</trans>
   </rep>
 	
 	
@@ -177,7 +177,7 @@
   </rep>
   <rep>
     <path>EnvironmentPretty.stages[1].description</path>
-    <trans>Ben bu yeri çok seviyorum. Çok güzel.</trans>
+    <trans>Bu yeri çok seviyorum. Çok güzel.</trans>
   </rep>
   <rep>
     <path>EnvironmentPretty.stages[2].label</path>
@@ -195,7 +195,7 @@
   </rep>
   <rep>
     <path>EnvironmentCramped.stages[0].description</path>
-    <trans>Burası gerçekten dar. Nefes alamıyor gibi hissediyorum.</trans>
+    <trans>Burası gerçekten dar. Kendimi nefes alamıyor gibi hissediyorum.</trans>
   </rep>
   <rep>
     <path>EnvironmentCramped.stages[1].label</path>
@@ -203,7 +203,7 @@
   </rep>
   <rep>
     <path>EnvironmentCramped.stages[1].description</path>
-    <trans>Burada klostrofobik olacağım. Hareket edemiyorum ve kafes içinde bir fare gibi hissediyorum.</trans>
+    <trans>Burada klostrofobik olacağım. Hareket edemiyorum ve kendimi kafes içindeki bir fare gibi hissediyorum.</trans>
   </rep>
   
   
@@ -213,7 +213,7 @@
   </rep>
   <rep>
     <path>EnvironmentSpaciousInterior.stages[0].description</path>
-    <trans>Buranın güzel bir boyutu var, geniş.</trans>
+    <trans>Burasının güzel bir genişliği var, ferah.</trans>
   </rep>
 	
 	
