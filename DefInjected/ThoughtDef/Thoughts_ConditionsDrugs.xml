@@ -3,7 +3,7 @@
 
   <rep>
     <path>Inebriated.stages[0].label</path>
-	<trans>hafif içkili (gizli)</trans>
+	<trans>hafif içkili (belli olmuyor)</trans>
   </rep>
   <rep>
     <path>Inebriated.stages[0].description</path>
@@ -15,7 +15,7 @@
   </rep>
   <rep>
     <path>Inebriated.stages[1].description</path>
-    <trans>Içki sonrası biraz hafif yürekli hissediyorum. Bu iyi.</trans>
+    <trans>içki sonrası biraz yüreğimi hafiflemiş hissediyorum. Bu iyi.</trans>
   </rep>
   <rep>
     <path>Inebriated.stages[2].label</path>
@@ -23,7 +23,7 @@
   </rep>
   <rep>
     <path>Inebriated.stages[2].description</path>
-    <trans>Ben biraz titriyorum değil mi. Vayy, bu gerçekten komik!</trans>
+    <trans>Ben biraz titriyorum, değil mi. Vayy, bu gerçekten komik!</trans>
   </rep>
   <rep>
     <path>Inebriated.stages[3].label</path>
@@ -31,7 +31,7 @@
   </rep>
   <rep>
     <path>Inebriated.stages[3].description</path>
-    <trans>Kendimi hiç bu kadar özgür ve hafif hissetmemiştim! Çok eğlenceii!</trans>
+    <trans>Kendimi hiç bu kadar özgür ve hafif hissetmemiştim! Çok eğlenceli!</trans>
   </rep>
   <rep>
     <path>Inebriated.stages[4].label</path>
@@ -39,13 +39,13 @@
   </rep>
   <rep>
     <path>Inebriated.stages[4].description</path>
-    <trans>Kendimi kötü hissediyorum ve her şey dönüyor. Kulaklarım duymuyor ve ben istediğim gibi hareket edemez oldum.</trans>
+    <trans>Kendimi kötü hissediyorum, etrafımdaki her şey dönüyor. Kulaklarım duymuyor ve ben istediğim gibi hareket edemez oldum.</trans>
   </rep>
 
   
   <rep>
     <path>Hungover.stages[0].label</path>
-    <trans>Hangover (hafif)</trans>
+    <trans>Akşamdan kalma (hafif)</trans>
   </rep>
   <rep>
     <path>Hungover.stages[0].description</path>
@@ -53,23 +53,23 @@
   </rep>
   <rep>
     <path>Hungover.stages[1].label</path>
-    <trans>Hangover (normal)</trans>
+    <trans>Akşamdan kalma (normal)</trans>
   </rep>
   <rep>
     <path>Hungover.stages[1].description</path>
-    <trans>Kafamda ki alkol etkisi acı veriyor</trans>
+    <trans>Kafamdaki alkol etkisi acı veriyor.</trans>
   </rep>
   <rep>
     <path>Hungover.stages[2].label</path>
-    <trans>Hangover (şiddetli)</trans>
+    <trans>HAkşamdan kalma (şiddetli)</trans>
   </rep>
   <rep>
     <path>Hungover.stages[2].description</path>
-    <trans>Bir sürü kaz sesleri kafamda gevezelik ediyor.</trans>
+    <trans>Bir sürü kaz sesleri, kafamda gevezelik ediyorlar.</trans>
   </rep>
   <rep>
     <path>Hungover.stages[3].label</path>
-    <trans>Hangover (gizli)</trans>
+    <trans>Akşamdan kalma (belli olmuyor)</trans>
   </rep>
   <rep>
     <path>Hungover.stages[3].description</path>
