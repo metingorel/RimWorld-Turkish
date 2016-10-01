@@ -29,40 +29,40 @@
   <Prosthophile.degreeDatas.0.description>NAME feels limited in HIS feeble human body. HECAP often dreams of going bionic.</Prosthophile.degreeDatas.0.description>
 	
   <Prosthophobe.degreeDatas.0.label>biyonik vücut düşmanı</Prosthophobe.degreeDatas.0.label>
-  <Prosthophobe.degreeDatas.0.description>NAME believes the human body is limited for a reason. To HIM, bionic body parts are unethical.</Prosthophobe.degreeDatas.0.description>
+  <Prosthophobe.degreeDatas.0.description>NAME, insan vücudunun bir nedenden dolayı sınırlandırıldığına inanmaktadır. HIM 'e göre biyonik vücud parçaları etik değildir.</Prosthophobe.degreeDatas.0.description>
  	
   <GreenThumb.degreeDatas.0.label>yeşil dostu</GreenThumb.degreeDatas.0.label>
-  <GreenThumb.degreeDatas.0.description>NAME has a passion for gardening. HECAP gets a mood bonus for every plant HE sows.</GreenThumb.degreeDatas.0.description>
+  <GreenThumb.degreeDatas.0.description>NAME 'in yeşile karşı bir tutkusu vardır. He' nin ektiği her bitki, HECAP' in ruh halini olumlu yönde etkiler.</GreenThumb.degreeDatas.0.description>
   	
   <NightOwl.degreeDatas.0.label>gecekuşu</NightOwl.degreeDatas.0.label>
-  <NightOwl.degreeDatas.0.description>NAME likes to work at night. HECAP gets a mood bonus if awake at night and mood loss if awake during the day.</NightOwl.degreeDatas.0.description>
+  <NightOwl.degreeDatas.0.description>NAME geceleri çalışmayı sever. HECAP gece boyunca çalışması durumunda olumlu etkilenirken, güzndüz çalışırsa duygu durum bozuklukları yaşayabilir.</NightOwl.degreeDatas.0.description>
   	
   <Greedy.degreeDatas.0.label>açgözlü</Greedy.degreeDatas.0.label>
-  <Greedy.degreeDatas.0.description>NAME needs a really impressive bedroom. HECAP gets a mood loss if HE doesn't get what HE wants.</Greedy.degreeDatas.0.description>
+  <Greedy.degreeDatas.0.description>NAME 'in gerçekten etkileyici bir yatak odasına ihtiyacı vardır. HE istediklerini elde edemezse, HECAP ' ın ruh hali olumsuz yönde etkilenir.</Greedy.degreeDatas.0.description>
   	
   <Jealous.degreeDatas.0.label>kıskanç</Jealous.degreeDatas.0.label>
-  <Jealous.degreeDatas.0.description>For NAME, it's degrading to have a less impressive bedroom than someone else. HECAP gets a mood loss if any colonist has a more impressive bedroom.</Jealous.degreeDatas.0.description>
+  <Jealous.degreeDatas.0.description>NAME için, başkalarınkinden daha az etkileyici yatak odasına sahip olmak aşağılayıcıdır.Eğer başka kolonicilerin yatak odaları HECAP' ınkinden daha etkileyici ise ruh hali olumsuz etkilenir.</Jealous.degreeDatas.0.description>
   
   <Ascetic.degreeDatas.0.label>sofu</Ascetic.degreeDatas.0.label>
-  <Ascetic.degreeDatas.0.description>NAME prefers to live in asceticism. HECAP will be put in a poor mood if HE has a bedroom that's too impressive.</Ascetic.degreeDatas.0.description>
+  <Ascetic.degreeDatas.0.description>NAME sofu yaşamayı tercih ediyor. Eğer HE 'nin etkileyici bir yatak odası varsa HECAP psikolojik olarak bundan olumsuz yönde etkilenecektir.</Ascetic.degreeDatas.0.description>
 
   <Gay.degreeDatas.0.label>eşcinsel</Gay.degreeDatas.0.label>
-  <Gay.degreeDatas.0.description>NAME is romantically attracted to people of HIS own gender.</Gay.degreeDatas.0.description>
+  <Gay.degreeDatas.0.description>NAME' e romantik olarak HIS 'in hemcinsleri çekici gelmektedir. </Gay.degreeDatas.0.description>
     
   <DislikesMen.degreeDatas.0.label>erkeksevmez</DislikesMen.degreeDatas.0.label>
-  <DislikesMen.degreeDatas.0.description>NAME really dislikes and distrusts men.</DislikesMen.degreeDatas.0.description>
+  <DislikesMen.degreeDatas.0.description>NAME gerçekten erkekleri sevmez ve onlara güvenmez.</DislikesMen.degreeDatas.0.description>
     
   <DislikesWomen.degreeDatas.0.label>kadınsevmez</DislikesWomen.degreeDatas.0.label>
-  <DislikesWomen.degreeDatas.0.description>NAME really dislikes and distrusts women.</DislikesWomen.degreeDatas.0.description>
+  <DislikesWomen.degreeDatas.0.description>NAME gerçekten kadınları sevmez ve onlara güvenmez.</DislikesWomen.degreeDatas.0.description>
 
   <AnnoyingVoice.degreeDatas.0.label>çirkin sesli</AnnoyingVoice.degreeDatas.0.label>
-  <AnnoyingVoice.degreeDatas.0.description>NAME's voice has a particularly grating, nasal quality to it, and HE tends to talk in barked, garbled phrases. This predisposes others to dislike HIM.</AnnoyingVoice.degreeDatas.0.description>
+  <AnnoyingVoice.degreeDatas.0.description>NAME'in, sesini, sanki parmaklıklarından ardından geliyormuş gibi duymasına neden olan bir burun yapısı vardır ve bu yüzden HE, bozuk ifadelerle bağırarak konuşma eğilimindedir. Bu durum başkalarının HIM 'den nefret etmesine neden olur.</AnnoyingVoice.degreeDatas.0.description>
     
   <CreepyBreathing.degreeDatas.0.label>ürpertici soluklu</CreepyBreathing.degreeDatas.0.label>
-  <CreepyBreathing.degreeDatas.0.description>NAME breathes heavily all the time, and sweats constantly. People find it creepy.</CreepyBreathing.degreeDatas.0.description>
+  <CreepyBreathing.degreeDatas.0.description>NAME her zaman gürültülü nefes alır verir ve sürekli terler. İnsanlar onu ürkütücü bulur.</CreepyBreathing.degreeDatas.0.description>
     
   <Pyromaniac.degreeDatas.0.label>yangın manyağı</Pyromaniac.degreeDatas.0.label>
-  <Pyromaniac.degreeDatas.0.description>NAME loves fire. HECAP will occasionaly start fires and will never extinguish them.</Pyromaniac.degreeDatas.0.description>
+  <Pyromaniac.degreeDatas.0.description>NAME ateşi sever. HECAP bazen yangınlar başlatır ve onları asla söndürmez.</Pyromaniac.degreeDatas.0.description>
 
 </LanguageData>
 [0].label</path>
