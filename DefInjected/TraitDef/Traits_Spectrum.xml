@@ -9,11 +9,11 @@
 	<SpeedOffset.degreeDatas.2.description>NAME devamlı bir koşuşturmaca içindedir - çoğu kez diğerleri ona ayak uydurmakta zorlanır.</SpeedOffset.degreeDatas.2.description>
 
 	<DrugDesire.degreeDatas.0.label>kimya hayranı</DrugDesire.degreeDatas.0.label>
-	<DrugDesire.degreeDatas.0.description>NAME kimyasal maddelerle oynamayı çok sever. HECAP bu maddeleri gereğinden fazla tüketme, isteri zamanlarında bunlara yönelme eğilimi içerisinde olacaktır.</DrugDesire.degreeDatas.0.description>
-	<DrugDesire.degreeDatas.1.label>chemical interest</DrugDesire.degreeDatas.1.label>
-	<DrugDesire.degreeDatas.1.description>NAME has an unusual interest in chemical sources of enjoyment. HECAP will consume more of them, and is more likely to go on binges.</DrugDesire.degreeDatas.1.description>
-	<DrugDesire.degreeDatas.2.label>teetotaler</DrugDesire.degreeDatas.2.label>
-	<DrugDesire.degreeDatas.2.description>NAME abhors the idea of gaining pleasure from chemicals, and avoids alcohol and drugs.</DrugDesire.degreeDatas.2.description>
+	<DrugDesire.degreeDatas.0.description>NAME, kimyasal maddelerle oynamayı çok sever. HECAP bu maddeleri gereğinden fazla tüketme, isteri zamanlarında bunlara yönelme eğilimi içerisinde olacaktır.</DrugDesire.degreeDatas.0.description>
+	<DrugDesire.degreeDatas.1.label>kimya ilgisi</DrugDesire.degreeDatas.1.label>
+	<DrugDesire.degreeDatas.1.description>NAME 'in kimyasal maddelerle eğlenmeye karşı alışılmadık bir ilgisi vardır. HECAP bu maddeleri gereğinden fazla tüketme, isteri zamanlarında bunlara yönelme eğilimi içerisinde olacaktır.</DrugDesire.degreeDatas.1.description>
+	<DrugDesire.degreeDatas.2.label>alkol ve uyuşturucu karşıtı</DrugDesire.degreeDatas.2.label>
+	<DrugDesire.degreeDatas.2.description>NAME kimyasal maddelerden zevk alma düşüncesinden nefret eder, bu düşüncesi alkol ve uyuşturucu tüketmesini önler.</DrugDesire.degreeDatas.2.description>
 
 	<NaturalMood.degreeDatas.0.label>sanguine</NaturalMood.degreeDatas.0.label>
 	<NaturalMood.degreeDatas.0.description>NAME is just naturally upbeat about HIS situation, pretty much all the time, no matter what it is.</NaturalMood.degreeDatas.0.description>
