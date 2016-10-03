@@ -3,14 +3,14 @@
     
 	<SpeedOffset.degreeDatas.0.label>uyuşuk</SpeedOffset.degreeDatas.0.label>
 	<SpeedOffset.degreeDatas.0.description>NAME ne zaman bir yere gidilse daima HE ,grubun en arkasında kalır.</SpeedOffset.degreeDatas.0.description>
-	<SpeedOffset.degreeDatas.1.label>hızlı yürür</SpeedOffset.degreeDatas.1.label>
+	<SpeedOffset.degreeDatas.1.label>ayağı tez</SpeedOffset.degreeDatas.1.label>
 	<SpeedOffset.degreeDatas.1.description>NAME, bir yere gidecekse çok sevinir. HECAP çoğu insandan daha hızlı yürür.</SpeedOffset.degreeDatas.1.description>
 	<SpeedOffset.degreeDatas.2.label>aceleci</SpeedOffset.degreeDatas.2.label>
 	<SpeedOffset.degreeDatas.2.description>NAME devamlı bir koşuşturmaca içindedir - çoğu kez diğerleri ona ayak uydurmakta zorlanır.</SpeedOffset.degreeDatas.2.description>
 
-	<DrugDesire.degreeDatas.0.label>kimya hayranı</DrugDesire.degreeDatas.0.label>
-	<DrugDesire.degreeDatas.0.description>NAME, kimyasal maddelerle oynamayı çok sever. HECAP bu maddeleri gereğinden fazla tüketme, isteri zamanlarında bunlara yönelme eğilimi içerisinde olacaktır.</DrugDesire.degreeDatas.0.description>
-	<DrugDesire.degreeDatas.1.label>kimya ilgisi</DrugDesire.degreeDatas.1.label>
+	<DrugDesire.degreeDatas.0.label>alkol ve uyuşturucu hayranı</DrugDesire.degreeDatas.0.label>
+	<DrugDesire.degreeDatas.0.description>NAME, kimyasal maddelerle eğlenmeyi çok sever. HECAP bu maddeleri gereğinden fazla tüketme, isteri zamanlarında bunlara yönelme eğilimi içerisinde olacaktır.</DrugDesire.degreeDatas.0.description>
+	<DrugDesire.degreeDatas.1.label>alkol ve uyuşturucu ilgisi</DrugDesire.degreeDatas.1.label>
 	<DrugDesire.degreeDatas.1.description>NAME 'in kimyasal maddelerle eğlenmeye karşı alışılmadık bir ilgisi vardır. HECAP bu maddeleri gereğinden fazla tüketme, isteri zamanlarında bunlara yönelme eğilimi içerisinde olacaktır.</DrugDesire.degreeDatas.1.description>
 	<DrugDesire.degreeDatas.2.label>alkol ve uyuşturucu karşıtı</DrugDesire.degreeDatas.2.label>
 	<DrugDesire.degreeDatas.2.description>NAME kimyasal maddelerden zevk alma düşüncesinden nefret eder, bu düşüncesi alkol ve uyuşturucu tüketmesini önler.</DrugDesire.degreeDatas.2.description>
@@ -24,19 +24,19 @@
 	<NaturalMood.degreeDatas.3.label>depressive</NaturalMood.degreeDatas.3.label>
 	<NaturalMood.degreeDatas.3.description>NAME is perenially unhappy. HECAP has trouble sustaining a good mood even when everything is fine.</NaturalMood.degreeDatas.3.description>
 
-	<Nerves.degreeDatas.0.label>iron willed</Nerves.degreeDatas.0.label>
-	<Nerves.degreeDatas.0.description>NAME's will is an iron shield. HECAP keeps going through thick and thin, when others broke down long before.</Nerves.degreeDatas.0.description>
-	<Nerves.degreeDatas.1.label>steadfast</Nerves.degreeDatas.1.label>
-	<Nerves.degreeDatas.1.description>NAME is mentally tough and won't break down under stresses that would crack most people.</Nerves.degreeDatas.1.description>
-	<Nerves.degreeDatas.2.label>nervous</Nerves.degreeDatas.2.label>
-	<Nerves.degreeDatas.2.description>NAME tends to crack under pressure.</Nerves.degreeDatas.2.description>
-	<Nerves.degreeDatas.3.label>volatile</Nerves.degreeDatas.3.label>
-	<Nerves.degreeDatas.3.description>NAME is on a hair-trigger all the time. HECAP is the first to break in any tough situation.</Nerves.degreeDatas.3.description>
+	<Nerves.degreeDatas.0.label>demir iradeli</Nerves.degreeDatas.0.label>
+	<Nerves.degreeDatas.0.description>NAME'in iradesi adeta demirden kalkandır. Başkaları çoktan vazgeçse de HECAP hala direnmeye devam eder.</Nerves.degreeDatas.0.description>
+	<Nerves.degreeDatas.1.label>kararlı</Nerves.degreeDatas.1.label>
+	<Nerves.degreeDatas.1.description>NAME zihinsel olarak güçlüdür, çoğu kişinin baskılar altında ezildiği anlarda yıkılmadan durur.</Nerves.degreeDatas.1.description>
+	<Nerves.degreeDatas.2.label>sinirli</Nerves.degreeDatas.2.label>
+	<Nerves.degreeDatas.2.description>NAME baskı altında kırılma eğilimindedir.</Nerves.degreeDatas.2.description>
+	<Nerves.degreeDatas.3.label>dönek</Nerves.degreeDatas.3.label>
+	<Nerves.degreeDatas.3.description>NAME her zaman diken üstünde gibidir. HECAP herhangi bir zor durumda ilk vazgeçenlerdendir.</Nerves.degreeDatas.3.description>
 
-	<Neurotic.degreeDatas.0.label>neurotic</Neurotic.degreeDatas.0.label>
-	<Neurotic.degreeDatas.0.description>NAME likes to have things squared away. HECAP will work harder than most to attain this state of affairs, but HIS nerves can get the better of HIM.</Neurotic.degreeDatas.0.description>
-	<Neurotic.degreeDatas.1.label>very neurotic</Neurotic.degreeDatas.1.label>
-	<Neurotic.degreeDatas.1.description>NAME feels constantly nervous about everything that has to get done. HECAP will work extremely hard to attain this state of affairs, but HIS nerves can easily get the better of HIM.</Neurotic.degreeDatas.1.description>
+	<Neurotic.degreeDatas.0.label>evhamlı</Neurotic.degreeDatas.0.label>
+	<Neurotic.degreeDatas.0.description>NAME herşeyin belli bir düzen içinde olmasını seviyor. HECAP bu durumu elde edebilmek için de çok çaba sarfetmek zorunda kalıyor, fakat HIS sinirleri HIM den daha iyi yönetebilirsiniz.</Neurotic.degreeDatas.0.description>
+	<Neurotic.degreeDatas.1.label>aşırı evhamlı</Neurotic.degreeDatas.1.label>
+	<Neurotic.degreeDatas.1.description>NAME, işleri yüzünden kendini sürekli bir gerginlik içinde hissediyor. HECAP bu durumu elde edebilmek için de kendini aşırı zorluyor, fakat HIS sinirleri HIM den kolayca yönetebilirsiniz.</Neurotic.degreeDatas.1.description>
 
 	<Industriousness.degreeDatas.0.label>industrious</Industriousness.degreeDatas.0.label>
 	<Industriousness.degreeDatas.0.description>NAME has an easy time staying on-task and focused, and gets things done much faster than the average person.</Industriousness.degreeDatas.0.description>
