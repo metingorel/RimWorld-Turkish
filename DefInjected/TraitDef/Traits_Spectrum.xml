@@ -5,11 +5,11 @@
 	<SpeedOffset.degreeDatas.0.description>NAME ne zaman bir yere gidilse daima HE ,grubun en arkasında kalır.</SpeedOffset.degreeDatas.0.description>
 	<SpeedOffset.degreeDatas.1.label>hızlı yürür</SpeedOffset.degreeDatas.1.label>
 	<SpeedOffset.degreeDatas.1.description>NAME, bir yere gidecekse çok sevinir. HECAP çoğu insandan daha hızlı yürür.</SpeedOffset.degreeDatas.1.description>
-	<SpeedOffset.degreeDatas.2.label>jogger</SpeedOffset.degreeDatas.2.label>
-	<SpeedOffset.degreeDatas.2.description>NAME always moves with a sense of urgency - so much so that others often fail to keep up.</SpeedOffset.degreeDatas.2.description>
+	<SpeedOffset.degreeDatas.2.label>aceleci</SpeedOffset.degreeDatas.2.label>
+	<SpeedOffset.degreeDatas.2.description>NAME devamlı bir koşuşturmaca içindedir - çoğu kez diğerleri ona ayak uydurmakta zorlanır.</SpeedOffset.degreeDatas.2.description>
 
-	<DrugDesire.degreeDatas.0.label>chemical fascination</DrugDesire.degreeDatas.0.label>
-	<DrugDesire.degreeDatas.0.description>NAME has an intense fascination with chemical sources of enjoyment. HECAP will consume much more of them, and is more likely to go on binges.</DrugDesire.degreeDatas.0.description>
+	<DrugDesire.degreeDatas.0.label>kimya hayranı</DrugDesire.degreeDatas.0.label>
+	<DrugDesire.degreeDatas.0.description>NAME kimyasal maddelerle oynamayı çok sever. HECAP bu maddeleri gereğinden fazla tüketme, isteri zamanlarında bunlara yönelme eğilimi içerisinde olacaktır.</DrugDesire.degreeDatas.0.description>
 	<DrugDesire.degreeDatas.1.label>chemical interest</DrugDesire.degreeDatas.1.label>
 	<DrugDesire.degreeDatas.1.description>NAME has an unusual interest in chemical sources of enjoyment. HECAP will consume more of them, and is more likely to go on binges.</DrugDesire.degreeDatas.1.description>
 	<DrugDesire.degreeDatas.2.label>teetotaler</DrugDesire.degreeDatas.2.label>
