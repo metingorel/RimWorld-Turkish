@@ -11,18 +11,18 @@
 	<Rain.description>Yağmur, silah doğruluğunu, indirgeme hızlarını azaltır ve ateşi söndürür.</Rain.description>
 	
 	<DryThunderstorm.label>Kuru Fırtına</DryThunderstorm.label>
-	<DryThunderstorm.description>Yıldırım başlar ve etrafı ateşe verir onları söndürmek için yağmur olmadığından kuru fırtına tehlikelidir.</DryThunderstorm.description>
+	<DryThunderstorm.description>Yıldırımlar başlar ve etrafı ateşe verir; onları söndürmek için yağmur da olmadığından kuru fırtına tehlikelidir.</DryThunderstorm.description>
 	
 	<RainyThunderstorm.label>Sağanak Yağışlı</RainyThunderstorm.label>
-	<RainyThunderstorm.description>Yıldırım yangınlara enden olacaktır ancak yağmurla alakoyacağız. Yağmur da hareket hızını ve doğruluğu azaltır.</RainyThunderstorm.description>
+	<RainyThunderstorm.description>Yıldırımlar yangınlara neden olacaktır, ancak yağmur yangınların çabuk sönmesini sağlayacaktır. Yağmur hareket hızını ve doğruluğu azaltır.</RainyThunderstorm.description>
 	
-	<FoggyRain.label>Sisli Yağmurlu</FoggyRain.label>
+	<FoggyRain.label>Sisli,Yağmurlu</FoggyRain.label>
 	<FoggyRain.description>Doğruluğu ve hızı azaltır.</FoggyRain.description>
 
 	<SnowHard.label>Şiddetli Kar</SnowHard.label>
-	<SnowHard.description>Kar silah doğruluğunu, koşu hızını azaltır ve ateşi söndürür.</SnowHard.description>
+	<SnowHard.description>Kar; silah doğruluğunu, koşu hızını azaltır ve ateşi söndürür.</SnowHard.description>
 	
 	<SnowGentle.label>Hafif Karlı</SnowGentle.label>
-	<SnowGentle.description>Kar silah doğruluğunu, koşu hızını azaltır ve ateşi söndürür.</SnowGentle.description>
+	<SnowGentle.description>Kar; silah doğruluğunu, koşu hızını azaltır ve ateşi söndürür.</SnowGentle.description>
 	
 </LanguageData>
