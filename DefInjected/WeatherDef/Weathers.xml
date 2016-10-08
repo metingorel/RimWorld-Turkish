@@ -8,13 +8,13 @@
 	<Fog.description>Sis, silahın doğruluğunu azaltır.</Fog.description>
 	
 	<Rain.label>Yağmurlu</Rain.label>
-	<Rain.description>Yağmur, silah doğruluğunu, indirgeme hızlarını azaltır ve ateşi söndürür.</Rain.description>
+	<Rain.description>Yağmur; silah doğruluğunu, indirgeme hızlarını azaltır ve ateşi söndürür.</Rain.description>
 	
 	<DryThunderstorm.label>Kuru Fırtına</DryThunderstorm.label>
 	<DryThunderstorm.description>Yıldırımlar başlar ve etrafı ateşe verir; onları söndürmek için yağmur da olmadığından kuru fırtına tehlikelidir.</DryThunderstorm.description>
 	
 	<RainyThunderstorm.label>Sağanak Yağışlı</RainyThunderstorm.label>
-	<RainyThunderstorm.description>Yıldırımlar yangınlara neden olacaktır, ancak yağmur yangınların çabuk sönmesini sağlayacaktır. Yağmur hareket hızını ve doğruluğu azaltır.</RainyThunderstorm.description>
+	<RainyThunderstorm.description>Yıldırımlar yangınlara neden olacaktır, ancak yağmur yangınların çabuk sönmesini sağlayacaktır. Yağmur; hareket hızını ve doğruluğu azaltır.</RainyThunderstorm.description>
 	
 	<FoggyRain.label>Sisli,Yağmurlu</FoggyRain.label>
 	<FoggyRain.description>Doğruluğu ve hızı azaltır.</FoggyRain.description>
