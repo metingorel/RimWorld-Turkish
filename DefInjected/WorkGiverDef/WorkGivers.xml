@@ -33,8 +33,8 @@
 
   <!-- ============= Hauling ============= -->
   
-	<RearmTraps.verb>yeniden kur</RearmTraps.verb>
-	<RearmTraps.gerund>yeniden kurmaya</RearmTraps.gerund>
+	<RearmTraps.verb>yeniden yap</RearmTraps.verb>
+	<RearmTraps.gerund>yeniden yapmaya</RearmTraps.gerund>
 	<Strip.verb>soy</Strip.verb>
 	<Strip.gerund>soymaya</Strip.gerund>
 	<DoBillsCremate.verb>yak</DoBillsCremate.verb>
@@ -73,8 +73,8 @@
 	<DoBillsMedicalHumanOperation.gerund>operasyon yapmaya</DoBillsMedicalHumanOperation.gerund>
 	<DoBillsMedicalAnimalOperation.verb>operasyon yap</DoBillsMedicalAnimalOperation.verb>
 	<DoBillsMedicalAnimalOperation.gerund>operasyon yapmaya</DoBillsMedicalAnimalOperation.gerund>
-	<TakeToBedToOperate.verb>operasyona al</TakeToBedToOperate.verb>
-	<TakeToBedToOperate.gerund>operasyona almaya</TakeToBedToOperate.gerund>
+	<TakeToBedToOperate.verb>operasyona kat</TakeToBedToOperate.verb>
+	<TakeToBedToOperate.gerund>operasyona katmaya</TakeToBedToOperate.gerund>
 	
   <!-- ============= Construction ============= -->
 	
@@ -82,8 +82,8 @@
 	<Deconstruct.gerund>yıkmaya</Deconstruct.gerund>
 	<ConstructFinishFrames.verb>inşa et</ConstructFinishFrames.verb>
 	<ConstructFinishFrames.gerund>inşa etmeye</ConstructFinishFrames.gerund>
-	<ConstructDeliverResourcesToFrames.verb>taslagı yap</ConstructDeliverResourcesToFrames.verb>
-	<ConstructDeliverResourcesToFrames.gerund>taslagı yapmaya</ConstructDeliverResourcesToFrames.gerund>
+	<ConstructDeliverResourcesToFrames.verb>taslağı yap</ConstructDeliverResourcesToFrames.verb>
+	<ConstructDeliverResourcesToFrames.gerund>taslağı yapmaya</ConstructDeliverResourcesToFrames.gerund>
 	<ConstructDeliverResourcesToBlueprints.verb>üzerinde çalış</ConstructDeliverResourcesToBlueprints.verb>
 	<ConstructDeliverResourcesToBlueprints.gerund>üzerinde çalışmaya</ConstructDeliverResourcesToBlueprints.gerund>
 	<ConstructRemoveFloors.verb>zemini kaldır</ConstructRemoveFloors.verb>
@@ -97,8 +97,8 @@
 	<DoBillsCook.gerund>yemek yapmaya</DoBillsCook.gerund>
 	<DoBillsCookCampfire.verb>yemek yap</DoBillsCookCampfire.verb>
 	<DoBillsCookCampfire.gerund>yemek yapmaya</DoBillsCookCampfire.gerund>
-	<DoBillsBrew.verb>demle</DoBillsBrew.verb>
-	<DoBillsBrew.gerund>demlemeye</DoBillsBrew.gerund>
+	<DoBillsBrew.verb>damıt</DoBillsBrew.verb>
+	<DoBillsBrew.gerund>damıtmaya</DoBillsBrew.gerund>
 	<DoBillsButcherFlesh.verb>kes</DoBillsButcherFlesh.verb>
 	<DoBillsButcherFlesh.gerund>kesmeye</DoBillsButcherFlesh.gerund>
 	<CookFillHopper.verb>doldur</CookFillHopper.verb>
@@ -110,12 +110,12 @@
   
 	<FinishUnfinishedSculptures.verb>devam et</FinishUnfinishedSculptures.verb>
 	<FinishUnfinishedSculptures.gerund>devam etmeye</FinishUnfinishedSculptures.gerund>
-	<DoBillsSculpt.verb>eser yap</DoBillsSculpt.verb>
-	<DoBillsSculpt.gerund>eser yapmaya</DoBillsSculpt.gerund>
+	<DoBillsSculpt.verb>sanat eseri yap</DoBillsSculpt.verb>
+	<DoBillsSculpt.gerund>sanat eseri yapmaya</DoBillsSculpt.gerund>
 	
   <!-- ============= Crafting - weapons ============= -->
   
-	<FinishUnfinishedWeapons.verb>silahı bitir</FinishUnfinishedWeapons.verb>
+	<FinishUnfinishedWeapons.verb>silah yapımını bitir</FinishUnfinishedWeapons.verb>
 	<FinishUnfinishedWeapons.gerund>silahı bitirmeye</FinishUnfinishedWeapons.gerund>
 	<DoBillsMakeWeapons.verb>silah yap</DoBillsMakeWeapons.verb>
 	<DoBillsMakeWeapons.gerund>silah yapmaya</DoBillsMakeWeapons.gerund>
@@ -135,8 +135,8 @@
 	<DoBillsSmelter.verb>erit</DoBillsSmelter.verb>
 	<DoBillsSmelter.gerund>eritmeye</DoBillsSmelter.gerund>
 	
-	<DoBillsMachiningTable.verb>sök</DoBillsMachiningTable.verb>
-	<DoBillsMachiningTable.gerund>sökmeye</DoBillsMachiningTable.gerund>
+	<DoBillsMachiningTable.verb>parçalarına ayır</DoBillsMachiningTable.verb>
+	<DoBillsMachiningTable.gerund>parçalarına ayırmaya</DoBillsMachiningTable.gerund>
 	
 
 	
