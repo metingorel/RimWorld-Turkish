@@ -6,8 +6,8 @@
   <LetterMinute>D</LetterMinute>
   <LetterSecond>s</LetterSecond>
   
-  <DaysLower>Günler</DaysLower>
-  <SecondsLower>Saniyeler</SecondsLower>
+  <DaysLower>Gün</DaysLower>
+  <SecondsLower>Saniye</SecondsLower>
 
   <SeasonSpring>İlkbahar</SeasonSpring>
   <SeasonSummer>Yaz</SeasonSummer>
@@ -32,7 +32,7 @@
 
   <!-- Misc -->
   <Started>Başladı</Started>
-  <Lasted>Sonlandı</Lasted>
+  <Lasted>Bitti</Lasted>
   <OccurredTimeAgo>{0} önce meydan geldi.</OccurredTimeAgo>
 
 
