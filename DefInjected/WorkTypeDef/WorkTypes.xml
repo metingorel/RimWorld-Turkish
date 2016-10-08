@@ -28,14 +28,14 @@
 	<Art.labelShort>Sanatkâr</Art.labelShort>
     <Art.pawnLabel>Sanatkâr</Art.pawnLabel>
     <Art.gerundLabel>Sanat</Art.gerundLabel>
-    <Art.verb>Eser yap</Art.verb>
+    <Art.verb>Sanat eseri yap</Art.verb>
     <Art.description>Sanatkârlar, güzel eserler yapar.</Art.description>
 	
 	<Tailoring.labelShort>Terzi</Tailoring.labelShort>
     <Tailoring.pawnLabel>Terzi</Tailoring.pawnLabel>
     <Tailoring.gerundLabel>Dikme</Tailoring.gerundLabel>
     <Tailoring.verb>Dik</Tailoring.verb>
-    <Tailoring.description>Hammaddelerden giysi yapar.</Tailoring.description>
+    <Tailoring.description>Ham malzemeden giysi yapar.</Tailoring.description>
 	
 	<Smithing.labelShort>Demirci</Smithing.labelShort>
     <Smithing.pawnLabel>Demirci</Smithing.pawnLabel>
@@ -47,19 +47,19 @@
 	<PlantCutting.pawnLabel>Bahçıvan</PlantCutting.pawnLabel>
 	<PlantCutting.gerundLabel>Bitki kesme</PlantCutting.gerundLabel>
 	<PlantCutting.verb>Kes</PlantCutting.verb>
-	<PlantCutting.description>Bitki kesiciler, arazindeki yabani otları keser veya onlardan işe yarar şeyler toplar.</PlantCutting.description>
+	<PlantCutting.description>Bahçıvanlar, arazindeki yabani otları keser veya onlardan işe yarar şeyleri toplar.</PlantCutting.description>
 	
 	<Growing.labelShort>Çiftçi</Growing.labelShort>
 	<Growing.pawnLabel>Çiftçi</Growing.pawnLabel>
 	<Growing.gerundLabel>Yetiştirme</Growing.gerundLabel>
 	<Growing.verb>Yetiştir</Growing.verb>
-	<Growing.description>Çiftçiler bitki ekerler ve büyüdüklerinde onları hasat ederler.</Growing.description>
+	<Growing.description>Çiftçiler; bitkileri eker ve büyüdüklerinde onları hasat eder.</Growing.description>
 	
 	<Mining.labelShort>Madenci</Mining.labelShort>
 	<Mining.pawnLabel>Madenci</Mining.pawnLabel>
 	<Mining.gerundLabel>Kazma</Mining.gerundLabel>
 	<Mining.verb>Kaz</Mining.verb>
-	<Mining.description>Madenciler, senin seçtiğin blokları kazarlar. Eðer bloklar mineral bloklarıysa, işe yarayan madenler çıkarırlar.</Mining.description>
+	<Mining.description>Madenciler, senin seçtiğin blokları kazar. Eðer blok mineral içeriyorsa, işe yarayan madenler çıkarır.</Mining.description>
 	
 	<Repair.labelShort>Tamirci</Repair.labelShort>
 	<Repair.pawnLabel>Tamirci</Repair.pawnLabel>
@@ -70,26 +70,26 @@
 	<Construction.labelShort>İnşaatçı</Construction.labelShort>
 	<Construction.pawnLabel>İnşaatçı</Construction.pawnLabel>
 	<Construction.gerundLabel>İnşa ediyor</Construction.gerundLabel>
-	<Construction.verb>İşþa et</Construction.verb>
-	<Construction.description>İnşaatçılar, yaptığın binaları inşa ederler.</Construction.description>
+	<Construction.verb>İnşa et</Construction.verb>
+	<Construction.description>İnşaatçılar, yapılmasını istediğin binaları inşa eder.</Construction.description>
 	
 	<Hunting.labelShort>Avcı</Hunting.labelShort>
 	<Hunting.pawnLabel>Avcı</Hunting.pawnLabel>
 	<Hunting.gerundLabel>Avlanma</Hunting.gerundLabel>
 	<Hunting.verb>Avlan</Hunting.verb>
-	<Hunting.description>Avcılar avlamasını gösterdiğin hayvanları avlar.</Hunting.description>
+	<Hunting.description>Avcılar, avlamasını istediğin hayvanları avlar.</Hunting.description>
 	
 	<Cooking.labelShort>Aşçı</Cooking.labelShort>
 	<Cooking.pawnLabel>Aşçı</Cooking.pawnLabel>
 	<Cooking.gerundLabel>Yemek yapma</Cooking.gerundLabel>
 	<Cooking.verb>Yemek yap</Cooking.verb>
-	<Cooking.description>Yemek yapar, yemek presleyicisini doldurur.</Cooking.description>
+	<Cooking.description>Yemek yapar, besin macunu sentezleyicisini doldurur.</Cooking.description>
 	
 	<Warden.labelShort>Gardiyan</Warden.labelShort>
 	<Warden.pawnLabel>Gardiyan</Warden.pawnLabel>
 	<Warden.gerundLabel>Gözetme</Warden.gerundLabel>
 	<Warden.verb>Gözet</Warden.verb>
-	<Warden.description>Gardiyanlar; mahkumlarla ilgilenirler, onlarla sohbet eder, eğitir, döver veya infaz eder. Gardiyanlar ayrıca mahkumlara yemek götürür.</Warden.description>
+	<Warden.description>Gardiyanlar; mahkumlarla ilgilenir, onlarla sohbet eder, eğitir, döver veya infaz eder. Gardiyanlar ayrıca mahkumlara yemek de götürür.</Warden.description>
 
 	<PatientBedRest.labelShort>Kontrolör</PatientBedRest.labelShort>
 	<PatientBedRest.pawnLabel>Kontrolör</PatientBedRest.pawnLabel>
@@ -101,18 +101,18 @@
 	<PatientEmergency.pawnLabel>Hasta</PatientEmergency.pawnLabel>
 	<PatientEmergency.gerundLabel>Hasta</PatientEmergency.gerundLabel>
 	<PatientEmergency.verb>Hasta</PatientEmergency.verb>
-	<PatientEmergency.description>Hastalar, tedavi edilmeleri gerektikleri zaman hastane yataklarına gider.</PatientEmergency.description>
+	<PatientEmergency.description>Hastalar, tedavi edilmeleri gerektiğinde hastalar için ayrılmış yataklara gider.</PatientEmergency.description>
 
 	<Doctor.labelShort>Doktor</Doctor.labelShort>
 	<Doctor.pawnLabel>Doktor</Doctor.pawnLabel>
 	<Doctor.gerundLabel>Tedavi etme</Doctor.gerundLabel>
 	<Doctor.verb>Tedavi et</Doctor.verb>
-	<Doctor.description>Doktorlar hastaları tedavi eder ve onlara yemek götürürler. Hem kolonistleri hem de mahkumları tedavi ederler.</Doctor.description>
+	<Doctor.description>Doktorlar; hastaları tedavi eder ve onlara yemek götürür. Hem kolonicileri hem de mahkumları tedavi eder.</Doctor.description>
 	
 	<Firefighter.labelShort>İtfaiyeci</Firefighter.labelShort>
 	<Firefighter.pawnLabel>İtfaiyeci</Firefighter.pawnLabel>
 	<Firefighter.gerundLabel>Yangın söndürme</Firefighter.gerundLabel>
 	<Firefighter.verb>Söndür</Firefighter.verb>
-	<Firefighter.description>İtfaiyeciler kolonide çıkan yangınları söndürürler.</Firefighter.description>
+	<Firefighter.description>İtfaiyeciler, kolonide çıkan yangınları söndürür.</Firefighter.description>
 
 </LanguageData>
