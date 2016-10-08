@@ -5,78 +5,78 @@
 
   
   
-  <NeedSawmill>Kereste makinesi gerekiyor</NeedSawmill>
-  <NeedSawmillDesc>Kütükleri kesip daha kullanışlı kalaslara dönüştürmek için bir kereste makinesine ihtiyacın var.\n\nBir "El Kereste Makinesi" veya "Elektrikli Kereste Makinesi" inşa et.</NeedSawmillDesc>
+  <NeedSawmill>Kereste bıçkısı gerekiyor</NeedSawmill>
+  <NeedSawmillDesc>Kütükleri kesip daha kullanışlı kalaslara dönüştürmek için bir kereste bıçkısına ihtiyacın var.\n\nBir "Elle çalışan Kereste Bıçkısı" veya "Elektrikli Kereste Bıçkısı" inşa et.</NeedSawmillDesc>
 
   <PoorMood>Kötü ruh hali</PoorMood>
-  <PoorMoodDesc>Bu kolonistler kötü bir ruh hali içindeler ve her an küçük bir sinir krizi yaşayabilirler:\n\n{0}</PoorMoodDesc>
+  <PoorMoodDesc>Bu koloniciler kötü bir ruh hali içinde ve her an küçük çaplı bir sinir krizi geçirebilirler:\n\n{0}</PoorMoodDesc>
   <TerribleMood>Berbat ruh hali</TerribleMood>
-  <TerribleMoodDesc>Bu kolonistler aşırı stres altındalar ve her an ağır bir sinir krizi yaşayabilirler, hatta saldırganlaşabilirler de:\n\n{0}</TerribleMoodDesc>
-  <LowMoodDescEnding>Bu kolonistleri neyin rahatsız ettiğini görmek için kolonistlerin İhtiyaçlar sekmesini kontrol edin.</LowMoodDescEnding>
+  <TerribleMoodDesc>Bu koloniciler aşırı stres altında ve her an ağır bir sinir krizi geçirebilirler, hatta saldırganlaşabilirler de:\n\n{0}</TerribleMoodDesc>
+  <LowMoodDescEnding>Bu kolonicileri neyin rahatsız ettiğini görmek için kolonicilere ait İhtiyaçlar sekmesini kontrol edin.</LowMoodDescEnding>
   
   <ColonistNeedsRescue>Kolonicinin kurtarılması gerekiyor</ColonistNeedsRescue>
-  <ColonistsNeedRescue>Kolonicilerinin kurtarılması gerekiyor</ColonistsNeedRescue>
-  <ColonistsNeedRescueDesc>  Kolonici, hareket edemeyecek durumda:\n\n{0}\nOnu kurtarıp, yatağa taşıması için başka bir kolonici gönder.\n\n(Kurtarmak için, başka bir kolonici seç ve yardıma ihtiyacı olan kişinin üzerine sağ tıklayıp "Kurtar" seçeneğini seç.).</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescue>Kolonicileriin kurtarılması gerekiyor</ColonistsNeedRescue>
+  <ColonistsNeedRescueDesc>  Kolonici, hareket edemeyecek durumda:\n\n{0}\nOnu kurtarıp, yatağa taşıması için başka bir kolonici gönder.\n\n(Kurtarmak için, başka bir kolonici seç ve yardıma ihtiyacı olan kişinin üzerine sağ tıklayıp "Kurtar" seçeneğini tıkla.).</ColonistsNeedRescueDesc>
 
-  <BuildARoom>Bir oda yap</BuildARoom>
-  <BuildARoomDesc>Bir oda, bir kapısı olan ayrı duvar parçalarından oluşur.\n\nEkranın sol alt kısmında bulunan "Mimari" menüsünü kullanarak neyin, nerede inşa edilmesini istediğini seç. inşa edilecek bir şey ayarladığında kolonicilerin yapabildikleri zaman işi yapacaklardır.</BuildARoomDesc>
+  <BuildARoom>Oda yap</BuildARoom>
+  <BuildARoomDesc>Oda, bir kapıdan veayrı duvar parçalarından oluşmuş bir yaşam alanıdır. bir.\n\nEkranın sol alt kısmında bulunan "Mimari" menüsünü kullanarak neyin, nerede inşa edilmesini istediğini seç. inşa edilecek bir şey ayarladığında kolonicilerin yapabildikleri zaman işi yapacaktır.</BuildARoomDesc>
 
   <NeedDefenses>Savunma gerekiyor</NeedDefenses>
-  <NeedDefensesDesc>Bir süredir burdasın ve büyük ihtimalle görüldün. Korsan baskınları yakında başlayacaktır.\n\nKendini savunmaya hazırlanmalısın.\n\nBirkaç tane taret inşa et.</NeedDefensesDesc>
+  <NeedDefensesDesc>Bir süredir buradasın ve büyük ihtimalle farkedildin. Korsan baskınları yakında başlayacaktır.\n\nKendini savunmaya hazırlanmalısın.\n\nBirkaç taret inşa et.</NeedDefensesDesc>
 
   <NeedDoctor>Doktor gerekiyor</NeedDoctor>
-  <NeedDoctorDesc>Bazı kolonicilerin tıbbi yardıma ihtiyaçları var fakat doktor olarak atanmış sağlıklı bir kolonicin yok.\n\n{0}\nSağlıklı bir kolonicini doktor olarak ata. Eğer tedavi edilmezse yaralar hiçbir zaman tam olarak iyileşmeyebilir ve kalıcı olabilirler.</NeedDoctorDesc>
+  <NeedDoctorDesc>Bazı kolonicilerin tıbbi yardıma ihtiyaçları var; fakat doktor olarak atanmış sağlıklı bir kolonicin yok.\n\n{0}\nSağlıklı bir kolonicini doktor olarak ata. Eğer tedavi edilmezlerse yaralar hiçbir zaman tam olarak iyileşmeyebilir ve kalıcı olabilir.</NeedDoctorDesc>
 
   <NeedMiner>Madenciye ihtiyacın var</NeedMiner>
-  <NeedMinerDesc>Bazı kayaların kazılması için emir verdin fakat madenci olarak atanmış bir kolonicin yok.\n\nBir kolonicini madenci olarak ata..</NeedMinerDesc>
+  <NeedMinerDesc>Bazı kayaların çıkarılması için emir verdin, fakat madenci olarak atanmış bir kolonicin yok.\n\nBir kolonicini madenci olarak ata..</NeedMinerDesc>
 
   <NeedWarden>Gardiyan gerekiyor</NeedWarden>
-  <NeedWardenDesc>Bir esirin var fakat gardiyan olarak atanmış bir kolonicin yok.\n\nBir kolonicini gardiyan olarak ata.</NeedWardenDesc>
+  <NeedWardenDesc>Bir esirin var, fakat gardiyan olarak atanmış bir kolonicin yok.\n\nBir kolonicini gardiyan olarak ata.</NeedWardenDesc>
 
   <LowFood>Yiyecek Az</LowFood>
-  <LowFoodDesc>Deponda sadece {0} tane yiyeceğin var. Bu tehlikeli derece az.\n\nYetiştir, satın al, bul ya da avlan.</LowFoodDesc>
+  <LowFoodDesc>Deponda sadece {0} tane yiyeceğin var. Bu, tehlikeli derece az.\n\nYetiştir, satın al, bul ya da avlan.</LowFoodDesc>
 
   <LowMedicine>İlaç az</LowMedicine>
-  <LowMedicineDesc>Depoda sadece {0} tane ilaç kaldı.\n\nTacirlerden daha çok ilaç al.</LowMedicineDesc>
-  <NoMedicineDesc>Depoda hiç ilaç kalmadı.\n\nTacirlerden daha çok ilaç al.</NoMedicineDesc>
+  <LowMedicineDesc>Depoda sadece {0} tane ilaç kaldı.\n\nTüccarlardan daha çok ilaç al.</LowMedicineDesc>
+  <NoMedicineDesc>Depoda hiç ilaç kalmadı.\n\nTüccarlardan daha çok ilaç al.</NoMedicineDesc>
   
   <NeedColonistBeds>Kolonici yatağı gerekiyor</NeedColonistBeds>
-  <NeedColonistBedsDesc>Kolonici sayın, kolonici yatağı sayından fazla. Bazı kolonicilerinin yatacak yeri yok.\n\nYa daha fazla yatak yap ya da bir esir yatağını kolonici yatağına çevir.\n\nEğer hiç kaynağın kalmadıysa uyuma alanları bedava ve anında yerleştirilebilirler.</NeedColonistBedsDesc>
+  <NeedColonistBedsDesc>Kolonici miktarın, kolonici yatağı sayından fazla. Bazı kolonicilerinin yatacak yeri yok.\n\nYa daha fazla yatak yap ya da bir esir yatağını kolonici yatağına çevir.\n\nEğer hiç kaynağın kalmadıysa uyuma alanları bedava ve anında yerleştirilebilirler.</NeedColonistBedsDesc>
 
   <HunterLacksWeapon>Avcının silahı yok</HunterLacksWeapon>
-  <HunterLacksWeaponDesc> kolonist avcı olarak atandı ama silahı yok. Bir silah alana kadar avlanmayacak.\n\nYaralanma ihtimalini azaltmak için, menzilli bir silah vermeyi öneriyoruz.</HunterLacksWeaponDesc>
+  <HunterLacksWeaponDesc>Kolonici, avcı olarak atandı ama silahı yok. Bir silah alana kadar avlanmayacak.\n\nYaralanma ihtimalini azaltmak için, menzilli bir silah vermeni öneriyoruz.</HunterLacksWeaponDesc>
 
   <Starvation>Açlık</Starvation>
-  <StarvationDesc>Kolonicilerin aç:\n\n{0}\nOnlara biraz yemek bul. Besleyici macun yapıcısı gibi bir yemek kaynağına ve onun kullanması için biraz da yiyeceğe ihtiyacın olacak. Ayrıca kolonicilerinin askerî durumda olmadıklarından da emin ol.</StarvationDesc>
+  <StarvationDesc>Kolonicilerin aç:\n\n{0}\nOnlara biraz yemek bul. Besleyici macun sentezleyicisi gibi bir yemek kaynağına ve onun için de biraz yiyeceğe ihtiyacın olacak. Ayrıca kolonicilerinin askerî durumda olmadıklarından da emin ol.</StarvationDesc>
 
   <StarvationAnimals>Hayvan Açlığı</StarvationAnimals>
   <StarvationAnimalsDesc>Koloni hayvanların aç:\n\n{0}\nBiraz yemek bul.</StarvationAnimalsDesc>
 
   <Exhaustion>Yorgunluk</Exhaustion>
-  <ExhaustionDesc>Bazı kolonicilerin çok yorgun ve dinlenmeye ihtiyaçları var.:\n\n{0}\nOnları biraz dinlendir. Dinlenmek için kolonici kullanımı seçilmiş bir yatağa ihtiyaçları var. Ayrıca askerî durumda olmadıklarından da emin ol.</ExhaustionDesc>
+  <ExhaustionDesc>Bazı kolonicilerin çok yorgun ve dinlenmeye ihtiyaçları var.:\n\n{0}\nOnları biraz dinlendir. Dinlenmek için kolonicinin seçilmiş bir yatağa ihtiyaçları var. Ayrıca askerî durumda olmadıklarından da emin ol.</ExhaustionDesc>
 
   <NeedFoodHopper>Yiyecek hunisi gerekiyor</NeedFoodHopper>
-  <NeedFoodHopperDesc>Yanında hunisi olmayan bir besleyici macun yapıcısı var.\n\nMacun yapıcısının çalışması için yanındaki çiğ yiyecek dolu bir huniden malzeme çekebilmeleri gerekiyor.\n\nYapıcının yanına bir huni inşa et.</NeedFoodHopperDesc>
+  <NeedFoodHopperDesc>Yanında hunisi olmayan bir besin macunu sentezleyicisi var.\n\nMacun sentezleyicisinin çalışabilmesi için yanındaki çiğ yiyecek dolu bir huniden malzeme çekebilmeleri gerekiyor.\n\nSentezleyicinin yanına bir huni inşa et.</NeedFoodHopperDesc>
 
   <BuildingNeedsPower>Binaya elektrik gerekiyor</BuildingNeedsPower>
   <BuildingsNeedPower>Binaya elektrik gerekiyor</BuildingsNeedPower>
-  <BuildingsNeedPowerDesc>Bu elektrik kullanan bina hiçbir enerji kaynağına bağlanmamış:\n\n{0}\nOnu bir enerji üreticisine veya bir bataryaya bağla.</BuildingsNeedPowerDesc>
+  <BuildingsNeedPowerDesc>Bu elektrik kullanan bina hiçbir enerji kaynağına bağlanmamış:\n\n{0}\nOnu bir enerji kaynağına veya bir bataryaya bağla.</BuildingsNeedPowerDesc>
   <AndMore>daha fazlası</AndMore>
 
   <NeedMealSource>Yemek kaynağı gerekiyor</NeedMealSource>
-  <NeedMealSourceDesc>Çiğ yiyeceklerden düzgün bir yemek yapmak için hiçbir yolun yok.\n\nOcak, kamp ateşi ya da besleyici macun yapıcısı inşa et.\n\n(Hapishane hücresine kurarsan koloniciler onu kullanamaz.)</NeedMealSourceDesc>
+  <NeedMealSourceDesc>Çiğ yiyeceklerden yemek yapabimek için hiçbir araç gerecin yok.\n\nOcak, kamp ateşi ya da besin macunu sentezleyicisi inşa et.\n\n(Hapishane hücresine kurarsan koloniciler onu kullanamaz.)</NeedMealSourceDesc>
 
   <NeedHomeArea>Ev bölgesi gerekiyor</NeedHomeArea>
   <NeedHomeAreaDesc>Kolonicilerinin temizleyecekleri, çıkan yangınları söndürecekleri ve içindeki şeyleri onaracakları bir "Ev Bölgesi" belirlemen gerekiyor.\n\n"Mimari" menüsündeki "Alanlar" kısmını kullanarak ev bölgeni belirle..</NeedHomeAreaDesc>
 
   <NeedBatteries>Batarya gerekiyor</NeedBatteries>
-  <NeedBatteriesDesc>Güneş enerjisi panellerin var ama enerjiyi depolayacak bataryan yok. Yani her akşam güneş battığında elektriğin kesilecek.\n\n Gece elektriksiz kalmamak için birkaç batarya inşa et.</NeedBatteriesDesc>
+  <NeedBatteriesDesc>Güneş enerjisi panellerin var ama enerjiyi depolayacak bataryan yok. Yani, her akşam güneş battığında elektriğin kesilecek.\n\n Gece, elektriksiz kalmamak için birkaç batarya inşa et.</NeedBatteriesDesc>
 
   <NoTradingCapacity>Ticaret imkanı yok</NoTradingCapacity>
-  <NoTradingCapacityDesc>Geçen gemilerle ticaret yapman için hiçbir yol yok.\n\nBir iletişim paneli inşa et.</NoTradingCapacityDesc>
+  <NoTradingCapacityDesc>Geçen gemilerle ticaret yapmak için hiçbir araç gerecin yok.\n\nBir iletişim paneli inşa et.</NoTradingCapacityDesc>
 
-  <BrawlerHasRangedWeapon>Kavgacı, menzilli silaha sahip</BrawlerHasRangedWeapon>
-  <BrawlerHasRangedWeaponDesc>Kolonistlerinden biri Kavgacı kişilik özelliğine sahip ama menzilli bir silah taşıyor. Bu onu çok mutsuz edecektir.</BrawlerHasRangedWeaponDesc>
+  <BrawlerHasRangedWeapon>Yakın Dövüşçü, menzilli silaha sahip</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>Kolonicilerinden birisi Yakın Dövüşçü bir kişiliğe sahip ama menzilli bir silah taşıyor. Bu durum onu çok mutsuz edecektir.</BrawlerHasRangedWeaponDesc>
 
   <ShieldUserHasRangedWeapon>Kalkan kullanıcısı menzilli silaha sahip</ShieldUserHasRangedWeapon>
   <ShieldUserHasRangedWeaponDesc>Kolonicilerinden birinin kişisel kalkanı var ve  menzilli silah taşıyor. Kalkanının arkasından o silahla ateş edemez (Kendisine dokunan hedefler hariç).</ShieldUserHasRangedWeaponDesc>
@@ -85,15 +85,15 @@
   <NeedResearchProjectDesc>Araştırma yapmak için ekipmanın var ama henüz bir proje seçmedin.\n\nAraştırma menüsünü aç ve bir proje seç.</NeedResearchProjectDesc>
   
   <NeedDump>Çöp alanı gerekiyor</NeedDump>
-  <NeedDumpDesc> {0} 'ı taşınması için işaretledin, ama kolonicilerinin onu götürebilecekleri hiçbir yer yok.\n\nBir stok yeri belirle ve onun depolama seçeneklerini {0} kabul etmesi için ayarla</NeedDumpDesc>
+  <NeedDumpDesc> {0} 'ı taşınması için işaretledin, ama kolonicilerinin onu götürebilecekleri hiçbir yer yok.\n\nBir çöp alanı belirle ve onun depolama seçeneklerini {0}' i depolayabilecek şekilde ayarla</NeedDumpDesc>
 
   <!-- Removed
   <NeedGrave>Mezar gerekiyor</NeedGrave>
   <NeedGraveDesc>Yerde ölü bir ceset var ve kolonicilerinin onu götürebilecekleri hiçbir yer yok.\n\nBir mezar inşa et ya da bir çöp alanının ayarla.</NeedGraveDesc>
   -->
 
-  <ColonistsIdle{0} kolonici boşta</ColonistsIdle>
-  <ColonistsIdleDesc>Bu koloniciler boş boş dolanıyor:\n\n{0}\nOnlara yapacak yararlı bir şeyler bulmalısın.</ColonistsIdleDesc>
+  <ColonistsIdle{0} Kolonici boşta</ColonistsIdle>
+  <ColonistsIdleDesc>Bu kolonici boş boş dolanıyor:\n\n{0}\nOna yapacağı yararlı bir şeyler bulmalısın.</ColonistsIdleDesc>
 
   <!-- Removed
   <HaltedConstructions>{0} İnşaat için malzeme yok</HaltedConstructions>
@@ -101,7 +101,7 @@
   -->
   
   <ColonistNeedsTreatment>Kolonicinin tedaviye ihtiyacı var</ColonistNeedsTreatment>
-  <ColonistNeedsTreatmentDesc>Bu kolonicinin tıbbi yardıma ihtiyacı var. Gerekli tedavi uygulanmazsa yaraları onları öldürebilir ya da yara kalıcı olabilir.:\n\n{0}\nOnları tıbbi bir yatağa göndererek tedavi et.\n\n(Önce bir yatağı seç ve onu tıbbi yatağa dönüştür. Sonra yaralı koloniciyi seç ve tıbbi yatağın üzerine sağ tıklayarak onları bir hastaya dönüştür.)</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDesc>Bu kolonicinin tıbbi yardıma ihtiyacı var. Gerekli tedavi uygulanmazsa yaraları onu öldürebilir yada yara kalıcı olabilir:\n\n{0}\nOnları tıbbi bir yatağa göndererek tedavi et.\n\n(Önce bir yatağı seç ve onu tıbbi yatağa dönüştür. Sonra yaralı koloniciyi seç ve tıbbi yatağın üzerine sağ tıklayarak onları bir hastaya dönüştür.)</ColonistNeedsTreatmentDesc>
 
   <AlertHypothermia>Hipotermi</AlertHypothermia>
   <AlertHypothermiaDesc>Bu koloniciler hipotermiden muzdarip.\n\n{0}\nGiysilerinin mevsime uygun olduğundan ve iç mekanların uygun şekilde ısıtıldığından emin ol.</AlertHypothermiaDesc>
@@ -113,13 +113,13 @@
   <FireInHomeAreaDesc>Ev bölgesinde yangın var.</FireInHomeAreaDesc>
 
   <PawnsWithLifeThreateningDisease>Ağır hastalık</PawnsWithLifeThreateningDisease>
-  <PawnsWithLifeThreateningDiseaseDesc>İnsanların ağır hastalık yüzünden ölüm tehlikeleri var:\n\n{0}\nMümkün olan en iyi şekilde tedavi edildiklerinden emin ol.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseDesc>İnsanların ağır hastalık yüzünden ölme riski var:\n\n{0}\nMümkün olan en iyi şekilde tedavi edildiklerinden emin ol.</PawnsWithLifeThreateningDiseaseDesc>
   <PawnsWithLifeThreateningDiseaseAmputationDesc>İnsanların ağır hastalık yüzünden ölüm tehlikeleri var:\n\n{0}\nEğer mümkünse kolonicileri hayatta tutmak için enfekte olan uzuvları kesmeyi veya değiştirmeyi düşün.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
-  <BilliardsNeedsSpace>Bilardo için alan gerekiyor</BilliardsNeedsSpace>
-  <BilliardsNeedsSpaceDesc>Bilardo masalarından birisi bir engele bitişik ve bu kolonicilerin onu kullanmasını engelliyor.\n\nBilardo masalarının kullanılabilmesi için dört tarafında yeterli boş alan bulunmalı.</BilliardsNeedsSpaceDesc>
+  <BilliardsNeedsSpace>Bilardo masası için alan gerekiyor</BilliardsNeedsSpace>
+  <BilliardsNeedsSpaceDesc>Bilardo masalarından birisi bir engele bitişik ve bu, kolonicilerin onu kullanmasını engelliyor.\n\nBilardo masalarının kullanılabilmesi için dört tarafında yeterli boş alan bulunmalı.</BilliardsNeedsSpaceDesc>
 
   <HunterHasShieldAndRangedWeapon>Avcının kalkanı ve menzilli silah var</HunterHasShieldAndRangedWeapon>
-  <HunterHasShieldAndRangedWeaponDesc>Avcılarından biri menzilli silah taşıyor ve uzaktan ateş etmeyi engelleyen kişisel kalkan giyiyor var.\n\nKalkan çıkarılmazsa avcılık yapamayacak.</HunterHasShieldAndRangedWeaponDesc>
+  <HunterHasShieldAndRangedWeaponDesc>Avcılarından birisi hem menzilli silah taşıyor hem de uzaktan ateş etmeyi engelleyen kalkan giyiyor.\n\nKalkan çıkarılmazsa avcılık yapamayacak.</HunterHasShieldAndRangedWeaponDesc>
   
 </LanguageData>
