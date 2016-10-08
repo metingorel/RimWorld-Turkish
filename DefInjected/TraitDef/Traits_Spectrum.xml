@@ -15,10 +15,10 @@
 	<DrugDesire.degreeDatas.2.label>alkol ve uyuşturucu karşıtı</DrugDesire.degreeDatas.2.label>
 	<DrugDesire.degreeDatas.2.description>NAME kimyasal maddelerden zevk alma düşüncesinden nefret eder, bu düşüncesi alkol ve uyuşturucu tüketmesini önler.</DrugDesire.degreeDatas.2.description>
 
-	<NaturalMood.degreeDatas.0.label>sanguine</NaturalMood.degreeDatas.0.label>
-	<NaturalMood.degreeDatas.0.description>NAME is just naturally upbeat about HIS situation, pretty much all the time, no matter what it is.</NaturalMood.degreeDatas.0.description>
+	<NaturalMood.degreeDatas.0.label>iyimser</NaturalMood.degreeDatas.0.label>
+	<NaturalMood.degreeDatas.0.description>NAME, HIS' in durumu hakkında yapısı itibariyle genellikle iyimserdir, hemen hemen her zaman, ne olursa olsun.</NaturalMood.degreeDatas.0.description>
 	<NaturalMood.degreeDatas.1.label>optimist</NaturalMood.degreeDatas.1.label>
-	<NaturalMood.degreeDatas.1.description>NAME is naturally optimistic about life. It's hard to get HIM down.</NaturalMood.degreeDatas.1.description>
+	<NaturalMood.degreeDatas.1.description>NAME yaşamı hakkında doğal olarak iyimserdir. HIM 'i bundan vazgeçirmek zor.</NaturalMood.degreeDatas.1.description>
 	<NaturalMood.degreeDatas.2.label>pessimist</NaturalMood.degreeDatas.2.label>
 	<NaturalMood.degreeDatas.2.description>NAME tends to look on the bad side of life.</NaturalMood.degreeDatas.2.description>
 	<NaturalMood.degreeDatas.3.label>depressive</NaturalMood.degreeDatas.3.label>
