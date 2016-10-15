@@ -38,17 +38,17 @@
 	<Neurotic.degreeDatas.1.label>aşırı evhamlı</Neurotic.degreeDatas.1.label>
 	<Neurotic.degreeDatas.1.description>NAME, işleri yüzünden kendini sürekli bir gerginlik içinde hissediyor. HECAP bu durumu elde edebilmek için de kendini aşırı zorluyor, fakat HIS sinirleri HIM den kolayca yönetebilirsiniz.</Neurotic.degreeDatas.1.description>
 
-	<Industriousness.degreeDatas.0.label>industrious</Industriousness.degreeDatas.0.label>
-	<Industriousness.degreeDatas.0.description>NAME has an easy time staying on-task and focused, and gets things done much faster than the average person.</Industriousness.degreeDatas.0.description>
-	<Industriousness.degreeDatas.1.label>hard worker</Industriousness.degreeDatas.1.label>
-	<Industriousness.degreeDatas.1.description>NAME is a natural hard worker and will finish tasks faster than most.</Industriousness.degreeDatas.1.description>
-	<Industriousness.degreeDatas.2.label>lazy</Industriousness.degreeDatas.2.label>
-	<Industriousness.degreeDatas.2.description>NAME is a little bit lazy.</Industriousness.degreeDatas.2.description>
-	<Industriousness.degreeDatas.3.label>slothful</Industriousness.degreeDatas.3.label>
-	<Industriousness.degreeDatas.3.description>NAME loves idleness and hates anything productive. HECAP moves slowly and rarely stays focused on a task.</Industriousness.degreeDatas.3.description>
+	<Industriousness.degreeDatas.0.label>hamarat</Industriousness.degreeDatas.0.label>
+	<Industriousness.degreeDatas.0.description>NAME, kolayca görevlerine odaklanır ve onları sürdürür ve üstlendiği görevleri gereğinden hızlı yerine getirir.</Industriousness.degreeDatas.0.description>
+	<Industriousness.degreeDatas.1.label>çalışkan</Industriousness.degreeDatas.1.label>
+	<Industriousness.degreeDatas.1.description>NAME, yapısı itibariyle çalışkandır, işlerini çabucak bitirir.</Industriousness.degreeDatas.1.description>
+	<Industriousness.degreeDatas.2.label>tembel</Industriousness.degreeDatas.2.label>
+	<Industriousness.degreeDatas.2.description>NAME, biraz tembeldir.</Industriousness.degreeDatas.2.description>
+	<Industriousness.degreeDatas.3.label>miskin</Industriousness.degreeDatas.3.label>
+	<Industriousness.degreeDatas.3.description>NAME, tembelliği sever, birşeyler yapmaktan, üretmekten nefret eder. HECAP, yavaştır, nadiren bir görev üzerinde odaklanmış olarak işlerini yapmaya devam eder.</Industriousness.degreeDatas.3.description>
 
-	<PsychicSensitivity.degreeDatas.0.label>psychically hypersensitive</PsychicSensitivity.degreeDatas.0.label>
-	<PsychicSensitivity.degreeDatas.0.description>NAME's mind is like a psychic tuning fork. HECAP is extremely sensitive to psychic phenomena.</PsychicSensitivity.degreeDatas.0.description>
+	<PsychicSensitivity.degreeDatas.0.label>ruhsal olarak aşırı duyarlı</PsychicSensitivity.degreeDatas.0.label>
+	<PsychicSensitivity.degreeDatas.0.description>NAME'in beyni sanki psişik akort çatalı gibidir. HECAP, psişik fenomenler karşı aşırı duyarlıdır.</PsychicSensitivity.degreeDatas.0.description>
 	<PsychicSensitivity.degreeDatas.1.label>psychically sensitive</PsychicSensitivity.degreeDatas.1.label>
 	<PsychicSensitivity.degreeDatas.1.description>NAME's mind is unusually sensitive to psychic phenomena.</PsychicSensitivity.degreeDatas.1.description>
 	<PsychicSensitivity.degreeDatas.2.label>psychically dull</PsychicSensitivity.degreeDatas.2.label>
