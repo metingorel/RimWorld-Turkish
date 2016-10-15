@@ -18,20 +18,20 @@
 	<NaturalMood.degreeDatas.0.label>iyimser</NaturalMood.degreeDatas.0.label>
 	<NaturalMood.degreeDatas.0.description>NAME, HIS' in durumu hakkında yapısı itibariyle genellikle iyimserdir, hemen hemen her zaman, ne olursa olsun.</NaturalMood.degreeDatas.0.description>
 	<NaturalMood.degreeDatas.1.label>optimist</NaturalMood.degreeDatas.1.label>
-	<NaturalMood.degreeDatas.1.description>NAME yaşamı hakkında doğal olarak iyimserdir. HIM 'i bundan vazgeçirmek zor.</NaturalMood.degreeDatas.1.description>
-	<NaturalMood.degreeDatas.2.label>pessimist</NaturalMood.degreeDatas.2.label>
-	<NaturalMood.degreeDatas.2.description>NAME tends to look on the bad side of life.</NaturalMood.degreeDatas.2.description>
-	<NaturalMood.degreeDatas.3.label>depressive</NaturalMood.degreeDatas.3.label>
-	<NaturalMood.degreeDatas.3.description>NAME is perenially unhappy. HECAP has trouble sustaining a good mood even when everything is fine.</NaturalMood.degreeDatas.3.description>
+	<NaturalMood.degreeDatas.1.description>NAME yaşamı hakkında yapısı itibariyle iyimserdir. HIM 'i bundan vazgeçirmek zor.</NaturalMood.degreeDatas.1.description>
+	<NaturalMood.degreeDatas.2.label>karamsar</NaturalMood.degreeDatas.2.label>
+	<NaturalMood.degreeDatas.2.description>NAME, hayata kötü tarafından bakma eğilimindedir.</NaturalMood.degreeDatas.2.description>
+	<NaturalMood.degreeDatas.3.label>depresif</NaturalMood.degreeDatas.3.label>
+	<NaturalMood.degreeDatas.3.description>NAME, her zaman mutsuzdur. HECAP, herşey yolunda gitse bile moralini yüksek tutması oldukça zordur.</NaturalMood.degreeDatas.3.description>
 
 	<Nerves.degreeDatas.0.label>demir iradeli</Nerves.degreeDatas.0.label>
 	<Nerves.degreeDatas.0.description>NAME'in iradesi adeta demirden kalkandır. Başkaları çoktan vazgeçse de HECAP hala direnmeye devam eder.</Nerves.degreeDatas.0.description>
 	<Nerves.degreeDatas.1.label>kararlı</Nerves.degreeDatas.1.label>
-	<Nerves.degreeDatas.1.description>NAME zihinsel olarak güçlüdür, çoğu kişinin baskılar altında ezildiği anlarda yıkılmadan durur.</Nerves.degreeDatas.1.description>
+	<Nerves.degreeDatas.1.description>NAME, zihinsel olarak güçlüdür, çoğu kişinin baskılar altında ezildiği anlarda yıkılmadan durur.</Nerves.degreeDatas.1.description>
 	<Nerves.degreeDatas.2.label>sinirli</Nerves.degreeDatas.2.label>
-	<Nerves.degreeDatas.2.description>NAME baskı altında kırılma eğilimindedir.</Nerves.degreeDatas.2.description>
+	<Nerves.degreeDatas.2.description>NAME, baskı altında kırılma eğilimindedir.</Nerves.degreeDatas.2.description>
 	<Nerves.degreeDatas.3.label>dönek</Nerves.degreeDatas.3.label>
-	<Nerves.degreeDatas.3.description>NAME her zaman diken üstünde gibidir. HECAP herhangi bir zor durumda ilk vazgeçenlerdendir.</Nerves.degreeDatas.3.description>
+	<Nerves.degreeDatas.3.description>NAME, her zaman diken üstünde gibidir. HECAP herhangi bir zor durumda ilk vazgeçenlerdendir.</Nerves.degreeDatas.3.description>
 
 	<Neurotic.degreeDatas.0.label>evhamlı</Neurotic.degreeDatas.0.label>
 	<Neurotic.degreeDatas.0.description>NAME herşeyin belli bir düzen içinde olmasını seviyor. HECAP bu durumu elde edebilmek için de çok çaba sarfetmek zorunda kalıyor, fakat HIS sinirleri HIM den daha iyi yönetebilirsiniz.</Neurotic.degreeDatas.0.description>
